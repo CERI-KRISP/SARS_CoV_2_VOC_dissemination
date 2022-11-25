@@ -1,26 +1,42 @@
 # Global Expansion of SARS-CoV-2 Variants of Concern: Dispersal Patterns and Influence of Air Travel
 
-Houriiyah Tegally<sup>1,2§</sup>, Eduan Wilkinson1§, Darren Martin3,4, Monika Moir1, Anderson Brito5, Marta Giovanetti6,7,8, Kamran Khan9,10, Carmen Huber9, Isaac I. Bogoch10, James Emmanuel San2, Joseph L.-H. Tsui14, Jenicca Poongavanan1, Joicymara S. Xavier1,11,17, Darlan da S. Candido12, Filipe Romero12, Cheryl Baxter1, Oliver G. Pybus14,15,18, Richard Lessells2, Nuno R. Faria12,13,14, Moritz U.G. Kraemer14,15*, Tulio de Oliveira1,2,16*
+Houriiyah Tegally<sup>1,2§</sup>, Eduan Wilkinson<sup>1§</sup>, Darren Martin<sup>3,4</sup>, Monika Moir<sup>1</sup>, Anderson Brito<sup>5</sup>, Marta Giovanetti<sup>6,7,8</sup>, Kamran Khan<sup>9,10</sup>, Carmen Huber<sup>9</sup>, Isaac I. Bogoch<sup>10</sup>, James Emmanuel San<sup>2</sup>, Joseph L.-H. Tsui<sup>14</sup>, Jenicca Poongavanan<sup>1</sup>, Joicymara S. Xavier<sup>1,11,17</sup>, Darlan da S. Candido<sup>12</sup>, Filipe Romero<sup>12</sup>, Cheryl Baxter<sup>1</sup>, Oliver G. Pybus<sup>14,15,18</sup>, Richard Lessells<sup>2</sup>, Nuno R. Faria<sup>12,13,14</sup>, Moritz U.G. Kraemer<sup>14,15*</sup>, Tulio de Oliveira<sup>1,2,16*</sup>
 
 Affiliations
 
 1Centre for Epidemic Response and Innovation (CERI), School of Data Science and Computational Thinking, Stellenbosch University, Stellenbosch, South Africa
+
 2KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R. Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa
+
 3Wellcome Centre for Infectious Diseases Research in Africa (CIDRI-Africa), Cape Town, South Africa
+
 4Institute of Infectious Disease and Molecular Medicine, University of Cape Town, Cape Town, South Africa
+
 5Instituto Todos pela Saúde, São Paulo, São Paulo, Brazil
+
 6Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil
+
 7Laboratório de Genética Celular e Molecular, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil
+
 8Department of Science and Technology for Humans and the Environment, University of  Campus Bio-Medico di Roma, Rome, Italy.
+
 9BlueDot, Toronto, Canada
+
 10Department of Medicine, Division of Infectious Diseases, University of Toronto, Toronto, Canada
+
 11Universidade Federal de Minas Gerais, Belo Horizonte, Brazil
+
 12MRC Centre for Global Infectious Disease Analysis and Department of Infectious Disease Epidemiology, Jameel Institute, School of Public Health, Imperial College London, London, UK
+
 13Departamento de Moléstias Infecciosas e Parasitárias e Instituto de Medicina Tropical da Faculdade de Medicina, Universidade de São Paulo, São Paulo, Brazil
 14Department of Biology, University of Oxford, Oxford, UK
+
 15Pandemic Sciences Institute, University of Oxford, Oxford, UK
+
 16Department of Global Health, University of Washington, Seattle, WA, USA
+
 17Institute of Agricultural Sciences, Universidade Federal dos Vales do Jequitinhonha e Mucuri, Unaí, Brazil
+
 18Department of Pathobiology and Population Sciences, Royal Veterinary College London, London, UK
 
 §These authors contributed equally
