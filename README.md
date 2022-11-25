@@ -1,4 +1,4 @@
-#Global Expansion of SARS-CoV-2 Variants of Concern: Dispersal Patterns and Influence of Air Travel
+# Global Expansion of SARS-CoV-2 Variants of Concern: Dispersal Patterns and Influence of Air Travel
 
 Houriiyah Tegally1,2§, Eduan Wilkinson1§, Darren Martin3,4, Monika Moir1, Anderson Brito5, Marta Giovanetti6,7,8, Kamran Khan9,10, Carmen Huber9, Isaac I. Bogoch10, James Emmanuel San2, Joseph L.-H. Tsui14, Jenicca Poongavanan1, Joicymara S. Xavier1,11,17, Darlan da S. Candido12, Filipe Romero12, Cheryl Baxter1, Oliver G. Pybus14,15,18, Richard Lessells2, Nuno R. Faria12,13,14, Moritz U.G. Kraemer14,15*, Tulio de Oliveira1,2,16*
 
@@ -27,11 +27,11 @@ Affiliations
 Correspondence: houriiyah.tegally@gmail.com, tulio@sun.ac.za  and moritz.kraemer@biology.ox.ac.uk 
 
 
-##Summary
+## Summary
 
 In many regions of the world, the Alpha, Beta and Gamma SARS-CoV-2 Variants of Concern (VOCs) co-circulated during 2020-21 and fueled waves of infections. During 2021, these variants were almost completely displaced by the Delta variant, causing a third wave of infections worldwide. This phenomenon of global viral lineage displacement was observed again in late 2021, when the Omicron variant disseminated globally. In this study, we use phylogenetic and phylogeographic methods to reconstruct the dispersal patterns of SARS-CoV-2 VOCs worldwide. We find that the source-sink dynamics of SARS-CoV-2 varied substantially by VOC, and identify countries that acted as global hubs of variant dissemination, while other countries became regional contributors to the export of specific variants. We demonstrate a declining role of presumed origin countries of VOCs to their global dispersal: we estimate that India contributed <15% of all global exports of Delta to other countries and South Africa <1-2% of all global Omicron exports globally. We further estimate that >80 countries had received introductions of Omicron BA.1 100 days after its inferred date of emergence, compared to just over 25 countries for the Alpha variant. This increased speed of global dissemination was associated with a rebound in air travel volume prior to Omicron emergence in addition to the higher transmissibility of Omicron relative to Alpha. Our study highlights the importance of global and regional hubs in VOC dispersal, and the speed at which highly transmissible variants disseminate through these hubs, even before their detection and characterization through genomic surveillance.
 
-##Notes on Data and Code:
+## Notes on Data and Code:
 1. The findings of this study are based on sequences and metadata associated with a total of XXX sequences available on GISAID up to November 19, 2022, via gisaid.org/EPI_SET_XXX. Custom data sources and scripts to reproduce the results of this study are publicly shared in this repository. The repository contains all of the time scaled ML tree topologies, annotated tree topologies as well as custom data analysis and visualization scripts. Other datasets and pipelines used in this study are openly available and described in the Materials and Methods section. 
 
 2. Sequences and Metadata associated with GISAID entries are not directly provided in this repository and should rather be downloaded directly from the GISAID database (gisaid.org)
