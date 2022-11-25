@@ -1,8 +1,9 @@
 # Global Expansion of SARS-CoV-2 Variants of Concern: Dispersal Patterns and Influence of Air Travel
 
-Houriiyah Tegally1,2§, Eduan Wilkinson1§, Darren Martin3,4, Monika Moir1, Anderson Brito5, Marta Giovanetti6,7,8, Kamran Khan9,10, Carmen Huber9, Isaac I. Bogoch10, James Emmanuel San2, Joseph L.-H. Tsui14, Jenicca Poongavanan1, Joicymara S. Xavier1,11,17, Darlan da S. Candido12, Filipe Romero12, Cheryl Baxter1, Oliver G. Pybus14,15,18, Richard Lessells2, Nuno R. Faria12,13,14, Moritz U.G. Kraemer14,15*, Tulio de Oliveira1,2,16*
+Houriiyah Tegally<sup>1,2§<\sup>, Eduan Wilkinson1§, Darren Martin3,4, Monika Moir1, Anderson Brito5, Marta Giovanetti6,7,8, Kamran Khan9,10, Carmen Huber9, Isaac I. Bogoch10, James Emmanuel San2, Joseph L.-H. Tsui14, Jenicca Poongavanan1, Joicymara S. Xavier1,11,17, Darlan da S. Candido12, Filipe Romero12, Cheryl Baxter1, Oliver G. Pybus14,15,18, Richard Lessells2, Nuno R. Faria12,13,14, Moritz U.G. Kraemer14,15*, Tulio de Oliveira1,2,16*
 
 Affiliations
+
 1Centre for Epidemic Response and Innovation (CERI), School of Data Science and Computational Thinking, Stellenbosch University, Stellenbosch, South Africa
 2KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R. Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa
 3Wellcome Centre for Infectious Diseases Research in Africa (CIDRI-Africa), Cape Town, South Africa
