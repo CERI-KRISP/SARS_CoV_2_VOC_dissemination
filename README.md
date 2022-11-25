@@ -58,6 +58,3 @@ In many regions of the world, the Alpha, Beta and Gamma SARS-CoV-2 Variants of C
 4. The intermediate files and tree annotation scripts are provided in the PhylogeneticReconstruction folder.
 
 5. Raw air passenger travel data is subject to licensing agreements and provided in the Data folder as aggregated data files instead (aggregated by time-period or location).
-
-
->>>>>>> 82cb3ef5659a1b6fb556562e23ba0d54b15a1443
