@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Global Expansion of SARS-CoV-2 Variants of Concern: Dispersal Patterns and Influence of Air Travel
 
 Houriiyah Tegally<sup>1,2§</sup>, Eduan Wilkinson<sup>1§</sup>, Darren Martin<sup>3,4</sup>, Monika Moir<sup>1</sup>, Anderson Brito<sup>5</sup>, Marta Giovanetti<sup>6,7,8</sup>, Kamran Khan<sup>9,10</sup>, Carmen Huber<sup>9</sup>, Isaac I. Bogoch<sup>10</sup>, James Emmanuel San<sup>2</sup>, Joseph L.-H. Tsui<sup>14</sup>, Jenicca Poongavanan<sup>1</sup>, Joicymara S. Xavier<sup>1,11,17</sup>, Darlan da S. Candido<sup>12</sup>, Filipe Romero<sup>12</sup>, Cheryl Baxter<sup>1</sup>, Oliver G. Pybus<sup>14,15,18</sup>, Richard Lessells<sup>2</sup>, Nuno R. Faria<sup>12,13,14</sup>, Moritz U.G. Kraemer<sup>14,15*</sup>, Tulio de Oliveira<sup>1,2,16*</sup>
