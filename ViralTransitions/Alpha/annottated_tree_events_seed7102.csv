@@ -1,0 +1,4791 @@
+EventTime	Origin	Destination
+2020.8005400000002	UNKNOWN	Italy
+2020.6032500000001	UNKNOWN	Italy
+2021.3397300000001	Italy	United Kingdom
+2021.2219200000002	Italy	Bulgaria
+2021.2055	Italy	Switzerland
+2020.6379000000002	Italy	United Kingdom
+2020.9644700000001	United Kingdom	Portugal
+2021.14246	United Kingdom	Italy
+2021.20547	United Kingdom	Italy
+2021.0977400000002	United Kingdom	Italy
+2021.0739600000002	United Kingdom	Austria
+2021.2219100000002	United Kingdom	Germany
+2021.25204	United Kingdom	Romania
+2020.97267	United Kingdom	Brazil
+2021.35616	United Kingdom	USA
+2021.27123	United Kingdom	Bahrain
+2020.9858800000002	United Kingdom	Sweden
+2021.30958	United Kingdom	Germany
+2021.2219100000002	United Kingdom	Brazil
+2021.1726	United Kingdom	Italy
+2021.0739600000002	United Kingdom	Brazil
+2020.98359	United Kingdom	Estonia
+2021.2629900000002	United Kingdom	Romania
+2021.0547800000002	United Kingdom	Germany
+2021.32876	Germany	France
+2021.15118	Germany	Japan
+2021.2219100000002	Japan	Russia
+2021.25752	Germany	France
+2021.1058	United Kingdom	Brazil
+2021.1412400000002	United Kingdom	Germany
+2021.3588900000002	Germany	Spain
+2021.1791200000002	United Kingdom	Lithuania
+2021.08023	United Kingdom	Poland
+2021.2164200000002	Poland	Germany
+2021.0573900000002	United Kingdom	Belgium
+2021.2054600000001	Belgium	France
+2021.35615	Belgium	Germany
+2021.3670900000002	Belgium	Bulgaria
+2020.9972500000001	United Kingdom	Portugal
+2021.26573	United Kingdom	India
+2020.92666	United Kingdom	Iraq
+2021.0767	Iraq	Jordan
+2021.16395	Iraq	Ireland
+2021.2658000000001	Iraq	Germany
+2021.16162	United Kingdom	Italy
+2021.1917600000002	United Kingdom	Poland
+2020.9674800000003	United Kingdom	Portugal
+2021.11218	Portugal	France
+2020.97431	United Kingdom	Portugal
+2021.14245	Portugal	Switzerland
+2021.2082100000002	Portugal	Switzerland
+2021.17533	United Kingdom	Portugal
+2020.9884100000002	United Kingdom	Portugal
+2021.0679900000002	Portugal	Brazil
+2021.20126	Portugal	France
+2021.0702600000002	Portugal	France
+2021.1534000000001	United Kingdom	Iraq
+2021.33697	United Kingdom	Netherlands
+2021.0729000000001	United Kingdom	Spain
+2021.0130000000001	United Kingdom	Poland
+2021.27671	Poland	Netherlands
+2021.3424400000001	Poland	United Kingdom
+2021.0164300000001	United Kingdom	Portugal
+2021.1571600000002	United Kingdom	Germany
+2021.1561500000003	United Kingdom	Switzerland
+2021.1336700000002	United Kingdom	Poland
+2021.3534100000002	Poland	Belgium
+2021.2821800000002	Poland	France
+2021.0356000000002	United Kingdom	Portugal
+2021.09039	Portugal	France
+2021.0850200000002	Portugal	France
+2021.3451900000002	France	Netherlands
+2021.11505	France	Portugal
+2021.1933900000001	France	Italy
+2021.2821700000002	Italy	France
+2021.27121	Italy	Switzerland
+2021.3123100000003	United Kingdom	France
+2021.0164200000002	United Kingdom	Brazil
+2021.18902	United Kingdom	Pakistan
+2021.3150500000002	United Kingdom	Pakistan
+2020.78556	United Kingdom	France
+2021.1451900000002	United Kingdom	Portugal
+2021.0876600000001	United Kingdom	Ireland
+2020.9672	United Kingdom	Portugal
+2021.21368	United Kingdom	Poland
+2021.2219000000002	United Kingdom	Italy
+2021.0219000000002	United Kingdom	Spain
+2021.24107	United Kingdom	Estonia
+2021.01915	United Kingdom	Belgium
+2021.09039	United Kingdom	France
+2021.2356000000002	United Kingdom	France
+2021.0104400000002	United Kingdom	Greece
+2021.2684800000002	United Kingdom	Morocco
+2021.12874	United Kingdom	USA
+2021.0986100000002	United Kingdom	Switzerland
+2021.01915	United Kingdom	Ireland
+2021.1214100000002	United Kingdom	Ukraine
+2021.3150400000002	Ukraine	Belgium
+2021.3095600000001	Ukraine	Estonia
+2021.29312	United Kingdom	Germany
+2021.4246300000002	United Kingdom	Netherlands
+2021.30408	United Kingdom	Japan
+2021.3534000000002	United Kingdom	USA
+2021.11031	United Kingdom	France
+2021.1205200000002	United Kingdom	Philippines
+2021.2958600000002	United Kingdom	Poland
+2021.2109300000002	United Kingdom	Bulgaria
+2021.34518	United Kingdom	Russia
+2021.22189	United Kingdom	Sweden
+2021.0801500000002	United Kingdom	Spain
+2021.1401400000002	United Kingdom	France
+2021.2054600000001	France	Bulgaria
+2021.35615	France	Bahrain
+2021.2054600000001	France	Ukraine
+2021.2629900000002	Ukraine	Germany
+2021.0451200000002	United Kingdom	Poland
+2021.0794300000002	Poland	United Kingdom
+2021.31778	Poland	Denmark
+2021.27942	Poland	Germany
+2021.0794300000002	United Kingdom	Spain
+2021.3725800000002	Spain	United Kingdom
+2021.2246400000001	United Kingdom	Spain
+2021.01366	United Kingdom	Spain
+2021.0906000000002	United Kingdom	Spain
+2021.08372	United Kingdom	Spain
+2021.0164100000002	United Kingdom	Brazil
+2021.0971000000002	United Kingdom	Brazil
+2021.2984900000001	United Kingdom	Brazil
+2021.2629800000002	United Kingdom	Brazil
+2021.3479300000001	United Kingdom	Spain
+2021.31284	United Kingdom	Spain
+2021.35067	United Kingdom	Spain
+2021.2437400000001	United Kingdom	Spain
+2020.7937900000002	United Kingdom	India
+2021.2547700000002	India	Bangladesh
+2020.8095600000001	United Kingdom	Sweden
+2021.2575000000002	Sweden	Belgium
+2021.11094	Sweden	Germany
+2021.1780500000002	Germany	Serbia
+2021.24654	Germany	Turkey
+2021.3342200000002	United Kingdom	France
+2021.3807900000002	United Kingdom	Sweden
+2021.30408	United Kingdom	France
+2021.22189	United Kingdom	France
+2021.3205200000002	United Kingdom	France
+2021.0634100000002	United Kingdom	Bangladesh
+2021.3424400000001	United Kingdom	Portugal
+2021.2151000000001	United Kingdom	France
+2021.23285	United Kingdom	France
+2021.24107	United Kingdom	France
+2021.11505	United Kingdom	France
+2021.0164100000002	United Kingdom	Brazil
+2021.1342200000001	United Kingdom	Philippines
+2021.07716	United Kingdom	France
+2020.8172000000002	United Kingdom	Israel
+2021.22737	Israel	USA
+2021.12913	Israel	Palestine
+2021.38353	Palestine	Poland
+2021.2355900000002	Israel	Germany
+2021.3260000000002	Israel	Netherlands
+2021.0663200000001	Israel	Poland
+2021.0739400000002	Poland	Israel
+2021.30408	Israel	Belgium
+2021.0474800000002	Israel	Poland
+2021.1150400000001	Poland	Israel
+2021.07669	Poland	Israel
+2021.4054500000002	Poland	Netherlands
+2021.25232	Poland	Netherlands
+2021.45477	Netherlands	Poland
+2021.30408	Poland	Germany
+2021.34518	Poland	Germany
+2021.3013400000002	Poland	Germany
+2021.19449	Poland	Israel
+2021.3588700000003	Israel	Croatia
+2021.1620100000002	Israel	Canada
+2021.1671000000001	Israel	USA
+2021.22737	Israel	USA
+2021.0986100000002	Israel	USA
+2021.13695	Israel	France
+2021.10174	Israel	Ukraine
+2021.1807900000001	Ukraine	Japan
+2021.0054300000002	Israel	United Kingdom
+2021.2246100000002	United Kingdom	France
+2021.08038	United Kingdom	USA
+2021.23557	USA	Argentina
+2021.1396800000002	USA	Canada
+2021.2711900000002	Israel	Palestine
+2021.1533600000002	Israel	Romania
+2021.17802	Israel	Netherlands
+2021.2876	Israel	United Kingdom
+2021.2985700000002	Israel	USA
+2021.0821600000002	Israel	Germany
+2021.2903800000001	Israel	USA
+2021.2958600000002	Israel	USA
+2021.00024	Israel	Netherlands
+2021.27943	Netherlands	Germany
+2021.0739500000002	Netherlands	Turkey
+2021.2986	Israel	Germany
+2021.3095500000002	Israel	USA
+2021.2711900000002	Israel	Belgium
+2021.3479100000002	Israel	Belgium
+2021.28409	Israel	Belgium
+2021.4081700000002	Israel	Belgium
+2021.2629700000002	Israel	Poland
+2021.1856900000002	Israel	Ukraine
+2021.26572	Israel	Argentina
+2021.37804	Israel	Belgium
+2021.4027	Israel	Italy
+2021.24105	Israel	Belgium
+2021.23927	Israel	Argentina
+2021.16983	Israel	Belgium
+2021.18901	Belgium	Argentina
+2021.2191500000001	Argentina	Israel
+2021.22737	Israel	Belgium
+2021.26573	Belgium	Argentina
+2021.2027200000002	United Kingdom	France
+2021.0492900000002	United Kingdom	Germany
+2020.9726500000002	United Kingdom	Italy
+2021.0027100000002	United Kingdom	Pakistan
+2020.9863200000002	United Kingdom	Estonia
+2021.0027100000002	United Kingdom	Pakistan
+2021.4328500000001	United Kingdom	Netherlands
+2020.88523	United Kingdom	USA
+2020.8732000000002	United Kingdom	USA
+2021.1177900000002	USA	Finland
+2021.22738	USA	India
+2021.23286	USA	Norway
+2021.2821800000002	Norway	Germany
+2020.9289400000002	United Kingdom	France
+2021.09039	United Kingdom	Indonesia
+2021.21367	United Kingdom	Sweden
+2021.1725800000002	United Kingdom	Poland
+2021.0684600000002	United Kingdom	Italy
+2021.0574900000001	United Kingdom	Romania
+2021.2712000000001	United Kingdom	USA
+2021.20818	United Kingdom	Pakistan
+2021.0272200000002	United Kingdom	Poland
+2021.01914	United Kingdom	Ireland
+2021.15065	United Kingdom	USA
+2021.0712	United Kingdom	France
+2021.2876400000002	United Kingdom	Poland
+2021.09587	United Kingdom	USA
+2020.8293	United Kingdom	Poland
+2020.8532300000002	Poland	Spain
+2020.99178	Spain	France
+2021.0113500000002	Spain	Poland
+2021.05752	Spain	Ireland
+2021.1342300000001	Spain	United Kingdom
+2021.01095	Spain	United Kingdom
+2021.0410900000002	Spain	United Kingdom
+2021.07122	United Kingdom	Israel
+2020.9441900000002	United Kingdom	Ireland
+2021.1671000000001	Ireland	Sweden
+2021.0547700000002	Ireland	Poland
+2021.0620600000002	Ireland	Estonia
+2021.2629900000002	Estonia	Sweden
+2021.1643600000002	Estonia	Norway
+2021.1945	United Kingdom	Germany
+2021.2629900000002	United Kingdom	France
+2021.0825800000002	United Kingdom	Estonia
+2020.99998	United Kingdom	France
+2021.2164100000002	United Kingdom	Poland
+2021.35614	United Kingdom	USA
+2021.1780600000002	United Kingdom	USA
+2021.00215	United Kingdom	Poland
+2021.2301200000002	Poland	United Kingdom
+2021.1999700000001	United Kingdom	USA
+2021.26572	United Kingdom	Oman
+2021.0054400000001	United Kingdom	USA
+2021.31777	United Kingdom	Romania
+2020.93271	United Kingdom	Romania
+2021.2712000000001	United Kingdom	Morocco
+2021.1533900000002	United Kingdom	Sweden
+2020.99177	United Kingdom	France
+2021.25996	United Kingdom	Sweden
+2021.38901	Sweden	Norway
+2021.2109300000002	United Kingdom	India
+2021.0301100000001	United Kingdom	Spain
+2020.9808500000001	United Kingdom	France
+2020.9808500000001	United Kingdom	Germany
+2021.2383200000002	United Kingdom	Oman
+2021.0083000000002	United Kingdom	Bulgaria
+2021.0246300000001	United Kingdom	Spain
+2021.1589500000002	United Kingdom	Spain
+2020.9943400000002	United Kingdom	Spain
+2021.3424300000001	Spain	Argentina
+2021.23558	Spain	Italy
+2021.03772	United Kingdom	Belgium
+2021.27214	Belgium	Spain
+2021.0766700000001	United Kingdom	Turkey
+2021.11777	United Kingdom	Japan
+2021.1068100000002	United Kingdom	Canada
+2020.97538	United Kingdom	Brazil
+2021.2109300000002	Brazil	United Kingdom
+2021.1205200000002	United Kingdom	USA
+2021.05203	United Kingdom	Sweden
+2021.2027100000003	United Kingdom	Poland
+2021.27394	United Kingdom	USA
+2020.9863100000002	United Kingdom	France
+2020.9559600000002	United Kingdom	Italy
+2021.0986	Italy	Russia
+2021.2054500000002	Italy	Germany
+2021.26024	Italy	Romania
+2021.02223	United Kingdom	Italy
+2021.0679400000001	United Kingdom	India
+2021.29312	India	USA
+2021.1835300000002	United Kingdom	Italy
+2021.1013400000002	United Kingdom	Ireland
+2021.0410600000002	United Kingdom	France
+2021.31778	United Kingdom	India
+2021.24654	United Kingdom	Poland
+2021.19449	United Kingdom	Poland
+2020.9660500000002	United Kingdom	Sweden
+2021.3890000000001	United Kingdom	Germany
+2021.1287300000001	United Kingdom	Portugal
+2021.15613	United Kingdom	Norway
+2021.01914	United Kingdom	Ireland
+2021.22188	United Kingdom	India
+2021.1670900000001	United Kingdom	Canada
+2021.03284	United Kingdom	Italy
+2021.1068200000002	United Kingdom	Germany
+2021.2986	Germany	Slovakia
+2021.1835400000002	Germany	Croatia
+2021.31778	United Kingdom	India
+2021.2575100000001	United Kingdom	France
+2021.17297	United Kingdom	France
+2021.3588800000002	United Kingdom	Poland
+2021.3424400000001	United Kingdom	Germany
+2021.1917500000002	United Kingdom	Romania
+2021.0273700000002	United Kingdom	Ireland
+2021.2821600000002	United Kingdom	India
+2021.04654	United Kingdom	Portugal
+2021.26572	United Kingdom	Poland
+2020.99997	United Kingdom	France
+2021.2849	United Kingdom	Poland
+2021.29859	United Kingdom	USA
+2021.3670900000002	United Kingdom	USA
+2021.3095500000002	United Kingdom	Spain
+2021.12326	United Kingdom	France
+2021.0916100000002	United Kingdom	USA
+2021.2629800000002	United Kingdom	Germany
+2021.16161	United Kingdom	Argentina
+2021.1643500000002	United Kingdom	USA
+2021.3205200000002	United Kingdom	India
+2021.1451700000002	United Kingdom	Poland
+2021.2766800000002	United Kingdom	Pakistan
+2021.1016800000002	United Kingdom	USA
+2021.1068200000002	USA	Germany
+2021.26573	USA	Norway
+2020.99898	United Kingdom	Ireland
+2021.12874	United Kingdom	Ireland
+2021.01915	United Kingdom	Ireland
+2020.96358	United Kingdom	Ireland
+2021.07121	Ireland	USA
+2021.1013400000002	Ireland	United Kingdom
+2021.1995100000001	United Kingdom	Norway
+2021.31778	United Kingdom	India
+2021.1670900000001	United Kingdom	France
+2021.2712000000001	United Kingdom	Poland
+2021.27331	United Kingdom	Italy
+2021.0876400000002	United Kingdom	USA
+2021.27394	United Kingdom	USA
+2020.9587800000002	United Kingdom	France
+2021.11472	France	Belgium
+2021.0083900000002	France	United Kingdom
+2021.1670900000001	United Kingdom	France
+2021.30408	France	Belgium
+2020.9839900000002	United Kingdom	Germany
+2021.00546	Germany	Italy
+2021.3095700000001	United Kingdom	India
+2020.9890500000001	United Kingdom	Ireland
+2021.2109400000002	United Kingdom	Germany
+2021.2027300000002	United Kingdom	Romania
+2020.99178	United Kingdom	Turkey
+2020.99997	United Kingdom	Turkey
+2021.2712000000001	United Kingdom	Turkey
+2021.03832	United Kingdom	Turkey
+2021.0438000000001	United Kingdom	USA
+2020.9793300000001	United Kingdom	Germany
+2021.1972300000002	Germany	Austria
+2021.3205100000002	Germany	Latvia
+2021.17531	United Kingdom	USA
+2021.2520200000001	United Kingdom	France
+2021.01367	United Kingdom	France
+2021.3205200000002	France	USA
+2021.0164100000002	United Kingdom	Portugal
+2021.0931200000002	Portugal	France
+2021.0246300000001	United Kingdom	Italy
+2021.0359300000002	United Kingdom	Italy
+2021.3013400000002	Italy	Oman
+2021.1606800000002	United Kingdom	USA
+2021.13695	United Kingdom	Romania
+2021.15613	United Kingdom	Ireland
+2021.1287300000001	United Kingdom	Ireland
+2021.31777	United Kingdom	India
+2021.31777	United Kingdom	India
+2021.1298600000002	United Kingdom	Romania
+2021.2492800000002	United Kingdom	Austria
+2021.1310600000002	United Kingdom	USA
+2021.22188	USA	Colombia
+2021.15065	United Kingdom	Poland
+2021.3232600000001	United Kingdom	Italy
+2021.31777	United Kingdom	France
+2021.31777	United Kingdom	India
+2021.1068100000002	United Kingdom	France
+2021.3479100000002	United Kingdom	Singapore
+2021.2246200000002	United Kingdom	USA
+2021.0774600000002	United Kingdom	USA
+2021.1350900000002	USA	Germany
+2020.9945100000002	United Kingdom	Ireland
+2021.1114400000001	United Kingdom	USA
+2021.2520200000001	USA	Germany
+2021.1588700000002	USA	United Kingdom
+2021.2575000000002	USA	Canada
+2021.2629700000002	USA	Poland
+2021.0301000000002	United Kingdom	Austria
+2021.1083500000002	United Kingdom	USA
+2021.37804	USA	Poland
+2021.1917400000002	USA	Norway
+2021.2136600000001	USA	India
+2021.27942	USA	Colombia
+2021.31777	USA	India
+2021.31778	USA	India
+2021.09731	United Kingdom	Poland
+2021.0356000000002	United Kingdom	Spain
+2020.9941500000002	United Kingdom	Romania
+2021.1643700000002	Romania	Slovenia
+2021.2027300000002	United Kingdom	Ireland
+2021.1862800000001	United Kingdom	Greece
+2021.25204	United Kingdom	Greece
+2021.1725900000001	United Kingdom	Bulgaria
+2020.7703700000002	United Kingdom	Italy
+2021.2821700000002	Italy	Austria
+2020.98278	Italy	United Kingdom
+2021.34518	United Kingdom	Romania
+2020.9843600000002	United Kingdom	Italy
+2021.1321100000002	Italy	Germany
+2021.11505	United Kingdom	Poland
+2020.9911900000002	United Kingdom	Turkey
+2021.0020100000002	United Kingdom	Turkey
+2021.3205200000002	United Kingdom	Italy
+2021.00546	United Kingdom	Sweden
+2021.00546	United Kingdom	Germany
+2021.0234600000001	United Kingdom	Bulgaria
+2021.0164100000002	United Kingdom	Portugal
+2021.22189	United Kingdom	Sweden
+2021.05203	United Kingdom	USA
+2021.24107	United Kingdom	Bulgaria
+2020.9860800000001	United Kingdom	Bulgaria
+2021.18902	United Kingdom	Bulgaria
+2021.0465500000003	United Kingdom	France
+2021.0986	United Kingdom	Italy
+2021.26025	United Kingdom	Poland
+2021.2082	United Kingdom	Poland
+2020.9808600000001	United Kingdom	USA
+2020.84425	United Kingdom	Sweden
+2021.03286	United Kingdom	France
+2020.9808600000001	United Kingdom	Portugal
+2021.3260100000002	United Kingdom	Sweden
+2021.09587	United Kingdom	Spain
+2021.01428	United Kingdom	France
+2021.1038	France	Switzerland
+2021.0655000000002	France	Belgium
+2021.0767	France	Germany
+2021.3424400000001	Germany	Switzerland
+2021.09587	Germany	Thailand
+2021.23286	Germany	Spain
+2021.5013600000002	Spain	Japan
+2021.2170600000002	Germany	Argentina
+2021.00547	United Kingdom	Sweden
+2021.0219100000002	United Kingdom	USA
+2021.1178000000002	USA	Austria
+2021.01917	United Kingdom	France
+2021.1506700000002	United Kingdom	Poland
+2020.97645	United Kingdom	Brazil
+2021.02464	Brazil	United Kingdom
+2020.89443	United Kingdom	Sweden
+2021.03835	Sweden	USA
+2020.9617400000002	Sweden	Portugal
+2020.9490600000001	Sweden	Ireland
+2021.0084800000002	Ireland	Sweden
+2021.2739600000002	Sweden	Poland
+2021.0657400000002	Sweden	Ireland
+2021.05752	Sweden	Ireland
+2021.4109500000002	Sweden	Austria
+2020.9070900000002	United Kingdom	India
+2021.09039	United Kingdom	Spain
+2021.11778	United Kingdom	Germany
+2021.0110700000002	United Kingdom	Poland
+2020.9699200000002	United Kingdom	Italy
+2021.17548	Italy	Poland
+2021.27943	United Kingdom	Germany
+2020.9070900000002	United Kingdom	India
+2021.1205300000001	India	Romania
+2020.9726600000001	United Kingdom	Germany
+2021.07669	United Kingdom	Romania
+2021.0656700000002	United Kingdom	Romania
+2020.9863200000002	United Kingdom	Italy
+2020.9726600000001	United Kingdom	Italy
+2020.9863200000002	United Kingdom	Italy
+2021.2876500000002	United Kingdom	Romania
+2021.0219000000002	United Kingdom	Iran
+2021.0739500000002	United Kingdom	Israel
+2020.98439	United Kingdom	France
+2021.1698400000002	United Kingdom	Spain
+2021.3479200000002	United Kingdom	Netherlands
+2021.0115	United Kingdom	Albania
+2021.3013500000002	Albania	Italy
+2021.1725800000002	Albania	Greece
+2021.1503300000002	Albania	Belgium
+2020.97267	United Kingdom	France
+2021.1369700000002	United Kingdom	Spain
+2021.0686300000002	United Kingdom	Pakistan
+2021.1369700000002	Pakistan	Spain
+2021.16711	Pakistan	Spain
+2021.23286	Pakistan	Japan
+2021.3178	Pakistan	Singapore
+2021.2821700000002	United Kingdom	Germany
+2021.06861	United Kingdom	USA
+2021.15146	USA	India
+2021.0218900000002	United Kingdom	Spain
+2021.1138500000002	United Kingdom	Poland
+2021.3397100000002	Poland	Germany
+2021.02951	United Kingdom	Greece
+2021.0109300000001	United Kingdom	Belgium
+2020.9781200000002	United Kingdom	Spain
+2020.9644700000001	United Kingdom	Netherlands
+2021.0355900000002	Netherlands	United Kingdom
+2021.2054600000001	Netherlands	Belgium
+2021.3397000000002	Netherlands	Germany
+2021.0269	United Kingdom	Bulgaria
+2021.04787	United Kingdom	Bulgaria
+2021.1342000000002	Bulgaria	Germany
+2021.1265	United Kingdom	Poland
+2021.0164100000002	United Kingdom	Hungary
+2021.2355900000002	United Kingdom	Bulgaria
+2021.1150400000001	United Kingdom	Belgium
+2021.2355900000002	United Kingdom	India
+2021.1534000000001	United Kingdom	Bulgaria
+2020.97421	United Kingdom	Bulgaria
+2021.2109300000002	Bulgaria	Germany
+2021.07942	Bulgaria	United Kingdom
+2021.2301100000002	Bulgaria	Germany
+2021.0164100000002	United Kingdom	Turkey
+2021.2109300000002	United Kingdom	Poland
+2021.27394	United Kingdom	Greece
+2021.0355800000002	United Kingdom	Bulgaria
+2021.0965600000002	United Kingdom	Bulgaria
+2021.2849	Bulgaria	United Kingdom
+2021.18901	Bulgaria	USA
+2021.0092000000002	United Kingdom	France
+2021.0040800000002	United Kingdom	Sweden
+2021.0629900000001	United Kingdom	Romania
+2021.1451800000002	United Kingdom	Germany
+2021.16711	United Kingdom	Romania
+2021.16711	United Kingdom	Romania
+2021.1370900000002	United Kingdom	Sweden
+2021.37534	Sweden	Denmark
+2021.2219000000002	United Kingdom	Italy
+2021.01249	United Kingdom	Turkey
+2021.0356000000002	United Kingdom	Turkey
+2020.98087	United Kingdom	Portugal
+2021.07933	United Kingdom	Germany
+2021.13424	United Kingdom	Romania
+2021.0324	United Kingdom	France
+2020.97755	United Kingdom	Chile
+2021.1917700000001	Chile	United Kingdom
+2021.24656	United Kingdom	Spain
+2021.1121200000002	United Kingdom	Romania
+2021.0492900000002	United Kingdom	Spain
+2021.0492900000002	United Kingdom	Romania
+2021.1835300000002	United Kingdom	Romania
+2020.98358	United Kingdom	Jordan
+2021.3123	United Kingdom	Brazil
+2021.25203	United Kingdom	France
+2020.9890500000001	United Kingdom	Russia
+2021.2766800000002	Russia	Germany
+2021.1780500000002	Russia	Germany
+2021.27942	United Kingdom	Spain
+2021.2438000000002	United Kingdom	Poland
+2021.3150400000002	United Kingdom	Indonesia
+2021.0218900000002	United Kingdom	Brazil
+2020.99989	United Kingdom	France
+2021.1013400000002	France	Spain
+2021.01674	France	Spain
+2021.0741400000002	Spain	France
+2021.2164000000002	France	Spain
+2021.1674200000002	France	Spain
+2020.9793300000001	United Kingdom	Poland
+2021.0164200000002	United Kingdom	Taiwan
+2021.2301300000001	United Kingdom	Romania
+2021.19178	United Kingdom	Italy
+2020.92953	United Kingdom	Italy
+2020.9781200000002	United Kingdom	Sweden
+2021.0355900000002	United Kingdom	Sweden
+2021.00546	United Kingdom	France
+2021.22189	United Kingdom	France
+2021.09038	United Kingdom	Poland
+2021.0424300000002	United Kingdom	Poland
+2021.22189	Poland	Germany
+2020.9945200000002	United Kingdom	Brazil
+2021.03041	United Kingdom	USA
+2021.03284	United Kingdom	Italy
+2020.99997	United Kingdom	France
+2021.1236600000002	United Kingdom	Italy
+2021.2164100000002	United Kingdom	Singapore
+2021.27121	United Kingdom	Romania
+2021.3397000000002	United Kingdom	Germany
+2021.2986	United Kingdom	France
+2020.9652700000001	United Kingdom	Italy
+2021.0246200000001	Italy	United Kingdom
+2021.0669	United Kingdom	Poland
+2021.1643500000002	United Kingdom	Portugal
+2021.12325	United Kingdom	Portugal
+2021.0246300000001	United Kingdom	France
+2021.2739500000002	United Kingdom	Norway
+2020.94144	United Kingdom	France
+2020.9945100000002	France	United Kingdom
+2021.0547700000002	United Kingdom	France
+2021.1862800000001	France	India
+2021.0921300000002	United Kingdom	Brazil
+2021.06573	United Kingdom	Portugal
+2020.97539	United Kingdom	Spain
+2021.2109400000002	United Kingdom	Italy
+2021.12875	United Kingdom	Ireland
+2021.24656	United Kingdom	Germany
+2021.4109400000002	Germany	Ireland
+2021.2410900000002	United Kingdom	Romania
+2020.9458100000002	United Kingdom	Poland
+2021.0739400000002	Poland	France
+2021.0958600000001	Poland	France
+2021.3588700000003	Poland	Germany
+2021.1670800000002	Poland	France
+2021.2273500000001	Poland	Belgium
+2021.0301100000001	United Kingdom	Ireland
+2021.2766900000001	United Kingdom	Netherlands
+2021.2739500000002	United Kingdom	Bulgaria
+2020.99998	United Kingdom	Ireland
+2021.1588800000002	United Kingdom	Bulgaria
+2020.9825400000002	United Kingdom	Ireland
+2021.0133300000002	United Kingdom	Poland
+2021.3479300000001	United Kingdom	Spain
+2021.15533	United Kingdom	Germany
+2020.9838300000001	United Kingdom	Latvia
+2021.0356000000002	United Kingdom	Austria
+2021.1529600000001	United Kingdom	Bulgaria
+2021.0467500000002	United Kingdom	France
+2021.22737	France	Switzerland
+2021.2027200000002	France	Switzerland
+2021.1205200000002	France	Switzerland
+2021.3424400000001	United Kingdom	Belgium
+2021.24107	United Kingdom	Romania
+2021.1835300000002	United Kingdom	Serbia
+2021.3095600000001	United Kingdom	Romania
+2021.3068200000002	United Kingdom	Germany
+2021.3944900000001	United Kingdom	Russia
+2021.42737	United Kingdom	Germany
+2021.26024	United Kingdom	Austria
+2020.9491500000001	United Kingdom	Spain
+2021.2437900000002	United Kingdom	India
+2021.0958500000002	United Kingdom	France
+2021.0218800000002	United Kingdom	Brazil
+2021.22188	United Kingdom	Italy
+2021.0700700000002	United Kingdom	Pakistan
+2021.0072000000002	United Kingdom	Finland
+2021.03466	Finland	Estonia
+2021.38353	Estonia	Finland
+2021.2109300000002	Estonia	Latvia
+2021.30409	Estonia	Sweden
+2021.22738	Estonia	Lithuania
+2021.26025	Estonia	Germany
+2021.1862800000001	Estonia	United Kingdom
+2021.2684600000002	United Kingdom	Sweden
+2021.00545	United Kingdom	France
+2020.96224	United Kingdom	Bulgaria
+2021.4191500000002	Bulgaria	Belgium
+2021.2095600000002	United Kingdom	Germany
+2021.05202	United Kingdom	Belgium
+2020.9732800000002	United Kingdom	Portugal
+2021.1451700000002	United Kingdom	Ireland
+2020.9670700000001	United Kingdom	Germany
+2021.0247200000001	Germany	France
+2021.0492800000002	United Kingdom	Ireland
+2020.96171	United Kingdom	India
+2020.96817	United Kingdom	Spain
+2021.00386	United Kingdom	Poland
+2020.97	United Kingdom	Spain
+2020.9781100000002	United Kingdom	Netherlands
+2021.29859	United Kingdom	Sweden
+2021.2766800000002	United Kingdom	Bangladesh
+2021.10145	United Kingdom	Poland
+2021.24654	Poland	Germany
+2021.2766800000002	United Kingdom	Ireland
+2021.13695	United Kingdom	Poland
+2020.9821100000001	United Kingdom	Bulgaria
+2021.18901	United Kingdom	Ireland
+2021.12949	United Kingdom	Sweden
+2021.2027	United Kingdom	Germany
+2021.1639200000002	United Kingdom	Germany
+2020.95853	United Kingdom	Brazil
+2020.95306	United Kingdom	Finland
+2021.1150100000002	Finland	Iraq
+2021.01365	United Kingdom	Sweden
+2021.3232400000002	United Kingdom	Spain
+2021.2005900000001	United Kingdom	France
+2021.09858	United Kingdom	Brazil
+2021.2629600000002	United Kingdom	Romania
+2020.97809	United Kingdom	India
+2020.9642500000002	United Kingdom	Portugal
+2021.0520000000001	Portugal	USA
+2021.0126400000001	Portugal	France
+2021.05166	France	India
+2021.2574800000002	India	Singapore
+2021.0596300000002	United Kingdom	France
+2020.99176	United Kingdom	Italy
+2021.1255600000002	Italy	France
+2021.20269	France	Croatia
+2021.1670700000002	France	Belgium
+2021.1342100000002	United Kingdom	Romania
+2020.99456	United Kingdom	France
+2021.0355800000002	France	USA
+2021.00332	United Kingdom	Germany
+2021.15081	Germany	Denmark
+2021.2027	Germany	Denmark
+2021.0492700000002	United Kingdom	Germany
+2020.9491100000002	United Kingdom	Germany
+2021.2054300000002	United Kingdom	India
+2021.1068100000002	United Kingdom	France
+2021.05482	United Kingdom	Poland
+2021.01914	United Kingdom	Italy
+2021.2629700000002	United Kingdom	Bulgaria
+2020.9808300000002	United Kingdom	India
+2021.12697	United Kingdom	Austria
+2021.26023	Austria	Denmark
+2021.05201	United Kingdom	India
+2021.1614000000002	India	Spain
+2021.01104	United Kingdom	Bulgaria
+2021.1670100000001	United Kingdom	Poland
+2021.0281000000002	United Kingdom	Bulgaria
+2021.3561200000001	Bulgaria	Germany
+2021.1150300000002	United Kingdom	Japan
+2020.99322	United Kingdom	France
+2021.32598	France	Switzerland
+2021.3479000000002	United Kingdom	Germany
+2021.0918000000001	United Kingdom	USA
+2021.07705	United Kingdom	Poland
+2021.2848900000001	Poland	Germany
+2021.3095500000002	Poland	France
+2021.0355700000002	United Kingdom	Spain
+2021.13694	United Kingdom	Spain
+2021.0151500000002	United Kingdom	Romania
+2021.01366	United Kingdom	France
+2021.24654	United Kingdom	Italy
+2021.0739300000002	United Kingdom	Spain
+2021.0437800000002	United Kingdom	Singapore
+2021.0960400000001	United Kingdom	Germany
+2021.1478900000002	Germany	Russia
+2021.1725500000002	United Kingdom	Romania
+2021.28761	United Kingdom	Belgium
+2021.0764600000002	United Kingdom	Switzerland
+2021.35885	Switzerland	Germany
+2021.25455	Switzerland	Canada
+2021.16433	United Kingdom	Germany
+2021.1095400000002	United Kingdom	Romania
+2020.97809	United Kingdom	Italy
+2021.0653000000002	United Kingdom	Slovakia
+2021.3095300000002	United Kingdom	Indonesia
+2021.1013200000002	United Kingdom	Germany
+2021.2273400000001	United Kingdom	Ireland
+2021.06975	United Kingdom	Ireland
+2021.18782	United Kingdom	France
+2021.3177500000002	United Kingdom	Netherlands
+2021.0903500000002	United Kingdom	France
+2021.1424100000002	United Kingdom	Netherlands
+2021.09858	United Kingdom	France
+2021.1237	United Kingdom	France
+2020.9917500000001	United Kingdom	Netherlands
+2021.1206100000002	United Kingdom	Netherlands
+2021.0383000000002	United Kingdom	Germany
+2020.97809	United Kingdom	Italy
+2021.06021	United Kingdom	Spain
+2020.9708	United Kingdom	Spain
+2021.0821300000002	United Kingdom	USA
+2021.10679	United Kingdom	Italy
+2021.1492200000002	United Kingdom	Poland
+2021.03599	United Kingdom	Ireland
+2021.13144	Ireland	Norway
+2021.28212	Ireland	India
+2021.25474	United Kingdom	France
+2021.0097200000002	United Kingdom	France
+2020.98267	United Kingdom	Poland
+2021.23008	Poland	Japan
+2021.02186	United Kingdom	USA
+2021.0014700000002	United Kingdom	Sweden
+2020.93837	United Kingdom	India
+2020.9999500000001	India	USA
+2021.1396700000003	India	Tunisia
+2021.1232400000001	India	Belgium
+2021.11228	India	Belgium
+2021.2054300000002	India	Germany
+2021.2054300000002	India	France
+2021.2657100000001	India	Peru
+2021.3068	India	Germany
+2021.3698100000001	India	Germany
+2021.3040500000002	India	USA
+2021.1358100000002	United Kingdom	Italy
+2021.3752800000002	United Kingdom	Pakistan
+2021.2136400000002	United Kingdom	Italy
+2021.0437700000002	United Kingdom	Belgium
+2021.0519900000002	United Kingdom	Italy
+2021.1180100000001	United Kingdom	Greece
+2021.1944600000002	United Kingdom	Belgium
+2021.2766500000002	United Kingdom	Pakistan
+2021.0286500000002	United Kingdom	Belgium
+2021.4739000000002	Belgium	Spain
+2021.3944500000002	United Kingdom	Italy
+2021.12381	United Kingdom	Germany
+2021.4246	United Kingdom	Belgium
+2020.98744	United Kingdom	Italy
+2021.0383000000002	Italy	United Kingdom
+2021.2109	United Kingdom	Pakistan
+2021.3095300000002	United Kingdom	Italy
+2021.1944600000002	United Kingdom	France
+2021.2280200000002	United Kingdom	Poland
+2021.2739100000001	United Kingdom	Italy
+2021.32049	United Kingdom	France
+2020.98629	United Kingdom	USA
+2021.3177500000002	United Kingdom	Switzerland
+2021.00269	United Kingdom	USA
+2021.0054200000002	United Kingdom	USA
+2021.00817	United Kingdom	USA
+2020.9808200000002	United Kingdom	Germany
+2021.0328200000001	United Kingdom	France
+2021.0805	United Kingdom	USA
+2020.99448	United Kingdom	USA
+2021.03556	United Kingdom	Mexico
+2021.0646800000002	United Kingdom	Colombia
+2021.18162	United Kingdom	Colombia
+2021.0876200000002	United Kingdom	France
+2020.9557300000001	United Kingdom	USA
+2021.0903600000001	USA	Singapore
+2021.24104	USA	Romania
+2021.0958400000002	USA	Switzerland
+2021.27392	Switzerland	France
+2021.0235100000002	USA	United Kingdom
+2021.24104	United Kingdom	Denmark
+2021.3944700000002	United Kingdom	France
+2021.3232300000002	United Kingdom	Netherlands
+2021.05121	United Kingdom	Poland
+2021.16432	Poland	Sweden
+2021.3095200000002	Poland	Slovakia
+2021.1369200000001	Poland	Sweden
+2021.0931	USA	France
+2021.02187	USA	France
+2021.0766600000002	France	USA
+2021.3999500000002	France	USA
+2021.3999500000002	France	Belgium
+2021.0144300000002	USA	United Kingdom
+2021.3068	United Kingdom	Germany
+2021.3232400000002	United Kingdom	Belgium
+2021.1342800000002	United Kingdom	Poland
+2021.0492600000002	United Kingdom	USA
+2021.1400300000003	United Kingdom	Netherlands
+2021.29311	Netherlands	Belgium
+2021.24926	United Kingdom	Italy
+2021.2437800000002	United Kingdom	France
+2021.32599	United Kingdom	Cambodia
+2021.1670800000002	United Kingdom	Croatia
+2021.29859	United Kingdom	Switzerland
+2021.26845	United Kingdom	Turkey
+2021.13146	United Kingdom	Sweden
+2021.25475	Sweden	Finland
+2021.0320900000002	United Kingdom	France
+2021.26844	United Kingdom	Germany
+2021.3752900000002	United Kingdom	Denmark
+2021.22186	United Kingdom	Netherlands
+2021.28213	United Kingdom	Germany
+2021.13145	United Kingdom	Jordan
+2021.2602200000001	United Kingdom	Spain
+2021.0663800000002	United Kingdom	India
+2021.42461	India	Kuwait
+2021.2437800000002	India	Ghana
+2021.1341800000002	United Kingdom	USA
+2021.28213	United Kingdom	Sweden
+2021.02186	United Kingdom	Brazil
+2021.0711700000002	United Kingdom	France
+2020.9753500000002	United Kingdom	Portugal
+2021.21089	United Kingdom	Poland
+2021.2848600000002	United Kingdom	Poland
+2021.02185	United Kingdom	USA
+2021.0331700000002	United Kingdom	France
+2021.3971900000001	United Kingdom	France
+2021.1944500000002	United Kingdom	Spain
+2021.12111	United Kingdom	Italy
+2021.28761	United Kingdom	Austria
+2021.2602100000001	United Kingdom	Poland
+2021.3040500000002	United Kingdom	USA
+2021.2640400000003	United Kingdom	Spain
+2021.10822	United Kingdom	Latvia
+2021.0246000000002	United Kingdom	Sweden
+2021.3752800000002	United Kingdom	Germany
+2021.2035	United Kingdom	Germany
+2021.3643200000001	Germany	Spain
+2021.1325700000002	United Kingdom	Belgium
+2021.02185	United Kingdom	Morocco
+2021.0437600000002	United Kingdom	Spain
+2021.1072900000001	United Kingdom	Kenya
+2021.0690800000002	United Kingdom	Germany
+2021.24924	Germany	USA
+2021.1752800000002	Germany	Greece
+2021.1047700000001	Germany	Switzerland
+2021.32597	Switzerland	Germany
+2021.00267	United Kingdom	Ireland
+2021.2026700000001	United Kingdom	France
+2021.0382900000002	United Kingdom	Spain
+2021.0328000000002	United Kingdom	Ireland
+2021.0273300000001	United Kingdom	Ireland
+2021.1889800000001	United Kingdom	France
+2021.02214	United Kingdom	France
+2021.4246	France	Bulgaria
+2021.0136300000001	United Kingdom	USA
+2021.10678	USA	Portugal
+2021.0300700000003	United Kingdom	Ireland
+2021.0108900000002	United Kingdom	USA
+2021.0108900000002	United Kingdom	Turkey
+2021.04103	United Kingdom	Brazil
+2021.0574700000002	United Kingdom	Ireland
+2021.0574700000002	United Kingdom	Brazil
+2021.2903500000002	United Kingdom	Germany
+2021.2628700000002	United Kingdom	Romania
+2021.17254	United Kingdom	Romania
+2021.05877	United Kingdom	Spain
+2021.1862400000002	United Kingdom	Germany
+2021.3177400000002	United Kingdom	Romania
+2021.23007	United Kingdom	Spain
+2021.26294	United Kingdom	Sweden
+2021.2793800000002	United Kingdom	Colombia
+2021.28212	United Kingdom	France
+2021.0240400000002	United Kingdom	France
+2021.24089	United Kingdom	France
+2021.2109	United Kingdom	Italy
+2021.00269	United Kingdom	Portugal
+2021.1478900000002	Portugal	France
+2021.0876200000002	Portugal	France
+2021.11776	Portugal	Netherlands
+2021.2273500000001	Portugal	Belgium
+2021.1974100000002	Portugal	Germany
+2021.1440400000001	Portugal	France
+2020.99348	United Kingdom	France
+2021.16982	United Kingdom	Germany
+2021.0876300000002	United Kingdom	Ireland
+2021.14624	United Kingdom	Austria
+2021.3205	United Kingdom	Poland
+2021.0816200000002	United Kingdom	Germany
+2021.1528500000002	Germany	Poland
+2021.34516	Poland	Germany
+2021.1341900000002	United Kingdom	Cameroon
+2021.1831700000002	United Kingdom	Brazil
+2021.13334	United Kingdom	Sweden
+2021.2273400000001	United Kingdom	Belgium
+2021.2495500000002	United Kingdom	Russia
+2021.23008	United Kingdom	France
+2021.2985700000002	United Kingdom	Belgium
+2021.30679	United Kingdom	Germany
+2021.03402	United Kingdom	Spain
+2021.1561000000002	United Kingdom	Spain
+2021.1632200000001	United Kingdom	Norway
+2021.0191100000002	United Kingdom	Sweden
+2021.0300700000003	United Kingdom	Spain
+2021.0906800000002	Spain	Belgium
+2021.0460500000002	United Kingdom	Belgium
+2021.3040500000002	Belgium	Luxembourg
+2021.1615900000002	United Kingdom	Netherlands
+2021.3670700000002	United Kingdom	Bahrain
+2021.2109	United Kingdom	Italy
+2020.9890200000002	United Kingdom	Pakistan
+2021.0191200000002	United Kingdom	Spain
+2021.43008	Spain	Netherlands
+2021.2465200000001	United Kingdom	Poland
+2021.0821300000002	United Kingdom	Poland
+2021.2660400000002	Poland	Netherlands
+2021.0934900000002	United Kingdom	Brazil
+2021.05789	United Kingdom	Poland
+2021.36434	Poland	Latvia
+2021.2246000000002	United Kingdom	Russia
+2021.0652000000002	United Kingdom	Iran
+2021.03339	United Kingdom	Russia
+2020.9962100000002	United Kingdom	Lithuania
+2021.0711800000001	United Kingdom	Greece
+2021.2130700000002	United Kingdom	Italy
+2021.1026000000002	United Kingdom	Norway
+2021.0629500000002	United Kingdom	Italy
+2021.08428	United Kingdom	USA
+2021.09309	United Kingdom	Sweden
+2020.9890100000002	United Kingdom	India
+2020.9917400000002	United Kingdom	Malaysia
+2021.3095200000002	United Kingdom	Norway
+2021.18866	United Kingdom	Norway
+2021.3287000000003	United Kingdom	Poland
+2021.1862300000003	United Kingdom	Norway
+2021.19171	United Kingdom	Poland
+2021.1150000000002	United Kingdom	Turkey
+2021.1369200000001	Turkey	Norway
+2021.14514	Norway	Poland
+2021.2656900000002	Poland	Germany
+2021.17449	United Kingdom	Switzerland
+2021.1040500000001	United Kingdom	Iran
+2021.2656900000002	United Kingdom	Norway
+2021.28761	United Kingdom	India
+2021.1190500000002	United Kingdom	USA
+2021.0359600000002	United Kingdom	USA
+2021.37805	United Kingdom	Italy
+2020.86894	United Kingdom	Spain
+2021.1387700000002	United Kingdom	Romania
+2020.9869	United Kingdom	Turkey
+2021.2082	Turkey	Germany
+2021.1588800000002	United Kingdom	Italy
+2020.9945100000002	United Kingdom	Turkey
+2021.1945	United Kingdom	Pakistan
+2021.2246300000002	United Kingdom	USA
+2021.0492900000002	United Kingdom	India
+2021.19998	United Kingdom	Greece
+2021.05186	United Kingdom	Poland
+2021.2054600000001	United Kingdom	Romania
+2021.24656	United Kingdom	India
+2021.0301100000001	United Kingdom	Turkey
+2020.9781200000002	United Kingdom	France
+2021.0203800000002	United Kingdom	Spain
+2021.00329	United Kingdom	Romania
+2021.33696	Romania	Germany
+2021.3012800000001	Romania	Germany
+2021.3588700000003	Germany	Austria
+2021.29312	Romania	Sweden
+2021.1534100000001	United Kingdom	Sweden
+2021.0684800000001	United Kingdom	France
+2021.0076900000001	United Kingdom	Ireland
+2020.9359100000001	United Kingdom	Sweden
+2021.1314900000002	Sweden	Switzerland
+2021.10641	United Kingdom	USA
+2021.28491	United Kingdom	USA
+2020.9808600000001	United Kingdom	Italy
+2021.0876600000001	United Kingdom	USA
+2021.01331	United Kingdom	USA
+2020.9699300000002	United Kingdom	Jordan
+2021.38903	United Kingdom	Sweden
+2021.08526	United Kingdom	Romania
+2021.3397000000002	Romania	Germany
+2021.2575100000001	United Kingdom	Philippines
+2020.9808500000001	United Kingdom	Germany
+2020.97539	United Kingdom	India
+2021.42737	United Kingdom	Germany
+2021.1628300000002	United Kingdom	Netherlands
+2021.07669	United Kingdom	Spain
+2020.9863200000002	United Kingdom	Spain
+2021.02347	United Kingdom	Romania
+2021.0510000000002	Romania	Spain
+2021.0342200000002	United Kingdom	Portugal
+2021.0876600000001	Portugal	Switzerland
+2021.2027200000002	United Kingdom	France
+2021.0944900000002	United Kingdom	Italy
+2021.14792	United Kingdom	Romania
+2021.09427	United Kingdom	France
+2021.11505	United Kingdom	Italy
+2021.0321600000002	United Kingdom	France
+2021.29862	France	Belgium
+2021.3451900000002	United Kingdom	Germany
+2021.30958	United Kingdom	Sweden
+2021.0904	United Kingdom	Germany
+2020.98087	United Kingdom	India
+2020.99726	United Kingdom	India
+2021.14731	United Kingdom	Italy
+2021.2602600000002	Italy	USA
+2021.0363200000002	United Kingdom	Germany
+2021.1780700000002	Germany	Italy
+2021.1148600000001	Germany	United Kingdom
+2021.2766900000001	United Kingdom	Pakistan
+2021.2493000000002	United Kingdom	Japan
+2021.3205300000002	United Kingdom	Spain
+2021.1917600000002	Germany	Switzerland
+2021.27122	Germany	Norway
+2021.30409	Germany	Switzerland
+2021.22738	United Kingdom	Oman
+2021.1260100000002	United Kingdom	Bulgaria
+2021.05753	United Kingdom	Brazil
+2021.30409	Brazil	USA
+2021.1643600000002	United Kingdom	Italy
+2021.2054500000002	United Kingdom	Morocco
+2020.9699200000002	United Kingdom	Jordan
+2021.0218900000002	United Kingdom	Italy
+2021.01915	United Kingdom	Italy
+2020.9644600000001	United Kingdom	Italy
+2021.0166000000002	United Kingdom	Italy
+2020.9644600000001	United Kingdom	Portugal
+2021.0175900000002	United Kingdom	USA
+2021.0739500000002	USA	United Kingdom
+2020.9890500000001	United Kingdom	Spain
+2021.01915	United Kingdom	USA
+2020.99178	United Kingdom	Portugal
+2020.9692100000002	United Kingdom	Spain
+2021.10956	Spain	Italy
+2021.0410700000002	United Kingdom	Spain
+2021.2739500000002	United Kingdom	Latvia
+2020.9731000000002	United Kingdom	Spain
+2021.3205300000002	Spain	Latvia
+2021.0739500000002	Spain	United Kingdom
+2021.0781000000002	United Kingdom	Poland
+2020.9658200000001	United Kingdom	France
+2021.42737	France	Germany
+2021.33696	France	Belgium
+2020.9162800000001	United Kingdom	Turkey
+2021.0136800000002	Turkey	Spain
+2021.0602500000002	Turkey	Spain
+2021.2876500000002	United Kingdom	Sweden
+2021.31779	United Kingdom	France
+2021.0296400000002	United Kingdom	France
+2021.0794300000002	United Kingdom	Romania
+2021.0931300000002	United Kingdom	France
+2020.9945200000002	United Kingdom	Italy
+2020.88093	United Kingdom	Italy
+2020.9699300000002	Italy	United Kingdom
+2021.07122	Italy	Turkey
+2021.03834	Italy	Spain
+2021.03834	Italy	United Kingdom
+2020.99179	Italy	United Kingdom
+2021.1917700000001	Italy	France
+2021.05751	Italy	United Kingdom
+2021.12327	Italy	Spain
+2021.31779	Italy	Poland
+2021.0082000000002	Italy	United Kingdom
+2021.16162	United Kingdom	Jordan
+2021.0841500000001	United Kingdom	Jordan
+2021.1123200000002	Jordan	Germany
+2021.0219000000002	Italy	France
+2021.17531	Italy	Germany
+2020.9617200000002	Italy	United Kingdom
+2020.9871	United Kingdom	Italy
+2020.9972300000002	Italy	United Kingdom
+2020.99997	Italy	United Kingdom
+2021.0602500000002	Italy	Turkey
+2021.2402100000002	Italy	Spain
+2021.2795	Spain	Ireland
+2021.1554400000002	Italy	Spain
+2021.2629700000002	Italy	Austria
+2021.26845	Italy	Spain
+2021.3040700000001	Italy	France
+2021.2301000000002	Italy	Spain
+2021.4383200000002	Italy	Spain
+2020.8752200000001	United Kingdom	USA
+2021.1698400000002	USA	Russia
+2021.1808	USA	Russia
+2021.2301100000002	USA	Mexico
+2021.0492900000002	USA	Russia
+2021.2492900000002	USA	Colombia
+2021.3643700000002	USA	Mexico
+2021.12316	USA	Argentina
+2021.13939	USA	Argentina
+2021.2246400000001	USA	Russia
+2021.21369	USA	Russia
+2021.3561300000001	USA	Ecuador
+2021.0986	USA	Canada
+2021.2191400000002	USA	Canada
+2021.24106	USA	Argentina
+2020.98358	United Kingdom	India
+2020.8058500000002	United Kingdom	Sweden
+2020.94259	Sweden	United Kingdom
+2021.3013300000002	Sweden	USA
+2021.0474900000002	United Kingdom	France
+2021.1970500000002	United Kingdom	Romania
+2021.00546	United Kingdom	Israel
+2021.16325	United Kingdom	USA
+2021.24656	USA	Argentina
+2021.1162100000001	United Kingdom	Italy
+2021.0355900000002	United Kingdom	Romania
+2021.1013500000001	United Kingdom	India
+2021.0355800000002	United Kingdom	Romania
+2021.06931	United Kingdom	India
+2021.0516900000002	United Kingdom	Romania
+2021.1862800000001	United Kingdom	Romania
+2021.1056400000002	United Kingdom	Romania
+2021.14036	United Kingdom	India
+2021.2629800000002	India	Romania
+2021.2123900000001	India	Spain
+2020.9793100000002	United Kingdom	France
+2021.2383300000001	France	United Kingdom
+2021.4575100000002	France	Italy
+2021.1643800000002	France	Italy
+2021.21594	France	Italy
+2021.3013600000002	France	Switzerland
+2021.32876	France	Switzerland
+2021.11505	United Kingdom	Iraq
+2020.8317700000002	United Kingdom	Sweden
+2020.9781300000002	United Kingdom	Belgium
+2021.0739600000002	United Kingdom	Netherlands
+2021.11075	United Kingdom	France
+2021.21917	United Kingdom	Bahrain
+2021.17809	United Kingdom	India
+2021.2438300000001	India	Ghana
+2021.25753	United Kingdom	Oman
+2021.2684800000002	United Kingdom	France
+2021.1476000000002	United Kingdom	India
+2021.2958800000001	India	Singapore
+2021.3013600000002	India	Singapore
+2021.2410900000002	United Kingdom	India
+2021.2324600000002	United Kingdom	Sweden
+2021.0739400000002	United Kingdom	France
+2021.2410900000002	France	Japan
+2021.16164	France	Switzerland
+2021.15342	United Kingdom	Sweden
+2021.0832100000002	United Kingdom	Philippines
+2021.3315000000002	Philippines	India
+2021.3709500000002	Philippines	Japan
+2021.1726	United Kingdom	Italy
+2021.2027400000002	United Kingdom	Sweden
+2021.43287	Sweden	Denmark
+2021.22465	United Kingdom	India
+2021.04383	United Kingdom	Belgium
+2021.2438300000001	Belgium	France
+2021.2301300000001	United Kingdom	Switzerland
+2021.08218	United Kingdom	Belgium
+2021.0255800000002	United Kingdom	France
+2021.1178000000002	France	Singapore
+2021.0356100000001	France	Singapore
+2021.1490900000001	France	India
+2021.1898400000002	India	Germany
+2021.2465700000002	Germany	Belgium
+2021.4383500000001	India	USA
+2021.0614500000001	France	Russia
+2021.1036000000001	Russia	France
+2021.3369900000002	France	India
+2020.9056400000002	United Kingdom	Philippines
+2021.33149	Philippines	Japan
+2021.4629900000002	Philippines	Japan
+2021.47396	Philippines	Japan
+2021.2684800000002	Philippines	Greece
+2021.4109400000002	Philippines	Japan
+2021.2767000000001	Philippines	Singapore
+2021.2821800000002	Philippines	Japan
+2021.36163	Philippines	Singapore
+2021.4191700000001	Philippines	Japan
+2021.3068400000002	Philippines	Japan
+2021.3178	Philippines	Japan
+2021.32329	Philippines	Japan
+2021.3342400000001	Philippines	Japan
+2021.4876600000002	Philippines	Japan
+2021.28493	Philippines	Japan
+2021.3780800000002	Philippines	Italy
+2021.3068400000002	Philippines	Singapore
+2021.2794400000002	Philippines	Taiwan
+2021.4191600000001	Philippines	Japan
+2021.4328600000001	Philippines	Singapore
+2021.3972400000002	Philippines	Japan
+2021.0242700000001	Philippines	India
+2021.2821800000002	India	Finland
+2021.0356000000002	India	Singapore
+2021.1300600000002	India	Cambodia
+2021.4356000000002	Cambodia	Japan
+2021.30402	Cambodia	Thailand
+2021.4438100000002	Thailand	Belgium
+2021.15235	Cambodia	Thailand
+2021.2826300000002	Thailand	Cambodia
+2021.3483600000002	Cambodia	Thailand
+2021.3862800000002	Thailand	Cambodia
+2021.38081	Thailand	Cambodia
+2021.3287500000001	Thailand	Japan
+2021.2054500000002	United Kingdom	Estonia
+2021.0684700000002	United Kingdom	USA
+2021.25204	United Kingdom	Chile
+2021.22321	United Kingdom	India
+2021.3397100000002	India	USA
+2021.1451900000002	United Kingdom	Israel
+2020.90137	United Kingdom	Kazakhstan
+2021.1972500000002	United Kingdom	Kazakhstan
+2021.33698	United Kingdom	Germany
+2021.2657500000003	United Kingdom	France
+2021.4309400000002	United Kingdom	Mexico
+2021.4301300000002	United Kingdom	Portugal
+2020.9886600000002	United Kingdom	Israel
+2021.0082200000002	United Kingdom	Jordan
+2021.25206	Jordan	France
+2021.00485	United Kingdom	India
+2021.34794	India	Singapore
+2021.32328	India	Singapore
+2021.2876600000002	India	Singapore
+2021.3260200000002	United Kingdom	France
+2021.2876700000002	United Kingdom	India
+2021.1639200000002	United Kingdom	Slovakia
+2021.1424700000002	United Kingdom	Iraq
+2021.3698700000002	United Kingdom	Germany
+2021.2602800000002	United Kingdom	Philippines
+2021.1032500000001	United Kingdom	France
+2021.33425	United Kingdom	India
+2020.99537	United Kingdom	Jordan
+2021.20781	Jordan	Bahrain
+2021.1561700000002	Jordan	Chile
+2021.2657500000003	Jordan	Poland
+2021.16712	United Kingdom	Italy
+2021.0712300000002	United Kingdom	USA
+2021.2986300000002	United Kingdom	India
+2021.2438300000001	United Kingdom	Germany
+2021.42739	United Kingdom	Kuwait
+2021.2794600000002	United Kingdom	Slovenia
+2021.1123300000002	United Kingdom	Brazil
+2021.1178100000002	United Kingdom	India
+2021.23549	United Kingdom	Germany
+2021.2274000000002	United Kingdom	Germany
+2021.1598900000001	United Kingdom	Finland
+2021.29042	United Kingdom	Slovenia
+2021.0816200000002	United Kingdom	France
+2021.2602800000002	France	Switzerland
+2021.04384	United Kingdom	Philippines
+2021.1221200000002	Philippines	Kazakhstan
+2021.30411	Kazakhstan	France
+2021.1945200000002	Kazakhstan	Philippines
+2021.3315100000002	Kazakhstan	Germany
+2021.2822	United Kingdom	France
+2021.1502300000002	United Kingdom	India
+2021.06291	United Kingdom	Spain
+2021.0865500000002	Spain	France
+2021.13426	France	Romania
+2021.2328900000002	France	Italy
+2021.14677	France	Spain
+2021.03708	United Kingdom	Germany
+2021.2411000000002	Germany	Romania
+2021.08102	Germany	Italy
+2021.1257400000002	Germany	Spain
+2021.3452100000002	Germany	Spain
+2021.2137000000002	Germany	Spain
+2021.1452100000001	Germany	Romania
+2021.2411000000002	Germany	USA
+2021.2411000000002	Germany	Romania
+2021.1292	Germany	Switzerland
+2021.1449200000002	Germany	France
+2021.3178200000002	Germany	Italy
+2021.1494200000002	Germany	India
+2021.08768	Germany	France
+2021.3068600000001	Germany	India
+2021.2465900000002	Germany	India
+2021.3753500000003	Germany	France
+2021.2986400000002	Germany	Italy
+2021.0510800000002	United Kingdom	India
+2021.31509	India	Singapore
+2021.1561900000002	India	Canada
+2021.18359	Canada	USA
+2021.3096200000002	Canada	India
+2021.2170500000002	India	Spain
+2021.32878	Spain	India
+2021.30138	India	Oman
+2021.0904200000002	India	Canada
+2020.87768	United Kingdom	France
+2021.29041	France	Japan
+2021.33425	France	Pakistan
+2021.2739800000002	France	India
+2021.0657600000002	France	Malaysia
+2020.9841700000002	France	Germany
+2021.2739800000002	Germany	Pakistan
+2021.1095900000003	Germany	Georgia
+2021.07671	Germany	Indonesia
+2021.3589000000002	Germany	France
+2021.16712	Germany	India
+2021.0685	France	United Kingdom
+2021.32778	France	Spain
+2021.3178	France	Germany
+2021.30411	France	Poland
+2021.03896	France	Germany
+2021.24565	France	Germany
+2021.30959	France	Germany
+2021.2274000000002	France	Bulgaria
+2021.03607	France	Romania
+2021.1178100000002	Romania	Georgia
+2021.2027	Romania	Netherlands
+2021.1452100000001	Romania	Belgium
+2021.38083	Romania	Germany
+2021.3178100000002	France	Italy
+2021.0410900000002	France	Sweden
+2021.30958	France	Mexico
+2021.23287	France	Switzerland
+2021.3178100000002	France	Spain
+2021.3315000000002	France	Belgium
+2021.10686	France	Russia
+2021.23016	France	Belgium
+2021.4164500000002	France	Spain
+2021.33426	France	Russia
+2021.1068400000001	France	Switzerland
+2021.1506800000002	France	Italy
+2021.3041	France	Germany
+2021.25753	France	Iran
+2021.0452500000001	France	USA
+2021.2465700000002	USA	Germany
+2021.3726000000001	USA	Canada
+2021.29862	France	Lebanon
+2020.99727	France	Lebanon
+2021.3013600000002	France	Germany
+2020.98513	France	Poland
+2021.1411600000001	Poland	Germany
+2021.2630100000001	France	Singapore
+2021.0126500000001	France	Russia
+2020.989	France	USA
+2021.1300800000001	USA	Germany
+2021.2684900000002	Germany	Netherlands
+2021.10136	France	Germany
+2021.0659	France	USA
+2021.4027300000002	USA	Brazil
+2021.2766900000001	France	Spain
+2021.1835500000002	France	USA
+2020.97485	France	USA
+2021.2273900000002	USA	Colombia
+2021.0410200000001	France	Ukraine
+2021.28492	Ukraine	Slovakia
+2020.9906	France	USA
+2021.3835500000002	USA	Canada
+2021.18629	France	Germany
+2021.40821	Germany	Russia
+2021.0553800000002	France	Russia
+2021.01095	France	Lebanon
+2021.41369	Lebanon	Belgium
+2021.2109400000002	France	Spain
+2021.1260100000002	France	Germany
+2021.1862800000001	France	Spain
+2021.41368	France	Spain
+2021.23287	France	Sweden
+2021.0867	France	Denmark
+2021.1260200000002	France	Jordan
+2021.2273900000002	France	Ghana
+2021.1643800000002	France	Russia
+2021.20547	France	Ghana
+2021.2547800000002	France	Jordan
+2021.33697	France	Germany
+2021.2219000000002	France	Netherlands
+2021.1018800000002	France	Denmark
+2021.2246400000001	France	Bangladesh
+2021.1178000000002	France	Italy
+2021.32328	France	Spain
+2021.0766600000002	France	USA
+2021.1534100000001	France	Sweden
+2021.3643700000002	France	Germany
+2021.3178	France	India
+2021.0602700000002	France	Turkey
+2021.1588900000002	France	Jordan
+2021.29862	France	Lebanon
+2021.1315000000002	France	Canada
+2021.0628800000002	France	Canada
+2021.2027300000002	Canada	India
+2021.29862	France	Lebanon
+2021.1351800000002	France	Denmark
+2021.3397200000002	France	Jordan
+2021.1835600000002	France	Denmark
+2021.1039400000002	France	Sweden
+2021.29862	Sweden	Lebanon
+2021.0904100000002	France	Spain
+2021.2986300000002	Spain	Lebanon
+2021.0788100000002	France	Denmark
+2021.4547900000002	Denmark	Norway
+2021.0136900000002	France	Qatar
+2021.0222500000002	Qatar	France
+2021.0410900000002	France	Belgium
+2021.2684900000002	France	USA
+2021.14819	France	Canada
+2021.16713	France	Sweden
+2021.22474	France	Tunisia
+2021.0904100000002	France	Kuwait
+2021.19215	France	Germany
+2021.2082300000002	Germany	Ghana
+2021.34247	Germany	Spain
+2021.3397300000001	Germany	Netherlands
+2021.2794400000002	France	Germany
+2021.1068400000001	France	Jordan
+2021.23287	France	Germany
+2021.1195400000001	France	Germany
+2021.2465700000002	Germany	Poland
+2021.1732000000002	Germany	France
+2021.27672	Germany	France
+2021.2109500000001	Germany	Jordan
+2021.1519600000001	Germany	France
+2021.33698	France	Lebanon
+2021.1519600000001	France	Lebanon
+2021.19261	Germany	USA
+2020.90981	United Kingdom	India
+2021.09787	United Kingdom	Poland
+2021.1694100000002	United Kingdom	Poland
+2021.01916	United Kingdom	Hungary
+2021.08014	United Kingdom	Sweden
+2021.2343500000002	Sweden	Slovenia
+2021.04004	United Kingdom	India
+2021.2109500000001	India	Italy
+2021.3013600000002	India	Lithuania
+2021.23837	India	Germany
+2021.2684800000002	Germany	Switzerland
+2021.0136800000002	United Kingdom	Sweden
+2021.2054600000001	United Kingdom	Poland
+2021.10292	United Kingdom	Slovenia
+2021.0410900000002	United Kingdom	Poland
+2021.39451	United Kingdom	Croatia
+2021.07597	United Kingdom	Israel
+2021.32328	Israel	Croatia
+2021.36163	United Kingdom	Germany
+2021.0549800000001	United Kingdom	Slovenia
+2021.2287000000001	Slovenia	Croatia
+2021.27122	Croatia	Slovenia
+2021.2219000000002	Slovenia	Germany
+2021.32327	Slovenia	Croatia
+2021.2410800000002	United Kingdom	Belgium
+2021.0600700000002	United Kingdom	Poland
+2021.1835400000002	Poland	Belgium
+2021.2027200000002	Poland	Germany
+2021.27943	Poland	Germany
+2021.44107	Poland	Netherlands
+2021.1282700000002	United Kingdom	Poland
+2021.0493000000001	United Kingdom	Portugal
+2021.1671000000001	United Kingdom	India
+2021.05634	United Kingdom	Poland
+2021.1240000000003	United Kingdom	Portugal
+2021.41368	Portugal	Denmark
+2021.29861	Portugal	USA
+2021.2821800000002	Portugal	Austria
+2021.0405500000002	United Kingdom	Lithuania
+2021.1260100000002	Lithuania	Russia
+2021.0168500000002	United Kingdom	Sweden
+2021.0511700000002	United Kingdom	Poland
+2021.1890300000002	United Kingdom	Netherlands
+2020.98087	United Kingdom	Japan
+2020.99726	United Kingdom	Portugal
+2021.0769300000002	United Kingdom	Spain
+2021.1728400000002	Spain	Belgium
+2021.2109500000001	Belgium	Ukraine
+2021.2109500000001	Ukraine	Slovenia
+2021.26025	United Kingdom	Paraguay
+2021.2492900000002	United Kingdom	Bulgaria
+2021.24655	United Kingdom	Bulgaria
+2021.2821600000002	United Kingdom	France
+2021.0331400000002	United Kingdom	India
+2021.08274	India	Poland
+2021.2054600000001	India	USA
+2021.2930900000001	India	Germany
+2021.2547700000002	United Kingdom	Netherlands
+2021.01915	United Kingdom	Romania
+2021.0492900000002	United Kingdom	Spain
+2021.0575000000001	United Kingdom	Russia
+2021.27942	United Kingdom	Germany
+2021.27394	United Kingdom	Portugal
+2021.0301100000001	United Kingdom	Spain
+2021.2079800000001	United Kingdom	Poland
+2021.0986100000002	United Kingdom	Greece
+2021.3013400000002	United Kingdom	Italy
+2021.35614	United Kingdom	Lithuania
+2021.0738900000001	United Kingdom	Russia
+2021.1622900000002	United Kingdom	Russia
+2020.97171	United Kingdom	Portugal
+2021.2821500000002	Portugal	France
+2021.16389	Portugal	Japan
+2021.3890000000001	Japan	Italy
+2021.27394	Portugal	India
+2021.2027	United Kingdom	Japan
+2021.3040700000001	United Kingdom	Romania
+2021.2821500000002	United Kingdom	Jordan
+2021.2903700000002	United Kingdom	Poland
+2021.0492800000002	United Kingdom	Spain
+2021.0218800000002	United Kingdom	Hungary
+2021.2520200000001	United Kingdom	India
+2021.1259900000002	United Kingdom	Sweden
+2021.1807800000001	United Kingdom	Serbia
+2021.2109200000002	United Kingdom	Germany
+2021.05418	United Kingdom	India
+2020.99996	United Kingdom	Japan
+2021.3753000000002	United Kingdom	France
+2021.14516	United Kingdom	Russia
+2021.29311	United Kingdom	Croatia
+2021.07941	United Kingdom	Germany
+2021.16982	United Kingdom	Poland
+2021.1084600000002	United Kingdom	Sweden
+2021.24654	United Kingdom	India
+2021.0953900000002	United Kingdom	Poland
+2021.3123	Poland	Germany
+2021.3123	Poland	Germany
+2021.12172	United Kingdom	Pakistan
+2021.2328300000001	United Kingdom	India
+2021.3616000000002	United Kingdom	USA
+2021.0853200000001	United Kingdom	Spain
+2021.09859	Spain	Portugal
+2021.2054400000002	Spain	Japan
+2021.34516	Spain	Lithuania
+2020.87937	United Kingdom	India
+2021.0110100000002	India	Germany
+2021.18902	Germany	Slovakia
+2021.2027200000002	Germany	India
+2020.9805800000001	India	Austria
+2021.2629900000002	Austria	France
+2021.0376700000002	Austria	Slovakia
+2021.13785	India	Germany
+2021.3150500000002	Germany	Switzerland
+2021.34245	India	France
+2021.21916	India	Austria
+2021.0467400000002	India	Germany
+2021.0410700000002	India	Switzerland
+2021.1451900000002	India	Spain
+2021.18902	India	Germany
+2021.0986	United Kingdom	Spain
+2021.3561300000001	Spain	Greece
+2020.9051900000002	United Kingdom	Iran
+2021.0821700000001	United Kingdom	Spain
+2021.2684700000002	United Kingdom	Poland
+2021.03834	United Kingdom	Turkey
+2021.3150500000002	United Kingdom	Netherlands
+2021.1342200000001	United Kingdom	Spain
+2021.16162	United Kingdom	India
+2020.86399	United Kingdom	India
+2021.3424400000001	India	Singapore
+2020.98828	United Kingdom	Portugal
+2021.3424300000001	Portugal	France
+2021.3205100000002	Portugal	France
+2021.3479100000002	Portugal	Belgium
+2021.35886	Portugal	France
+2021.1563	Portugal	France
+2021.24655	United Kingdom	India
+2021.0410700000002	United Kingdom	Italy
+2021.16162	United Kingdom	Oman
+2021.1999700000001	United Kingdom	Germany
+2021.1314800000002	United Kingdom	Austria
+2021.2931300000002	United Kingdom	Switzerland
+2020.98268	United Kingdom	Spain
+2021.0218900000002	United Kingdom	Hungary
+2021.2438100000002	United Kingdom	France
+2021.1314900000002	United Kingdom	Philippines
+2021.1862800000001	United Kingdom	Russia
+2021.3808000000001	United Kingdom	Italy
+2021.0436100000002	United Kingdom	India
+2021.06572	India	Singapore
+2021.07543	United Kingdom	France
+2021.1397000000002	France	Canada
+2021.30409	United Kingdom	France
+2021.31779	United Kingdom	Denmark
+2021.2438100000002	United Kingdom	Sweden
+2021.01647	United Kingdom	Sweden
+2021.3123	Sweden	Germany
+2021.1917500000002	Sweden	Italy
+2021.3397000000002	Italy	Germany
+2021.1243700000002	United Kingdom	Sweden
+2021.1725700000002	United Kingdom	Poland
+2021.2520200000001	United Kingdom	India
+2021.11541	United Kingdom	Belgium
+2021.0498900000002	United Kingdom	Spain
+2021.2903900000001	Spain	Switzerland
+2021.29877	United Kingdom	Spain
+2021.0211900000002	United Kingdom	Poland
+2021.30408	Poland	Belgium
+2021.34517	Poland	Slovenia
+2021.3068200000002	Poland	Slovenia
+2021.1811100000002	Poland	Germany
+2021.2986	Germany	Austria
+2021.2539100000001	Germany	Slovenia
+2021.08165	United Kingdom	India
+2021.3287400000002	India	Sweden
+2021.3205100000002	India	France
+2021.36435	India	Sweden
+2021.4328500000001	India	Slovenia
+2021.2575000000002	India	Kazakhstan
+2021.1302400000002	India	Russia
+2021.4438100000002	Russia	Belgium
+2021.3205200000002	Russia	Singapore
+2021.4246300000002	Russia	Germany
+2021.2849	Russia	Japan
+2021.1670900000001	India	Germany
+2021.2465300000001	India	Slovakia
+2021.29859	India	Netherlands
+2021.1753	India	Lithuania
+2021.09038	United Kingdom	France
+2021.2368500000002	United Kingdom	India
+2021.1041400000001	United Kingdom	Greece
+2020.99484	United Kingdom	Germany
+2021.12327	Germany	Austria
+2021.1451800000002	Germany	Italy
+2021.1674400000002	Germany	Croatia
+2021.3588800000002	Croatia	France
+2021.3671000000002	Croatia	Slovenia
+2021.1039400000002	Germany	Slovenia
+2021.2630000000001	Germany	Slovakia
+2021.2410800000002	Germany	Sweden
+2021.2931300000002	Germany	Switzerland
+2021.3725800000002	Germany	Slovenia
+2021.35066	Germany	Austria
+2021.38354	Germany	Croatia
+2021.2547800000002	Germany	Luxembourg
+2021.2808100000002	Germany	Croatia
+2021.3287400000002	Croatia	Austria
+2021.2162	Germany	Slovenia
+2021.4164200000002	Slovenia	Netherlands
+2021.0263800000002	Germany	Croatia
+2021.1581800000001	Croatia	Germany
+2021.3643700000002	Germany	Italy
+2021.26025	Croatia	Germany
+2021.1649100000002	Croatia	Germany
+2021.4520200000002	Germany	USA
+2021.25476	Germany	Croatia
+2021.1260100000002	Croatia	Serbia
+2021.3150500000002	Croatia	Germany
+2021.3095700000001	Croatia	France
+2021.29861	Croatia	Slovenia
+2021.2904	Croatia	Austria
+2021.2794400000002	Croatia	Slovenia
+2020.92272	United Kingdom	India
+2021.22189	India	Turkey
+2020.9508	India	Serbia
+2021.2027100000003	India	Bulgaria
+2021.1972300000002	India	Pakistan
+2021.1013400000002	India	Singapore
+2021.0931200000002	India	Singapore
+2021.12326	United Kingdom	India
+2021.12326	India	Portugal
+2021.25645	United Kingdom	Singapore
+2020.9945100000002	United Kingdom	Spain
+2021.0266500000002	United Kingdom	India
+2021.3129700000002	India	Singapore
+2021.07002	United Kingdom	France
+2021.26024	United Kingdom	Oman
+2021.12874	United Kingdom	India
+2021.34517	United Kingdom	Italy
+2021.36983	United Kingdom	Indonesia
+2021.2986	United Kingdom	USA
+2021.0410700000002	United Kingdom	USA
+2021.29312	United Kingdom	Singapore
+2021.25476	United Kingdom	Russia
+2021.2301100000002	United Kingdom	Germany
+2021.0771900000002	United Kingdom	Italy
+2021.1013400000002	Italy	Switzerland
+2021.21367	Italy	France
+2021.26572	Italy	Guatemala
+2021.3013400000002	United Kingdom	France
+2021.1945	United Kingdom	Japan
+2021.1127600000002	United Kingdom	India
+2021.1451700000002	United Kingdom	France
+2021.24106	United Kingdom	Poland
+2021.0712	United Kingdom	Iran
+2021.01041	United Kingdom	Turkey
+2021.0602400000002	United Kingdom	Spain
+2021.2246200000002	United Kingdom	Germany
+2021.20585	United Kingdom	Spain
+2021.0876500000002	United Kingdom	Spain
+2021.2958700000001	United Kingdom	Sweden
+2021.01608	United Kingdom	Spain
+2021.15065	Spain	France
+2021.3655600000002	France	Spain
+2021.0319800000002	United Kingdom	Germany
+2021.2657100000001	Germany	Netherlands
+2021.03383	United Kingdom	India
+2021.33147	India	United Kingdom
+2021.33968	United Kingdom	Croatia
+2021.13072	United Kingdom	Poland
+2021.0931100000003	United Kingdom	Portugal
+2021.3862600000002	United Kingdom	Germany
+2021.1003500000002	United Kingdom	India
+2021.0164100000002	United Kingdom	India
+2021.0821500000002	India	Spain
+2021.35065	India	Iran
+2021.1862700000001	United Kingdom	France
+2021.30408	United Kingdom	France
+2020.96818	United Kingdom	France
+2021.0301000000002	France	Belgium
+2021.15405	France	Belgium
+2021.23558	Belgium	Netherlands
+2021.48762	France	Belgium
+2021.0001200000002	United Kingdom	Portugal
+2021.0908800000002	Portugal	Switzerland
+2021.2766700000002	United Kingdom	USA
+2021.1122400000002	United Kingdom	France
+2021.0452900000003	United Kingdom	Germany
+2021.26023	Germany	Denmark
+2021.2629700000002	United Kingdom	USA
+2021.03284	United Kingdom	Netherlands
+2021.16983	United Kingdom	Sweden
+2021.2629800000002	United Kingdom	Jordan
+2021.19449	United Kingdom	Israel
+2021.01915	United Kingdom	France
+2021.0515200000002	United Kingdom	India
+2021.2109300000002	India	Singapore
+2021.2438000000002	India	Austria
+2021.0238900000002	United Kingdom	France
+2021.0931200000002	France	Spain
+2021.17308	France	Italy
+2021.3588800000002	Italy	France
+2021.2027100000003	United Kingdom	Slovenia
+2021.27943	United Kingdom	France
+2021.2876500000002	United Kingdom	Poland
+2021.17531	United Kingdom	Sweden
+2021.2191500000001	United Kingdom	Austria
+2021.0623200000002	United Kingdom	India
+2021.05751	United Kingdom	USA
+2021.0016500000002	United Kingdom	France
+2021.35065	France	Japan
+2021.16983	France	Poland
+2021.18901	France	Poland
+2021.2876400000002	France	Poland
+2021.24106	France	Poland
+2021.0398200000002	France	Poland
+2021.2848900000001	Poland	Netherlands
+2021.15227	France	Germany
+2021.22189	Germany	Poland
+2021.2986	France	Belgium
+2021.1725700000002	France	Belgium
+2021.09038	France	United Kingdom
+2021.33696	United Kingdom	Russia
+2021.2629800000002	United Kingdom	Austria
+2021.27394	United Kingdom	Iran
+2021.3671000000002	France	Belgium
+2021.2903900000001	France	Morocco
+2021.2438200000001	France	Poland
+2021.2027200000002	United Kingdom	India
+2021.2054500000002	United Kingdom	France
+2021.2011100000002	United Kingdom	Germany
+2021.24655	United Kingdom	Poland
+2021.1660700000002	United Kingdom	Sweden
+2021.2027100000003	United Kingdom	Germany
+2021.23285	United Kingdom	India
+2021.1207600000002	United Kingdom	Germany
+2021.1643600000002	Germany	Poland
+2020.9781200000002	United Kingdom	Japan
+2020.9945100000002	United Kingdom	Spain
+2021.1018100000001	United Kingdom	Spain
+2021.15964	Spain	Austria
+2021.4246300000002	Austria	Kuwait
+2021.23997	Spain	Poland
+2021.25241	Poland	Netherlands
+2021.2547700000002	Netherlands	Kazakhstan
+2021.3972400000002	Kazakhstan	Slovenia
+2021.02907	United Kingdom	India
+2021.0629900000001	India	Spain
+2021.1643600000002	India	Sweden
+2021.2629900000002	India	Netherlands
+2021.17532	India	Lithuania
+2021.14406	India	Germany
+2021.4136700000001	Germany	Austria
+2021.2903900000001	Germany	Switzerland
+2021.2191500000001	Germany	India
+2021.35614	Germany	Russia
+2021.19449	India	Greece
+2021.0925300000001	India	Singapore
+2021.26572	Singapore	India
+2021.27942	India	Singapore
+2021.16937	India	Singapore
+2021.3588700000003	United Kingdom	Russia
+2021.1127700000002	United Kingdom	Poland
+2021.34517	United Kingdom	Italy
+2021.07562	United Kingdom	Poland
+2021.31229	Poland	Germany
+2021.00348	United Kingdom	India
+2021.1150300000002	India	Philippines
+2021.0739300000002	India	Singapore
+2021.2848900000001	India	Netherlands
+2021.189	India	France
+2021.1862600000002	India	Japan
+2021.2821500000002	India	Oman
+2021.0575000000001	India	Japan
+2021.1917400000002	India	Germany
+2021.1123000000002	India	USA
+2021.0739400000002	India	Singapore
+2021.3369500000001	India	Singapore
+2021.3369500000001	India	Netherlands
+2021.24654	India	Oman
+2021.1578800000002	India	Netherlands
+2021.18857	Netherlands	Japan
+2021.3150400000002	India	Singapore
+2021.3260000000002	India	USA
+2021.2766800000002	India	Oman
+2021.27121	India	USA
+2021.1679600000002	India	Italy
+2021.2438100000002	India	France
+2021.4903800000002	India	Indonesia
+2021.2355900000002	India	Italy
+2021.3260000000002	Italy	Singapore
+2021.1972300000002	United Kingdom	India
+2021.15065	United Kingdom	Austria
+2021.39723	United Kingdom	USA
+2021.10408	United Kingdom	Indonesia
+2021.0106400000002	United Kingdom	India
+2021.1725600000002	India	Slovenia
+2021.18352	India	Austria
+2021.36435	United Kingdom	Sweden
+2021.1287300000001	United Kingdom	Brazil
+2021.30654	United Kingdom	Brazil
+2021.0940100000003	United Kingdom	Germany
+2021.19449	Germany	Slovenia
+2021.10165	United Kingdom	Russia
+2021.1105300000002	United Kingdom	Kenya
+2021.3397000000002	Kenya	USA
+2021.1506600000002	United Kingdom	India
+2021.13469	United Kingdom	India
+2021.1205200000002	United Kingdom	Spain
+2021.00077	United Kingdom	Jordan
+2021.08761	Jordan	Sweden
+2021.3424400000001	Sweden	Germany
+2021.0995300000002	Jordan	Sweden
+2021.27529	Jordan	France
+2021.04382	Jordan	Italy
+2021.00933	United Kingdom	USA
+2021.2849	USA	Lithuania
+2021.2849	USA	Colombia
+2021.2876400000002	USA	France
+2020.79835	United Kingdom	Germany
+2021.3835500000002	Germany	France
+2021.1630000000002	Germany	Poland
+2021.0975300000002	Germany	Italy
+2021.1369700000002	Germany	Ukraine
+2021.41368	Germany	Denmark
+2021.34245	Germany	France
+2021.2684700000002	Germany	France
+2021.29861	Germany	Mexico
+2021.2027200000002	Germany	Switzerland
+2021.0067600000002	Germany	Slovakia
+2021.1179200000001	Slovakia	Austria
+2020.9995800000002	Germany	Italy
+2021.0934200000002	Italy	France
+2021.2794400000002	Italy	France
+2021.1379900000002	Italy	France
+2021.2164200000002	France	Italy
+2021.28491	France	Japan
+2021.2581300000002	France	Italy
+2021.2739500000002	Germany	Poland
+2021.29861	Germany	France
+2021.2246400000001	Germany	Slovenia
+2021.2082	Germany	Italy
+2021.1478700000002	Germany	Switzerland
+2021.2686800000001	Germany	Switzerland
+2021.32328	Switzerland	Mexico
+2021.2903900000001	Germany	Sweden
+2021.3588800000002	Germany	Netherlands
+2020.8497000000002	Germany	France
+2020.9853500000002	France	Slovakia
+2021.1890300000002	France	Slovakia
+2021.1058100000002	France	Germany
+2021.1309600000002	France	Germany
+2021.21025	France	Switzerland
+2021.1442900000002	France	Switzerland
+2021.30958	Switzerland	France
+2021.4164200000002	Switzerland	Italy
+2021.1890300000002	Switzerland	Russia
+2021.25752	Russia	Switzerland
+2021.2794400000002	Switzerland	Germany
+2021.1369700000002	France	Germany
+2021.1452000000002	France	Slovakia
+2021.3999900000001	France	Poland
+2021.1863	France	Slovakia
+2021.13038	France	Slovakia
+2021.1315000000002	France	Slovakia
+2021.1628500000002	France	Italy
+2021.05581	France	Slovakia
+2021.2684900000002	France	Germany
+2021.1606000000002	France	Croatia
+2021.31507	Croatia	Slovenia
+2021.3780800000002	Croatia	Austria
+2021.3260300000002	France	Poland
+2021.2109500000001	France	Poland
+2021.2493100000002	France	Poland
+2021.2657500000003	France	Germany
+2021.44109	France	Spain
+2021.2219200000002	France	Russia
+2021.30958	France	Spain
+2021.2273900000002	France	Italy
+2021.26574	France	Poland
+2021.1452000000002	France	Denmark
+2021.1506800000002	France	Slovakia
+2021.15342	France	Slovakia
+2021.23015	France	Germany
+2021.2465900000002	France	Germany
+2021.2686800000001	France	Germany
+2021.1698700000002	France	Slovakia
+2021.2986400000002	France	Denmark
+2021.3397400000001	France	Germany
+2021.1300600000002	France	Germany
+2021.29042	Germany	Luxembourg
+2020.8377200000002	Germany	Slovakia
+2021.4027300000002	Slovakia	Germany
+2021.1025700000002	Slovakia	Germany
+2021.0358800000001	Slovakia	Portugal
+2021.2164200000002	Slovakia	Slovenia
+2021.3862900000001	Slovakia	Ukraine
+2021.3068400000002	Slovakia	Germany
+2021.1452000000002	Slovakia	Ukraine
+2021.0590200000001	Slovakia	Belgium
+2021.14648	Slovakia	Germany
+2021.2109500000001	Germany	Poland
+2021.1780700000002	Slovakia	Netherlands
+2021.23286	Slovakia	Germany
+2021.18081	Slovakia	Austria
+2021.3178	Slovakia	Netherlands
+2021.28095	Slovakia	Netherlands
+2021.2575100000001	Slovakia	Netherlands
+2021.22738	Slovakia	Poland
+2021.0490100000002	Slovakia	Germany
+2021.2821900000001	Germany	France
+2021.21917	Germany	Poland
+2021.16712	Germany	Poland
+2021.3890400000003	Germany	Netherlands
+2021.1561700000002	Germany	Japan
+2021.15695	Germany	Ukraine
+2021.3698600000002	Germany	Italy
+2021.45206	Germany	Ukraine
+2021.3178100000002	Germany	France
+2021.45206	Germany	Ukraine
+2021.36165	Germany	Russia
+2021.2164400000001	Germany	Estonia
+2021.32329	Germany	Latvia
+2021.13424	Germany	Austria
+2021.3315000000002	Germany	Croatia
+2021.32328	Germany	Slovenia
+2021.2986300000002	Germany	Slovakia
+2021.2739700000002	Germany	Austria
+2021.19181	Germany	Austria
+2021.2931400000002	Germany	France
+2021.3205400000002	Germany	Russia
+2021.3260300000002	Germany	Slovakia
+2021.4	Germany	Bulgaria
+2021.1859000000002	Germany	Ukraine
+2021.3397200000002	Ukraine	Germany
+2021.1890300000002	Slovakia	Greece
+2021.2410800000002	Slovakia	Sweden
+2021.2109400000002	Slovakia	Germany
+2021.0925200000001	Slovakia	Austria
+2021.2410900000002	Austria	Slovenia
+2021.2410800000002	Slovakia	Germany
+2021.2438200000001	Slovakia	Austria
+2021.37533	Slovakia	Sweden
+2021.27122	Slovakia	Poland
+2021.1233900000002	Slovakia	Austria
+2021.1314900000002	Slovakia	United Kingdom
+2021.1451900000002	Slovakia	Ukraine
+2021.12343	Slovakia	Germany
+2021.29861	Germany	Sweden
+2021.3287400000002	Germany	Sweden
+2021.2301200000002	Germany	Netherlands
+2021.2438200000001	Germany	Slovenia
+2021.15882	Slovakia	Austria
+2021.2443400000002	Slovakia	Germany
+2021.07823	Slovakia	Sweden
+2021.3725700000002	Sweden	France
+2021.16983	Sweden	Slovakia
+2021.1775300000002	Sweden	France
+2021.0931100000003	Sweden	Italy
+2021.189	Sweden	Austria
+2021.3232500000001	Sweden	Austria
+2021.0148900000002	Slovakia	Germany
+2021.3016000000002	Germany	France
+2021.39451	France	Poland
+2021.38903	France	Belgium
+2021.2301400000001	Germany	Poland
+2021.1589000000001	Germany	Austria
+2021.08842	Germany	Austria
+2021.2602700000002	Austria	Germany
+2021.1863	Germany	Slovakia
+2021.21917	Germany	Austria
+2021.12985	Germany	Poland
+2021.1561600000002	Poland	Russia
+2021.2684800000002	Germany	France
+2021.3397100000002	Germany	Poland
+2021.39451	Germany	Austria
+2021.23286	Germany	Sweden
+2021.33697	Sweden	Norway
+2021.3178	Slovakia	Sweden
+2021.2794400000002	Slovakia	Germany
+2021.36164	Slovakia	Lithuania
+2021.07093	Slovakia	Germany
+2021.13424	Germany	Slovakia
+2021.4164400000002	Germany	Netherlands
+2021.2904	Slovakia	Lithuania
+2021.0226300000002	Slovakia	Poland
+2021.24656	Poland	Lithuania
+2021.0136900000002	Slovakia	Belgium
+2021.29862	Slovakia	Austria
+2021.27121	Slovakia	Germany
+2021.04823	Slovakia	Poland
+2021.38081	Poland	Russia
+2021.27122	Poland	Germany
+2021.0613400000002	Poland	Austria
+2021.2851	Austria	Russia
+2021.0684800000001	Austria	Slovakia
+2021.0684800000001	Slovakia	Denmark
+2021.2958800000001	Austria	USA
+2021.11822	Austria	Germany
+2021.17909	Germany	Austria
+2021.2794400000002	Austria	Denmark
+2021.2821800000002	Austria	Sweden
+2021.2958800000001	Austria	Poland
+2021.2219100000002	Austria	Sweden
+2021.2876600000002	Slovakia	Germany
+2021.25753	Slovakia	Russia
+2021.22465	Slovakia	Estonia
+2021.2411900000002	Slovakia	Latvia
+2021.06887	Slovakia	Germany
+2021.32328	Slovakia	Lithuania
+2021.2109500000001	Slovakia	Poland
+2021.3588900000002	Slovakia	Germany
+2021.2876700000002	Slovakia	Sweden
+2021.11029	Slovakia	Germany
+2021.1643800000002	Germany	Poland
+2021.32876	Germany	Lithuania
+2021.2438200000001	Slovakia	Germany
+2021.29862	Slovakia	Sweden
+2021.44109	Slovakia	France
+2021.2547900000002	Slovakia	Moldova
+2021.3039700000002	Slovakia	Sweden
+2021.0684800000001	Slovakia	Italy
+2020.9821600000002	Slovakia	Germany
+2021.01977	Germany	Croatia
+2021.1903200000002	Croatia	Germany
+2021.2904	Germany	Italy
+2021.1835500000002	Slovakia	Germany
+2021.28492	Slovakia	Germany
+2021.2438200000001	Slovakia	Germany
+2021.2794400000002	Slovakia	Germany
+2021.19451	Slovakia	Poland
+2021.3178	Slovakia	Germany
+2021.2630100000001	Slovakia	Germany
+2021.15786	Slovakia	Germany
+2021.22465	Germany	Slovakia
+2021.1379000000002	Slovakia	Poland
+2021.2602700000002	Slovakia	Germany
+2021.1567200000002	Slovakia	Germany
+2021.13424	Slovakia	Germany
+2021.00124	Slovakia	Austria
+2021.3013600000002	Slovakia	USA
+2021.2739700000002	Slovakia	Austria
+2021.2739700000002	Slovakia	Colombia
+2021.1643800000002	Slovakia	Germany
+2021.0659600000001	Slovakia	Germany
+2021.13424	Slovakia	Germany
+2021.2630000000001	Slovakia	Russia
+2021.4164300000002	Slovakia	Poland
+2021.0413	Slovakia	Belgium
+2021.1314900000002	Belgium	Austria
+2021.2356100000002	Belgium	Netherlands
+2021.34245	Belgium	France
+2021.3835500000002	Slovakia	Poland
+2021.3178	Slovakia	Austria
+2021.25879	Slovakia	Denmark
+2021.2562300000002	Slovakia	Croatia
+2021.1260200000002	Slovakia	France
+2021.2715300000002	Slovakia	Germany
+2021.3287500000001	Slovakia	Germany
+2021.25474	Slovakia	Austria
+2021.44107	Austria	Switzerland
+2021.3780600000002	Slovakia	Netherlands
+2021.34245	Slovakia	Germany
+2021.2630100000001	Slovakia	Lithuania
+2021.1845	Slovakia	Belgium
+2021.1405000000002	Slovakia	Austria
+2021.20658	Austria	Netherlands
+2021.2273900000002	Slovakia	Sweden
+2021.3041	Slovakia	Sweden
+2021.1917700000001	Slovakia	Sweden
+2021.32876	Slovakia	Austria
+2021.29862	Slovakia	Austria
+2021.3534200000001	Slovakia	Austria
+2021.2794400000002	Slovakia	Germany
+2021.3194300000002	Slovakia	Lithuania
+2021.2602600000002	Slovakia	Denmark
+2021.34246	Slovakia	USA
+2021.15831	Slovakia	Germany
+2020.89937	Slovakia	Germany
+2021.2273900000002	Germany	Russia
+2021.3178	Germany	Netherlands
+2021.3479300000001	Germany	Croatia
+2021.2931400000002	Germany	Croatia
+2021.0085000000001	Germany	Italy
+2021.2301300000001	Germany	Netherlands
+2021.0931300000002	Germany	Slovakia
+2021.1068400000001	Germany	Denmark
+2020.98124	Germany	Slovakia
+2021.063	Slovakia	Hungary
+2021.21917	Slovakia	Germany
+2021.39451	Slovakia	Sweden
+2021.1725900000001	Germany	Slovakia
+2021.1276400000002	Germany	Netherlands
+2021.3041	Germany	Netherlands
+2021.0904100000002	Germany	Slovakia
+2021.3178100000002	Germany	Bulgaria
+2021.23556	Germany	Italy
+2021.1631800000002	Germany	Poland
+2021.4109400000002	Germany	Poland
+2021.42288	Germany	Chile
+2021.00987	Germany	Slovakia
+2021.30409	Slovakia	Belgium
+2021.2410800000002	Slovakia	Denmark
+2021.0149900000001	Germany	Slovakia
+2021.28492	Slovakia	Austria
+2021.14459	Slovakia	Russia
+2021.3506800000002	Germany	Italy
+2021.2410900000002	Germany	Austria
+2021.3041	Germany	Ireland
+2021.27122	Germany	Poland
+2021.3397200000002	Germany	Netherlands
+2021.09588	Germany	Italy
+2020.9914800000001	Germany	Poland
+2021.2082100000002	Poland	Lithuania
+2021.3178	Poland	Germany
+2021.3205400000002	Poland	Netherlands
+2021.4070700000002	Poland	Spain
+2021.0499900000002	Germany	Poland
+2021.25752	Poland	Austria
+2021.4191600000001	Poland	Germany
+2021.13739	Germany	Netherlands
+2021.24339	Netherlands	Belgium
+2021.3862900000001	Germany	Slovakia
+2021.21917	Germany	Ghana
+2021.4191700000001	Germany	Slovenia
+2021.2602600000002	Germany	Russia
+2021.16098	Germany	Poland
+2021.2630000000001	Poland	Georgia
+2020.9975600000002	Germany	Slovakia
+2021.0273900000002	Slovakia	Austria
+2021.2465700000002	Slovakia	Poland
+2021.2657500000003	Slovakia	Germany
+2021.2493100000002	Slovakia	Austria
+2021.2876700000002	Slovakia	Switzerland
+2021.2027400000002	Slovakia	France
+2021.1643700000002	Germany	Chile
+2021.1917600000002	Germany	Italy
+2021.2630000000001	Germany	Italy
+2021.3491800000002	Germany	Spain
+2021.2684800000002	Germany	Slovenia
+2021.1765	Germany	India
+2021.33149	India	Singapore
+2021.00023	Germany	Slovakia
+2021.0684800000001	Slovakia	Germany
+2021.36712	Slovakia	Sweden
+2021.20548	Slovakia	Germany
+2021.1753400000002	Slovakia	India
+2021.23835	Slovakia	India
+2021.01773	Germany	Slovakia
+2021.28493	Slovakia	Japan
+2020.97864	Germany	Slovakia
+2021.1068500000001	Slovakia	Austria
+2021.14595	Slovakia	Germany
+2021.1572800000001	Slovakia	Germany
+2021.2411000000002	Germany	Poland
+2020.98528	Slovakia	Germany
+2021.3753500000003	Germany	Netherlands
+2021.2876800000001	Germany	Poland
+2021.3178200000002	Germany	Sweden
+2021.05807	Germany	Slovakia
+2021.0534200000002	Germany	Slovakia
+2021.2137000000002	Germany	United Kingdom
+2021.3315100000002	United Kingdom	Poland
+2021.03978	Germany	Hungary
+2021.2794500000002	Germany	Italy
+2021.2412800000002	Germany	Italy
+2021.36713	Germany	Italy
+2021.2657600000002	Germany	Poland
+2021.0549	Germany	Slovakia
+2021.3972600000002	Slovakia	Germany
+2021.4356100000002	Slovakia	Slovenia
+2021.16163	Germany	Italy
+2021.2411000000002	Germany	Spain
+2021.30959	Germany	Lithuania
+2021.1972600000001	Germany	Estonia
+2021.2082200000002	Germany	Ukraine
+2021.2684900000002	Germany	Belgium
+2021.34246	Germany	Poland
+2021.3068400000002	Germany	Bulgaria
+2021.1123200000002	Germany	Portugal
+2021.1589000000001	Germany	Bulgaria
+2021.2630100000001	Bulgaria	Netherlands
+2021.33698	Netherlands	Germany
+2021.3589000000002	Netherlands	Belgium
+2021.2657500000003	Germany	Slovenia
+2021.3890400000003	Germany	Lithuania
+2021.0915300000001	Germany	Poland
+2021.1053900000002	Germany	Slovakia
+2021.2948700000002	Slovakia	Switzerland
+2021.0332400000002	Germany	Slovakia
+2021.1607800000002	Slovakia	Switzerland
+2021.3726000000001	Slovakia	Germany
+2021.1385000000002	Slovakia	Germany
+2021.20547	Germany	Slovakia
+2021.1452000000002	Germany	Austria
+2021.3013700000001	Germany	Italy
+2021.22466	Germany	Poland
+2021.0886	Germany	Slovakia
+2021.2931400000002	Slovakia	Sweden
+2021.3451900000002	Germany	Austria
+2021.1698500000002	Germany	Austria
+2021.2767000000001	Germany	Croatia
+2021.0955000000001	Germany	Croatia
+2021.23287	Germany	Croatia
+2021.38081	Germany	Croatia
+2021.27123	Germany	Russia
+2021.2739600000002	Germany	Austria
+2021.20547	Germany	Ukraine
+2021.3013700000001	Germany	Switzerland
+2021.3345900000002	Germany	Spain
+2021.1452100000001	Germany	Ukraine
+2021.2986300000002	Germany	Russia
+2021.1369900000002	Germany	Slovakia
+2021.4548000000002	Slovakia	Ukraine
+2021.3835700000002	Slovakia	Poland
+2021.3260400000001	Germany	Switzerland
+2021.36165	Germany	Italy
+2021.3561700000002	Germany	Switzerland
+2021.0712300000002	Germany	Slovakia
+2021.2	Slovakia	Croatia
+2021.0794500000002	Germany	Austria
+2021.0793700000002	Germany	Slovakia
+2021.0925000000002	Germany	Ukraine
+2021.18253	Germany	Russia
+2021.1863	Germany	Japan
+2021.20548	Germany	Ukraine
+2021.18792	Germany	Spain
+2021.42739	Spain	France
+2021.19178	Germany	Slovakia
+2021.1452000000002	Germany	Ukraine
+2021.1890300000002	Germany	Slovakia
+2021.1441900000002	Germany	Poland
+2021.2080300000002	Germany	Poland
+2021.27988	Germany	Poland
+2021.3205500000001	Germany	Poland
+2021.3863000000001	Germany	Switzerland
+2021.2657500000003	Germany	Ireland
+2021.2986300000002	Germany	Slovakia
+2021.2491200000002	Germany	Slovakia
+2021.2123500000002	Germany	Russia
+2021.3068500000002	Germany	Slovakia
+2021.4356200000002	Germany	Slovakia
+2021.4246600000001	Germany	Sweden
+2021.1177200000002	Germany	Austria
+2021.1890400000002	Austria	Slovakia
+2021.09625	Germany	Poland
+2021.2739700000002	Poland	Colombia
+2021.1452000000002	Poland	Ukraine
+2021.18629	Poland	Chile
+2021.2544500000001	Poland	Germany
+2021.4322800000002	Germany	Sweden
+2021.2082100000002	Germany	Ukraine
+2021.1673600000001	Germany	Poland
+2021.33698	Poland	Germany
+2021.32328	Poland	Germany
+2021.35616	Germany	Switzerland
+2021.1643800000002	Germany	Austria
+2021.2219200000002	Germany	Slovakia
+2021.0931500000002	Germany	Italy
+2021.2018500000001	Italy	Poland
+2021.2579700000001	Poland	Sweden
+2021.32877	Sweden	Japan
+2021.2438300000001	Poland	Germany
+2021.3589000000002	Poland	Sweden
+2021.3342400000001	Poland	Sweden
+2021.0739600000002	United Kingdom	Ireland
+2021.0739600000002	United Kingdom	Ireland
+2020.97432	United Kingdom	France
+2021.21916	United Kingdom	Brazil
+2021.05752	United Kingdom	Spain
+2020.8996100000002	United Kingdom	Spain
+2021.01374	Spain	Italy
+2021.03834	Italy	Brazil
+2021.2246400000001	Italy	United Kingdom
+2021.063	Spain	France
+2021.15225	Spain	France
+2021.3150500000002	United Kingdom	Germany
+2020.9718200000002	United Kingdom	France
+2021.11505	France	Portugal
+2021.0849200000002	France	Portugal
+2021.0986100000002	United Kingdom	France
+2021.0115500000002	United Kingdom	Poland
+2021.1885300000001	Poland	Finland
+2021.0794300000002	United Kingdom	Switzerland
+2021.0164200000002	United Kingdom	France
+2021.0599300000001	United Kingdom	France
+2021.3123	France	Switzerland
+2021.3479200000002	France	Sweden
+2021.32327	United Kingdom	Indonesia
+2021.05752	United Kingdom	Israel
+2021.1416700000002	United Kingdom	Bulgaria
+2021.37532	Bulgaria	Denmark
+2021.0063300000002	United Kingdom	France
+2020.9947000000002	United Kingdom	Spain
+2021.05752	Spain	United Kingdom
+2021.0415	United Kingdom	USA
+2021.33696	USA	Mexico
+2021.2438100000002	USA	Colombia
+2021.3205200000002	USA	Argentina
+2021.2009500000001	United Kingdom	Netherlands
+2021.1643700000002	United Kingdom	Switzerland
+2021.25204	Switzerland	Italy
+2021.37533	Switzerland	Tunisia
+2020.99296	United Kingdom	Turkey
+2021.3479300000001	United Kingdom	Spain
+2021.07588	United Kingdom	Pakistan
+2021.01403	United Kingdom	Ireland
+2021.0355900000002	United Kingdom	France
+2021.15416	United Kingdom	Bulgaria
+2021.24107	United Kingdom	France
+2020.9249200000002	United Kingdom	France
+2021.1506600000002	France	Belgium
+2021.00762	France	Portugal
+2021.0764800000002	Portugal	France
+2021.24107	France	Italy
+2021.2849	France	Portugal
+2021.13245	France	Germany
+2021.2821500000002	Germany	Luxembourg
+2021.2958600000002	France	Portugal
+2021.2054400000002	France	Luxembourg
+2021.3287200000002	France	Spain
+2020.9475100000002	France	Italy
+2021.1724900000002	France	Italy
+2021.2355900000002	France	Italy
+2020.9781200000002	United Kingdom	Spain
+2021.1260000000002	United Kingdom	Bulgaria
+2020.97538	United Kingdom	Netherlands
+2021.1533900000002	Netherlands	Jordan
+2020.9617200000002	United Kingdom	USA
+2021.05618	United Kingdom	Sweden
+2021.1972200000002	Sweden	Netherlands
+2021.4328300000002	Sweden	Denmark
+2021.3753000000002	Sweden	Denmark
+2020.96639	United Kingdom	India
+2021.1780500000002	India	Canada
+2021.3123	India	USA
+2021.24106	India	Romania
+2021.3013300000002	India	USA
+2021.22736	India	USA
+2021.2903700000002	India	Singapore
+2021.1807900000001	India	Canada
+2021.3287300000002	India	Canada
+2021.2684600000002	India	Singapore
+2021.2657100000001	India	Singapore
+2021.2191400000002	India	Japan
+2020.85517	United Kingdom	Spain
+2021.10264	Spain	France
+2021.1314800000002	France	Brazil
+2021.20819	France	Bulgaria
+2021.36435	Bulgaria	Germany
+2020.9863100000002	United Kingdom	Spain
+2021.0109300000001	United Kingdom	Chile
+2021.3205200000002	United Kingdom	Poland
+2021.2766800000002	United Kingdom	India
+2021.10121	United Kingdom	Poland
+2021.32599	Poland	Germany
+2021.0794400000002	United Kingdom	Slovakia
+2021.0164300000001	United Kingdom	India
+2021.07102	United Kingdom	Bulgaria
+2021.0219000000002	United Kingdom	Spain
+2021.0846500000002	United Kingdom	Poland
+2021.27122	Poland	Germany
+2021.2219200000002	United Kingdom	Germany
+2021.2821900000001	United Kingdom	Poland
+2021.3178	United Kingdom	Bahrain
+2021.0870000000002	United Kingdom	Bahrain
+2021.0465800000002	United Kingdom	Portugal
+2021.14795	Portugal	France
+2021.2931600000002	France	Germany
+2021.34246	United Kingdom	Bahrain
+2021.2876700000002	United Kingdom	Poland
+2021.28583	United Kingdom	Bahrain
+2021.1890300000002	United Kingdom	Ukraine
+2021.0082100000002	United Kingdom	Switzerland
+2021.2410800000002	Switzerland	France
+2021.0849200000002	United Kingdom	Ghana
+2021.0282900000002	United Kingdom	Russia
+2021.05752	United Kingdom	Austria
+2021.25203	United Kingdom	Portugal
+2020.9836000000003	United Kingdom	Pakistan
+2021.27121	United Kingdom	Italy
+2021.3150500000002	United Kingdom	Belgium
+2021.1518700000001	United Kingdom	Italy
+2021.2821700000002	Italy	Belgium
+2021.2246400000001	Italy	Greece
+2021.2602600000002	Greece	Portugal
+2021.03454	United Kingdom	Portugal
+2021.2109400000002	United Kingdom	Bahrain
+2021.4109400000002	United Kingdom	Belgium
+2021.0493000000001	United Kingdom	Italy
+2021.2109400000002	United Kingdom	Ireland
+2021.3479300000001	United Kingdom	Austria
+2021.0766800000001	United Kingdom	Kenya
+2021.24656	United Kingdom	Germany
+2021.10958	United Kingdom	Ireland
+2021.1452000000002	United Kingdom	Romania
+2021.1874100000002	United Kingdom	Poland
+2021.39451	Poland	Lithuania
+2021.35616	United Kingdom	Italy
+2021.10958	United Kingdom	Ireland
+2020.9903700000002	United Kingdom	Spain
+2021.0219100000002	Spain	United Kingdom
+2021.26574	Spain	France
+2021.12876	Spain	Netherlands
+2021.04429	United Kingdom	Poland
+2021.1254500000002	United Kingdom	Italy
+2021.2274000000002	Italy	Switzerland
+2021.10957	United Kingdom	Ireland
+2021.1564500000002	United Kingdom	Ireland
+2020.9517600000001	United Kingdom	India
+2020.98087	India	Jordan
+2021.0328700000002	India	France
+2021.3123200000002	India	France
+2021.0194900000001	India	Japan
+2021.2630100000001	Japan	Romania
+2021.1780700000002	Japan	Netherlands
+2021.0981600000002	Japan	Belgium
+2021.3041	Belgium	Romania
+2021.3917800000002	Belgium	Netherlands
+2021.1163600000002	India	USA
+2021.3479300000001	USA	Russia
+2021.1002300000002	India	Sweden
+2021.2438200000001	Sweden	Ireland
+2021.27122	India	Germany
+2021.0904	India	Kuwait
+2021.3013500000002	India	Germany
+2021.22738	India	Singapore
+2021.2904	India	Brazil
+2021.2821800000002	India	Germany
+2021.0986200000002	India	Singapore
+2021.0410900000002	United Kingdom	Spain
+2021.2602600000002	United Kingdom	Bahrain
+2021.00682	United Kingdom	Poland
+2021.1506600000002	United Kingdom	Qatar
+2021.4575200000002	United Kingdom	Germany
+2021.3534100000002	United Kingdom	Bahrain
+2020.97267	United Kingdom	Ireland
+2020.93234	United Kingdom	Iraq
+2020.98484	Iraq	Sweden
+2021.2739500000002	Iraq	Austria
+2021.34518	Iraq	Germany
+2021.0156800000002	Iraq	United Kingdom
+2021.1917500000002	United Kingdom	Italy
+2021.2272	United Kingdom	Sweden
+2021.07975	United Kingdom	USA
+2021.33696	United Kingdom	Switzerland
+2021.28491	United Kingdom	Sweden
+2021.1671000000001	United Kingdom	Netherlands
+2021.0857500000002	United Kingdom	Iraq
+2021.1840800000002	Iraq	Finland
+2021.40819	Finland	Switzerland
+2021.18901	Finland	Romania
+2021.26025	United Kingdom	Poland
+2021.22738	United Kingdom	Turkey
+2021.3999800000001	Turkey	Germany
+2021.3287500000001	United Kingdom	India
+2021.0678500000001	United Kingdom	Bahrain
+2021.3013500000002	United Kingdom	Germany
+2021.0424200000002	United Kingdom	Portugal
+2021.02177	United Kingdom	Bulgaria
+2021.1013500000001	Bulgaria	Germany
+2021.19998	Bulgaria	Netherlands
+2021.1409700000002	Bulgaria	Germany
+2021.2492900000002	United Kingdom	Poland
+2021.36436	United Kingdom	Greece
+2020.9726500000002	United Kingdom	Germany
+2021.0163900000002	United Kingdom	Portugal
+2021.08489	United Kingdom	Bangladesh
+2021.2246200000002	United Kingdom	Poland
+2021.2438000000002	United Kingdom	USA
+2021.1342100000002	United Kingdom	Brazil
+2021.2004200000001	United Kingdom	Italy
+2021.2109200000002	United Kingdom	Spain
+2021.2438000000002	United Kingdom	Italy
+2021.18089	United Kingdom	France
+2021.2160700000002	United Kingdom	Bahrain
+2021.0219000000002	United Kingdom	Bangladesh
+2020.9963100000002	United Kingdom	Philippines
+2021.1342300000001	Philippines	USA
+2021.50134	Philippines	Japan
+2021.07975	United Kingdom	Spain
+2021.4766900000002	Spain	Portugal
+2021.0560400000002	United Kingdom	Sweden
+2021.1087400000001	Sweden	Finland
+2021.1643700000002	United Kingdom	Italy
+2021.31779	United Kingdom	India
+2021.2904	United Kingdom	Poland
+2021.3013600000002	United Kingdom	Poland
+2021.1725900000001	United Kingdom	Russia
+2021.008	United Kingdom	India
+2021.1835500000002	India	Sweden
+2021.3013500000002	India	Canada
+2021.4109500000002	India	Canada
+2021.2219100000002	India	Canada
+2021.0602600000002	United Kingdom	Belgium
+2021.3287500000001	United Kingdom	India
+2021.3205300000002	United Kingdom	France
+2021.27122	United Kingdom	Romania
+2020.98087	United Kingdom	India
+2021.04931	United Kingdom	France
+2021.0123500000002	United Kingdom	Poland
+2020.97267	United Kingdom	Portugal
+2020.9918000000002	United Kingdom	Pakistan
+2021.2027300000002	United Kingdom	Morocco
+2021.32328	United Kingdom	Italy
+2021.2371300000002	United Kingdom	Ireland
+2021.1580600000002	United Kingdom	Germany
+2021.29862	Germany	Russia
+2020.9882300000002	United Kingdom	Greece
+2021.1516700000002	Greece	Russia
+2021.2027300000002	United Kingdom	Poland
+2020.9614700000002	United Kingdom	France
+2021.1205300000001	United Kingdom	France
+2021.05204	United Kingdom	Spain
+2021.00573	United Kingdom	Belgium
+2021.2109500000001	Belgium	Spain
+2021.12875	United Kingdom	Spain
+2021.0810800000002	United Kingdom	Poland
+2021.3999900000001	Poland	Switzerland
+2020.97267	United Kingdom	Portugal
+2021.1146500000002	United Kingdom	France
+2021.2684900000002	France	Sweden
+2021.1588900000002	United Kingdom	Brazil
+2021.1628200000002	United Kingdom	Slovakia
+2021.1506700000002	United Kingdom	Spain
+2021.12327	United Kingdom	Spain
+2021.2082	Spain	France
+2021.0219100000002	United Kingdom	Brazil
+2021.0219100000002	United Kingdom	Brazil
+2021.1819200000002	United Kingdom	Spain
+2021.2136600000001	United Kingdom	Latvia
+2021.0849300000002	United Kingdom	Spain
+2021.12877	United Kingdom	France
+2021.2771900000002	United Kingdom	Spain
+2021.0553800000002	United Kingdom	USA
+2021.1260200000002	United Kingdom	Portugal
+2020.9355500000001	United Kingdom	Italy
+2021.2246400000001	Italy	France
+2021.1835400000002	Italy	France
+2021.16711	United Kingdom	France
+2021.0171400000002	United Kingdom	Bulgaria
+2021.0880200000001	United Kingdom	Poland
+2021.4191600000001	United Kingdom	France
+2021.28491	United Kingdom	Germany
+2021.31779	United Kingdom	France
+2021.2903900000001	United Kingdom	Germany
+2020.98359	United Kingdom	India
+2021.1068300000002	United Kingdom	Spain
+2020.94118	United Kingdom	Spain
+2021.0109400000001	Spain	Bangladesh
+2021.0438100000001	Spain	United Kingdom
+2021.0547700000002	Spain	Ireland
+2021.2684600000002	Spain	Poland
+2021.1184700000001	Spain	Poland
+2021.1918500000002	Poland	Germany
+2021.2520200000001	Spain	France
+2021.2492800000002	Spain	Belgium
+2021.20818	Spain	Belgium
+2021.0301000000002	Spain	United Kingdom
+2021.27942	Spain	Germany
+2021.30408	Spain	France
+2021.06572	Spain	Belgium
+2021.08696	Spain	Germany
+2021.3616100000002	Spain	Romania
+2021.32599	Spain	Switzerland
+2021.10408	Spain	Singapore
+2021.3013300000002	Spain	Germany
+2021.1287300000001	Spain	United Kingdom
+2021.35065	Spain	Germany
+2021.1254400000003	Spain	Germany
+2021.0218800000002	Spain	France
+2021.0438000000001	Spain	United Kingdom
+2021.17017	Spain	Germany
+2021.2371	Germany	Kenya
+2021.3013400000002	Germany	Italy
+2021.20288	Germany	Kenya
+2021.2882200000001	Kenya	Indonesia
+2021.4246300000002	Indonesia	Bahrain
+2021.0547600000002	Spain	Germany
+2021.2222700000002	Spain	Germany
+2021.1846200000002	Spain	Germany
+2021.4191400000002	Germany	Spain
+2020.9961	Spain	France
+2021.2492900000002	France	Japan
+2021.2958600000002	France	India
+2021.1216100000001	France	USA
+2021.1150400000001	France	Singapore
+2021.13696	France	Netherlands
+2021.0739400000002	France	Italy
+2021.0828500000002	France	Singapore
+2021.1835300000002	France	Brazil
+2021.1835800000001	France	Germany
+2021.2575100000001	France	Belgium
+2021.2606700000001	France	Germany
+2021.3095600000001	France	Belgium
+2021.0629800000002	France	Switzerland
+2021.10371	Switzerland	Germany
+2021.2821500000002	Germany	India
+2021.14243	Germany	Serbia
+2021.17521	Germany	Greece
+2021.17999	Germany	Netherlands
+2021.3753000000002	Germany	Denmark
+2021.16434	Germany	Austria
+2021.2848800000002	Germany	India
+2021.1421300000002	Germany	USA
+2021.28763	USA	Argentina
+2021.22736	USA	Chile
+2021.4465400000001	USA	Mexico
+2021.2575000000002	USA	Argentina
+2021.4794200000001	USA	Argentina
+2021.3396900000002	USA	Colombia
+2021.32599	USA	United Kingdom
+2021.43558	USA	Mexico
+2021.2684600000002	USA	Paraguay
+2021.2903800000001	USA	Mexico
+2021.41641	Mexico	Spain
+2021.0356000000002	United Kingdom	Netherlands
+2021.1930000000002	United Kingdom	Germany
+2020.8551800000002	United Kingdom	Spain
+2021.0986100000002	United Kingdom	Spain
+2021.0410800000002	United Kingdom	India
+2021.0375500000002	United Kingdom	Poland
+2021.2602600000002	Poland	Germany
+2021.0794300000002	United Kingdom	Switzerland
+2021.2438100000002	United Kingdom	Greece
+2020.8524100000002	United Kingdom	USA
+2021.3643800000002	USA	Mexico
+2020.9699400000002	USA	United Kingdom
+2020.97539	United Kingdom	France
+2021.0931300000002	United Kingdom	Iran
+2020.9672	United Kingdom	Germany
+2020.8665500000002	United Kingdom	Iran
+2020.9726600000001	United Kingdom	Portugal
+2021.4054600000002	Portugal	Pakistan
+2021.14245	United Kingdom	Iran
+2021.0410800000002	United Kingdom	Germany
+2021.30958	United Kingdom	Bahrain
+2021.3397100000002	United Kingdom	USA
+2021.33697	United Kingdom	Italy
+2020.9338900000002	United Kingdom	Turkey
+2021.14792	United Kingdom	Slovakia
+2021.1712900000002	United Kingdom	Ecuador
+2021.2438100000002	United Kingdom	Poland
+2021.1150300000002	United Kingdom	Poland
+2021.2410800000002	Poland	Croatia
+2021.3862800000002	Poland	Slovakia
+2021.3260100000002	United Kingdom	Poland
+2021.1835500000002	United Kingdom	Germany
+2021.3588900000002	United Kingdom	France
+2021.0450300000002	United Kingdom	Romania
+2021.14128	Romania	Italy
+2021.2630000000001	Italy	Spain
+2021.2164200000002	Italy	Philippines
+2021.3068400000002	United Kingdom	India
+2021.0465600000002	United Kingdom	India
+2021.0256800000002	United Kingdom	Brazil
+2021.1148	United Kingdom	Romania
+2021.0271100000002	United Kingdom	Italy
+2021.2995600000002	Italy	France
+2021.3479200000002	Italy	Switzerland
+2021.20772	Italy	Canada
+2020.9480800000001	United Kingdom	Germany
+2021.00546	United Kingdom	France
+2021.0051	United Kingdom	India
+2021.1683400000002	India	USA
+2021.3287500000001	India	Indonesia
+2020.9901900000002	United Kingdom	Poland
+2021.0109400000001	Poland	Sweden
+2021.2027300000002	Poland	Belgium
+2021.0109400000001	Poland	Sweden
+2021.30408	Poland	Germany
+2021.36435	Germany	Poland
+2021.3380200000001	Poland	Belgium
+2021.3643700000002	Poland	Netherlands
+2021.15714	United Kingdom	USA
+2021.2492900000002	United Kingdom	Germany
+2021.16162	United Kingdom	Norway
+2021.0951300000002	United Kingdom	Switzerland
+2021.0934200000002	United Kingdom	Germany
+2021.3541500000001	Germany	Switzerland
+2021.12498	United Kingdom	USA
+2021.23286	United Kingdom	Pakistan
+2021.2036	United Kingdom	USA
+2021.0109400000001	United Kingdom	Portugal
+2021.1419600000002	United Kingdom	USA
+2021.35615	United Kingdom	Italy
+2020.95359	United Kingdom	Romania
+2021.28574	Romania	Italy
+2020.95738	United Kingdom	Russia
+2021.36163	United Kingdom	Bahrain
+2021.4575200000002	United Kingdom	USA
+2021.1808	United Kingdom	Estonia
+2021.23286	United Kingdom	India
+2021.2547800000002	United Kingdom	Belgium
+2021.05662	United Kingdom	Germany
+2021.30409	Germany	Italy
+2021.3095700000001	United Kingdom	France
+2020.9445500000002	United Kingdom	USA
+2021.33697	United Kingdom	Slovakia
+2021.2054600000001	United Kingdom	Ukraine
+2020.94665	United Kingdom	Spain
+2021.23286	United Kingdom	Poland
+2020.99179	United Kingdom	Portugal
+2021.0668300000002	Portugal	Brazil
+2021.2602600000002	United Kingdom	Spain
+2021.33149	United Kingdom	Spain
+2021.0695200000002	United Kingdom	Sweden
+2021.1759200000001	Sweden	USA
+2020.9857200000001	United Kingdom	France
+2021.1397200000001	France	Qatar
+2021.2903900000001	United Kingdom	India
+2021.2410800000002	United Kingdom	Romania
+2021.34518	United Kingdom	Poland
+2021.23285	United Kingdom	Italy
+2021.0139800000002	United Kingdom	Portugal
+2021.3205200000002	Portugal	France
+2021.0835000000002	United Kingdom	Germany
+2021.1780500000002	Germany	Serbia
+2021.3013400000002	Germany	Russia
+2021.15614	Germany	Croatia
+2021.2575100000001	Germany	Singapore
+2021.34245	Germany	Switzerland
+2021.18902	Germany	Italy
+2021.3670900000002	United Kingdom	Italy
+2021.2684600000002	United Kingdom	Spain
+2021.34245	United Kingdom	Italy
+2020.9686900000002	United Kingdom	Sweden
+2020.9808500000001	United Kingdom	Belgium
+2021.31778	United Kingdom	Sweden
+2021.1670900000001	United Kingdom	Poland
+2021.0246300000001	United Kingdom	Portugal
+2021.2492900000002	United Kingdom	USA
+2021.29861	United Kingdom	Netherlands
+2021.02322	United Kingdom	France
+2021.3479200000002	France	Germany
+2021.09587	United Kingdom	France
+2020.9795600000002	United Kingdom	Netherlands
+2021.2356000000002	Netherlands	Belgium
+2021.1917700000001	Netherlands	Poland
+2020.9726500000002	United Kingdom	France
+2021.3040700000001	United Kingdom	Croatia
+2021.08356	United Kingdom	France
+2020.9793100000002	United Kingdom	Poland
+2021.1342100000002	Poland	Greece
+2021.1254000000001	Poland	Netherlands
+2021.2629800000002	Netherlands	Belgium
+2021.0386400000002	Poland	Portugal
+2021.2492900000002	Poland	Germany
+2020.9948900000002	United Kingdom	Greece
+2021.39722	Greece	France
+2021.0610800000002	United Kingdom	USA
+2021.12596	USA	Chile
+2021.1643500000002	USA	France
+2021.17135	USA	Argentina
+2021.31779	United Kingdom	India
+2021.1314900000002	United Kingdom	France
+2021.2630000000001	United Kingdom	Croatia
+2020.9813800000002	United Kingdom	Netherlands
+2021.2629900000002	Netherlands	Poland
+2021.0547700000002	United Kingdom	Spain
+2021.1342200000001	United Kingdom	Netherlands
+2020.95503	United Kingdom	Greece
+2021.1205200000002	Greece	Switzerland
+2021.1342200000001	United Kingdom	Poland
+2021.20819	United Kingdom	France
+2021.2226300000002	United Kingdom	Germany
+2021.32327	United Kingdom	Poland
+2021.2931300000002	United Kingdom	India
+2021.4054700000002	United Kingdom	Bahrain
+2021.23286	United Kingdom	Japan
+2021.06879	United Kingdom	Italy
+2021.0157500000003	United Kingdom	Belgium
+2021.25205	Belgium	Poland
+2021.27122	Belgium	France
+2021.40822	Belgium	Switzerland
+2021.2301300000001	Belgium	Germany
+2021.4109400000002	Belgium	Netherlands
+2021.4438200000002	Belgium	Netherlands
+2021.2821800000002	Belgium	Netherlands
+2021.28491	United Kingdom	Poland
+2021.1237500000002	United Kingdom	Poland
+2021.2357200000001	Poland	Belgium
+2021.4575200000002	Poland	United Kingdom
+2021.17533	United Kingdom	Serbia
+2021.20547	United Kingdom	Austria
+2021.33698	United Kingdom	USA
+2021.3260300000002	United Kingdom	Sweden
+2021.11479	United Kingdom	India
+2021.3068500000002	India	Singapore
+2021.34247	India	Russia
+2021.1963300000002	India	USA
+2021.4630200000001	USA	Italy
+2021.20548	United Kingdom	Netherlands
+2021.1182600000002	United Kingdom	Kazakhstan
+2021.29589	United Kingdom	Netherlands
+2021.27672	United Kingdom	Austria
+2021.3452100000002	United Kingdom	Russia
+2021.16164	United Kingdom	Austria
+2021.3452000000002	Austria	Germany
+2021.2	United Kingdom	Austria
+2021.3780800000002	United Kingdom	Austria
+2021.3452100000002	United Kingdom	France
+2021.2493200000001	United Kingdom	Austria
+2021.27124	Austria	USA
+2021.33425	Austria	Netherlands
+2021.34795	Netherlands	France
+2021.4027400000002	France	Poland
+2020.96513	United Kingdom	Spain
+2020.9072400000002	United Kingdom	Netherlands
+2021.10355	Netherlands	France
+2021.1507100000001	France	Netherlands
+2021.2684600000002	France	Switzerland
+2021.1917500000002	Netherlands	Poland
+2021.23285	Netherlands	Poland
+2021.38353	Netherlands	Belgium
+2021.0958600000001	United Kingdom	Italy
+2021.22737	United Kingdom	Netherlands
+2020.99835	United Kingdom	Netherlands
+2020.99179	United Kingdom	Portugal
+2021.1451900000002	United Kingdom	Romania
+2020.93926	United Kingdom	Netherlands
+2021.25203	Netherlands	Poland
+2021.27121	United Kingdom	Netherlands
+2021.4191500000002	United Kingdom	Slovakia
+2021.13228	United Kingdom	Netherlands
+2021.1321	United Kingdom	Netherlands
+2021.04076	United Kingdom	Netherlands
+2021.4246300000002	United Kingdom	Netherlands
+2021.05402	United Kingdom	Netherlands
+2020.9562600000002	United Kingdom	Netherlands
+2020.9617200000002	United Kingdom	Portugal
+2020.99997	United Kingdom	Netherlands
+2021.01915	United Kingdom	Netherlands
+2021.1183700000001	United Kingdom	Netherlands
+2021.2712000000001	Netherlands	Spain
+2021.38353	Netherlands	Belgium
+2021.2246200000002	Netherlands	Germany
+2021.1835300000002	Netherlands	Denmark
+2021.2629800000002	Netherlands	Pakistan
+2021.03886	United Kingdom	Netherlands
+2021.2493000000002	Netherlands	Germany
+2021.0697000000002	Netherlands	Pakistan
+2021.35614	Pakistan	Bahrain
+2021.2438100000002	Pakistan	Canada
+2021.24655	Pakistan	Japan
+2021.09039	Pakistan	USA
+2021.06455	United Kingdom	Netherlands
+2021.0776300000002	United Kingdom	Russia
+2021.1588900000002	United Kingdom	Belgium
+2021.2602600000002	United Kingdom	Netherlands
+2021.17533	United Kingdom	Spain
+2021.3095700000001	United Kingdom	Romania
+2021.1451800000002	United Kingdom	Belgium
+2021.17532	United Kingdom	Belgium
+2021.38354	United Kingdom	Ireland
+2021.18728	United Kingdom	Spain
+2021.0794300000002	United Kingdom	Romania
+2021.1730900000002	United Kingdom	Sweden
+2021.2794400000002	Sweden	Denmark
+2021.21916	United Kingdom	Netherlands
+2021.26573	United Kingdom	Poland
+2020.93973	United Kingdom	Netherlands
+2021.35615	Netherlands	Belgium
+2021.0739500000002	United Kingdom	Poland
+2020.9450100000001	United Kingdom	Netherlands
+2021.0410600000002	United Kingdom	Switzerland
+2021.15065	United Kingdom	Netherlands
+2021.1013400000002	United Kingdom	Netherlands
+2021.06572	United Kingdom	Ireland
+2021.2246200000002	United Kingdom	Kenya
+2021.1862700000001	United Kingdom	Pakistan
+2021.3561200000001	United Kingdom	Netherlands
+2021.1917400000002	United Kingdom	Netherlands
+2021.0958600000001	United Kingdom	Portugal
+2021.22457	United Kingdom	Netherlands
+2021.2383200000002	United Kingdom	Romania
+2021.19449	United Kingdom	Netherlands
+2021.3287300000002	United Kingdom	Netherlands
+2021.1862700000001	United Kingdom	Austria
+2021.1917500000002	United Kingdom	Romania
+2021.0425300000002	United Kingdom	Netherlands
+2021.0712	Netherlands	France
+2021.26572	Netherlands	Belgium
+2021.0955700000002	United Kingdom	Italy
+2021.2629800000002	Italy	Romania
+2020.99997	United Kingdom	Netherlands
+2021.0741100000002	United Kingdom	Netherlands
+2021.3095500000002	Netherlands	Austria
+2021.2629800000002	Netherlands	Pakistan
+2021.1921300000001	Netherlands	United Kingdom
+2021.2301000000002	United Kingdom	Pakistan
+2021.27393	Netherlands	Pakistan
+2021.05375	United Kingdom	Netherlands
+2021.1429200000002	Netherlands	France
+2021.1013300000002	Netherlands	Belgium
+2021.1044800000002	Netherlands	Pakistan
+2021.2027	Pakistan	Germany
+2021.3095500000002	Pakistan	France
+2021.2821500000002	Pakistan	Japan
+2021.2027	Netherlands	Romania
+2020.97035	United Kingdom	USA
+2021.0986	USA	Germany
+2020.85992	United Kingdom	USA
+2020.8557400000002	United Kingdom	Bulgaria
+2020.85175	United Kingdom	USA
+2021.0977400000002	USA	Netherlands
+2021.0413	United Kingdom	Italy
+2020.9978	United Kingdom	France
+2020.8744000000002	United Kingdom	Poland
+2020.9398500000002	Poland	United Kingdom
+2021.1862700000001	United Kingdom	Italy
+2021.00572	United Kingdom	Poland
+2021.30409	Poland	Netherlands
+2021.26573	Poland	Germany
+2021.2575100000001	Poland	Austria
+2021.0565100000001	United Kingdom	Poland
+2021.3369500000001	Poland	Sweden
+2021.1150300000002	Poland	United Kingdom
+2021.2492800000002	Poland	Spain
+2021.2684600000002	Poland	Netherlands
+2021.4273600000001	Poland	Croatia
+2021.0800000000002	Poland	Sweden
+2021.0246300000001	Poland	Nigeria
+2021.2986	Poland	Netherlands
+2021.22188	Poland	Sweden
+2021.22188	Poland	Netherlands
+2021.1725800000002	Poland	Germany
+2021.2246200000002	Poland	Germany
+2021.15371	Poland	Netherlands
+2021.3040700000001	Poland	Germany
+2021.2848900000001	Poland	Germany
+2021.14721	Poland	Lithuania
+2021.18845	Poland	Sweden
+2021.2410800000002	Poland	Denmark
+2021.1780600000002	Poland	Austria
+2021.2191400000002	Poland	Austria
+2021.3260000000002	Poland	Germany
+2021.3424400000001	Poland	Netherlands
+2021.2904	Poland	Germany
+2021.2684600000002	Poland	USA
+2021.2739500000002	Poland	Germany
+2021.0712	United Kingdom	Israel
+2021.1123000000002	United Kingdom	USA
+2021.0580900000002	United Kingdom	Romania
+2021.0410700000002	United Kingdom	Spain
+2021.10957	United Kingdom	Sweden
+2021.07121	United Kingdom	France
+2021.06715	United Kingdom	Germany
+2021.1314800000002	United Kingdom	Romania
+2021.3424400000001	United Kingdom	Netherlands
+2021.27942	United Kingdom	Colombia
+2021.1259900000002	United Kingdom	Colombia
+2021.0454800000002	United Kingdom	Romania
+2021.0965	United Kingdom	Colombia
+2021.46846	Colombia	Chile
+2021.13147	Colombia	Spain
+2021.3725700000002	Spain	Colombia
+2021.48764	Colombia	USA
+2021.28763	Colombia	USA
+2021.2876400000002	United Kingdom	India
+2021.1342200000001	United Kingdom	Spain
+2020.99178	United Kingdom	Belgium
+2021.2629900000002	Belgium	Netherlands
+2021.08527	United Kingdom	Poland
+2021.1719600000001	Poland	Germany
+2021.3944900000001	Germany	Denmark
+2021.31778	Germany	Austria
+2021.25476	Germany	Slovakia
+2021.30681	Germany	Poland
+2020.9842500000002	United Kingdom	Latvia
+2021.28491	United Kingdom	Spain
+2021.3260000000002	United Kingdom	Bulgaria
+2021.2111400000001	United Kingdom	Italy
+2021.21367	United Kingdom	Poland
+2020.9782500000001	United Kingdom	France
+2021.03211	France	Poland
+2021.2054500000002	Poland	Germany
+2021.15829	United Kingdom	Italy
+2021.1126600000002	United Kingdom	Romania
+2021.0109400000001	United Kingdom	Spain
+2021.2487300000003	United Kingdom	Spain
+2021.05455	United Kingdom	France
+2021.17532	France	Spain
+2021.3260100000002	France	Germany
+2021.1534000000001	France	United Kingdom
+2021.2164200000002	France	Belgium
+2021.3068300000002	France	Italy
+2021.1342300000001	France	Spain
+2021.3205300000002	Spain	Switzerland
+2021.1862800000001	Spain	Romania
+2021.2054600000001	Romania	Germany
+2021.2903900000001	United Kingdom	Japan
+2020.9698300000002	United Kingdom	Bulgaria
+2021.38354	Bulgaria	Spain
+2020.97519	United Kingdom	India
+2020.95711	United Kingdom	Spain
+2020.99602	United Kingdom	India
+2021.1643600000002	India	United Kingdom
+2021.33149	India	Japan
+2021.28491	India	USA
+2021.25204	India	France
+2021.2111000000002	India	Canada
+2021.2931300000002	Canada	USA
+2021.2027400000002	India	Spain
+2021.10578	United Kingdom	India
+2021.2684800000002	India	Canada
+2021.0027300000002	United Kingdom	Belgium
+2021.1588900000002	United Kingdom	Lithuania
+2020.97143	United Kingdom	India
+2021.0157800000002	India	Germany
+2021.1506800000002	India	Germany
+2021.2410900000002	India	Singapore
+2021.10562	India	Germany
+2021.30409	Germany	France
+2021.1525800000002	India	Germany
+2021.3260200000002	India	USA
+2021.30138	India	Germany
+2021.2282400000001	India	Italy
+2021.29042	India	USA
+2021.30959	India	Singapore
+2021.29041	India	USA
+2021.2849400000002	India	Singapore
+2021.3315200000002	India	Canada
+2021.36164	India	Germany
+2021.2356200000002	India	USA
+2021.3041200000002	India	Japan
+2021.2958800000001	India	Canada
+2021.2767000000001	India	Canada
+2021.2931400000002	India	Canada
+2021.2958800000001	India	Singapore
+2021.2410900000002	India	Singapore
+2021.28493	India	Canada
+2021.3095700000001	India	Singapore
+2021.27672	India	Singapore
+2021.22457	India	Japan
+2021.1370000000002	India	Belgium
+2021.2986400000002	India	Italy
+2021.2657700000002	India	USA
+2021.0822	India	Germany
+2021.2959	India	Japan
+2021.42467	India	Spain
+2021.41919	India	Japan
+2021.24654	United Kingdom	Bulgaria
+2021.2438000000002	United Kingdom	Poland
+2021.0410700000002	United Kingdom	Bulgaria
+2021.1451700000002	United Kingdom	Bulgaria
+2021.1150300000002	United Kingdom	Poland
+2021.1725600000002	United Kingdom	Austria
+2021.0196	United Kingdom	Spain
+2021.05177	Spain	France
+2021.3369400000001	Spain	Romania
+2021.2492700000003	United Kingdom	Bulgaria
+2021.22188	United Kingdom	Bulgaria
+2021.3616000000002	United Kingdom	Poland
+2021.26023	United Kingdom	Bulgaria
+2021.05201	United Kingdom	Nigeria
+2021.0355700000002	United Kingdom	Nigeria
+2021.2324500000002	United Kingdom	Italy
+2021.0269200000002	United Kingdom	USA
+2021.4136500000002	USA	Mexico
+2021.0931	United Kingdom	Nigeria
+2021.03283	United Kingdom	Nigeria
+2021.3424200000002	United Kingdom	Bulgaria
+2021.02736	United Kingdom	Nigeria
+2021.1696800000002	United Kingdom	Austria
+2021.05201	United Kingdom	Nigeria
+2021.29859	United Kingdom	India
+2021.1205200000002	United Kingdom	USA
+2021.13696	United Kingdom	Romania
+2021.1506600000002	United Kingdom	Bulgaria
+2021.0438000000001	United Kingdom	USA
+2021.1588800000002	United Kingdom	Bulgaria
+2021.0176600000002	United Kingdom	USA
+2021.05014	United Kingdom	Bulgaria
+2021.0339800000002	United Kingdom	Germany
+2021.1862700000001	Germany	Poland
+2021.26573	United Kingdom	India
+2020.9960500000002	United Kingdom	Turkey
+2021.2301100000002	Turkey	Luxembourg
+2021.2109300000002	United Kingdom	Estonia
+2021.0684700000002	United Kingdom	Italy
+2020.9733800000001	United Kingdom	Brazil
+2021.3095600000001	Brazil	Italy
+2021.19449	United Kingdom	France
+2021.09156	United Kingdom	USA
+2021.00455	United Kingdom	France
+2021.07121	France	Switzerland
+2021.0218900000002	United Kingdom	Switzerland
+2021.0438000000001	United Kingdom	Spain
+2021.1150300000002	Spain	Switzerland
+2021.0876400000002	Spain	Germany
+2021.1287300000001	United Kingdom	Switzerland
+2021.0246200000001	United Kingdom	Switzerland
+2021.1429	United Kingdom	Germany
+2021.26024	Germany	Netherlands
+2021.09038	United Kingdom	France
+2021.1005100000002	United Kingdom	USA
+2020.99178	United Kingdom	Turkey
+2021.09039	United Kingdom	Netherlands
+2021.1260000000002	United Kingdom	Bulgaria
+2021.03697	United Kingdom	USA
+2021.13696	United Kingdom	Spain
+2021.1397000000002	United Kingdom	Iraq
+2021.03059	United Kingdom	USA
+2021.1123100000002	USA	India
+2021.0794300000002	USA	Finland
+2021.3397100000002	USA	Spain
+2021.32876	USA	Greece
+2021.20854	USA	India
+2021.1667100000002	USA	Poland
+2021.2082100000002	Poland	France
+2021.3287400000002	United Kingdom	India
+2021.0598800000002	United Kingdom	Italy
+2021.03726	United Kingdom	Italy
+2021.0308800000003	United Kingdom	USA
+2021.33149	USA	Mexico
+2021.37533	USA	Mexico
+2021.01916	United Kingdom	Nigeria
+2021.02366	United Kingdom	Bangladesh
+2021.2547700000002	Bangladesh	Singapore
+2021.2219000000002	Bangladesh	Singapore
+2021.2301100000002	Bangladesh	India
+2021.2739500000002	Bangladesh	Singapore
+2021.22738	Bangladesh	India
+2021.3095700000001	Bangladesh	India
+2021.04285	United Kingdom	Germany
+2021.3643700000002	Germany	USA
+2021.1744500000002	Germany	France
+2021.03834	United Kingdom	Turkey
+2021.0570300000002	United Kingdom	France
+2021.07239	United Kingdom	Germany
+2021.29861	Germany	Austria
+2021.1315000000002	United Kingdom	Netherlands
+2021.10265	United Kingdom	Bulgaria
+2021.19999	Bulgaria	Austria
+2021.1698600000002	Bulgaria	Germany
+2021.19451	Bulgaria	Greece
+2021.2235	Bulgaria	Brazil
+2021.21369	United Kingdom	Poland
+2021.0790700000002	United Kingdom	Bulgaria
+2021.0693	United Kingdom	Poland
+2021.0849200000002	United Kingdom	Spain
+2021.4712200000001	Spain	Belgium
+2021.1115300000001	United Kingdom	Brazil
+2021.10003	United Kingdom	Bulgaria
+2021.2143600000002	United Kingdom	USA
+2021.29436	United Kingdom	Sweden
+2021.37534	United Kingdom	France
+2021.1452100000001	United Kingdom	Bulgaria
+2021.3561700000002	United Kingdom	Denmark
+2021.16712	United Kingdom	Greece
+2021.0191800000002	United Kingdom	Nigeria
+2021.0277400000002	Nigeria	Denmark
+2021.0383600000002	Denmark	Turkey
+2021.0887500000001	Turkey	Bulgaria
+2021.09589	Bulgaria	United Kingdom
+2021.1068500000001	Bulgaria	Denmark
+2021.1895000000002	Bulgaria	Russia
+2021.2027400000002	Russia	Denmark
+2021.2274000000002	Denmark	Bulgaria
+2021.3397300000001	Bulgaria	USA
+2020.86768	United Kingdom	USA
+2021.16704	USA	Germany
+2020.94196	USA	Nigeria
+2021.05111	Nigeria	Kenya
+2021.2876400000002	Kenya	USA
+2021.17531	Kenya	Japan
+2021.24107	USA	Argentina
+2021.38461	USA	Mexico
+2021.00545	USA	Nigeria
+2021.27942	USA	Netherlands
+2021.1966300000001	USA	Sweden
+2021.3944900000001	Sweden	Denmark
+2021.1807900000001	USA	Indonesia
+2021.1698400000002	USA	Belgium
+2021.26573	USA	Russia
+2021.0547600000002	USA	Germany
+2021.11778	USA	United Kingdom
+2021.1123000000002	USA	United Kingdom
+2021.11778	USA	Nigeria
+2021.2903800000001	USA	Netherlands
+2020.99177	USA	Portugal
+2021.3013300000002	USA	Germany
+2021.2300900000002	USA	Germany
+2021.13126	USA	France
+2021.2109200000002	France	Italy
+2021.1068100000002	USA	France
+2021.1068000000002	USA	France
+2021.1068000000002	USA	France
+2021.3287200000002	USA	Germany
+2020.99737	USA	France
+2021.1807800000001	France	India
+2021.3479000000002	France	Germany
+2021.06237	France	Canada
+2021.0618600000003	France	Russia
+2021.13694	France	Ghana
+2021.0673700000002	France	Canada
+2021.1697600000002	Canada	Germany
+2021.2711900000002	Canada	USA
+2021.2520100000002	Canada	USA
+2021.20503	Canada	USA
+2021.2958600000002	Canada	USA
+2021.27941	Canada	USA
+2021.3013300000002	USA	France
+2021.1095500000001	USA	Ghana
+2021.1740300000001	USA	Germany
+2021.0565800000002	USA	Russia
+2021.2712000000001	Russia	Morocco
+2021.2958500000002	Russia	USA
+2021.1267200000002	Russia	Belarus
+2021.2054400000002	Russia	Ukraine
+2021.09119	USA	France
+2021.4438000000002	France	Portugal
+2021.1581800000001	France	Switzerland
+2021.3616100000002	Switzerland	Spain
+2021.2437900000002	Switzerland	France
+2021.2054400000002	USA	Kenya
+2021.1150400000001	USA	Ghana
+2021.2109300000002	USA	France
+2021.1780600000002	USA	Ghana
+2021.2301100000002	USA	Morocco
+2021.03059	USA	Italy
+2021.33148	Italy	United Kingdom
+2021.28491	Italy	France
+2021.3068200000002	Italy	Slovenia
+2021.26025	Italy	Greece
+2021.0794300000002	Italy	Canada
+2021.1638500000001	Italy	USA
+2021.0684600000002	USA	France
+2021.1068200000002	USA	Indonesia
+2021.1671000000001	USA	France
+2021.2712000000001	USA	Kenya
+2021.07445	USA	Switzerland
+2021.0273700000002	USA	Nigeria
+2020.99997	USA	Mexico
+2021.3917500000002	USA	Mexico
+2021.1353000000001	USA	France
+2021.0760900000002	USA	Germany
+2021.1639400000001	USA	Germany
+2021.20819	USA	Finland
+2021.2109300000002	USA	Kenya
+2021.3397100000002	USA	Finland
+2021.21206	USA	Germany
+2021.15613	USA	Ghana
+2021.1780500000002	USA	Ghana
+2021.13695	USA	Cameroon
+2021.04653	USA	France
+2021.18352	USA	Tunisia
+2021.0931100000003	USA	France
+2021.1424200000001	USA	India
+2021.3424200000002	USA	India
+2021.2520000000002	USA	France
+2021.15063	USA	Germany
+2021.3862500000002	Germany	Netherlands
+2021.2657100000001	USA	Kenya
+2021.0965600000002	USA	Germany
+2021.21954	Germany	Sweden
+2021.2629700000002	Sweden	Luxembourg
+2021.23008	USA	France
+2021.24926	USA	Kenya
+2021.1944700000001	USA	Russia
+2021.18811	USA	Germany
+2021.19721	USA	Italy
+2021.18351	USA	Norway
+2021.14083	USA	Kenya
+2021.1550800000002	USA	France
+2021.2711900000002	France	Spain
+2021.0958400000002	USA	Ghana
+2021.1561100000001	USA	Morocco
+2021.1862500000002	USA	India
+2021.3287100000002	USA	France
+2021.08488	USA	Ghana
+2021.1862500000002	USA	Kenya
+2021.18899	USA	India
+2021.1165500000002	USA	Netherlands
+2021.2465200000001	USA	Kenya
+2021.2246000000002	USA	Morocco
+2021.20817	USA	Netherlands
+2021.2136400000002	USA	Morocco
+2021.1095300000002	USA	Ghana
+2021.03627	USA	France
+2021.0520000000001	France	USA
+2021.2794000000001	USA	France
+2021.2383000000002	USA	Russia
+2021.2985700000002	USA	India
+2021.2931	USA	France
+2021.1670700000002	France	Russia
+2021.1752900000001	France	Ghana
+2021.0574800000002	France	USA
+2021.0766600000002	USA	Ghana
+2021.2273100000002	USA	Netherlands
+2021.0684400000002	USA	Ghana
+2021.0821400000002	USA	Belgium
+2021.22186	USA	France
+2021.1150100000002	USA	Germany
+2021.12597	USA	Nigeria
+2021.1506200000001	USA	Ghana
+2021.2985600000002	USA	France
+2021.1506200000001	USA	Ghana
+2021.1533600000002	USA	Morocco
+2021.2793900000001	USA	France
+2021.3122700000001	France	Egypt
+2020.9972500000001	USA	Nigeria
+2021.0739500000002	USA	Nigeria
+2021.0931200000002	USA	Nigeria
+2021.1068300000002	USA	Japan
+2021.0355900000002	USA	Nigeria
+2021.3123	USA	Canada
+2021.42189	USA	Canada
+2021.0602500000002	USA	Germany
+2021.3260100000002	USA	Canada
+2021.1534100000001	USA	Germany
+2020.9696500000002	USA	Portugal
+2021.07669	Portugal	Nigeria
+2021.1808	Portugal	Pakistan
+2021.02925	Portugal	France
+2021.3095700000001	France	Spain
+2021.16711	Portugal	France
+2021.45478	Portugal	Switzerland
+2021.1698600000002	Portugal	France
+2021.11319	Portugal	France
+2021.2794500000002	Portugal	France
+2021.23287	Portugal	Switzerland
+2021.35616	Portugal	France
+2021.0904100000002	Portugal	France
+2021.1068300000002	USA	France
+2021.1862800000001	USA	India
+2020.9945200000002	USA	Nigeria
+2021.2177600000002	USA	Colombia
+2021.4054500000002	USA	Mexico
+2021.11505	USA	Nigeria
+2021.0944800000002	USA	Kenya
+2021.2604700000002	Kenya	USA
+2021.2821700000002	Kenya	United Kingdom
+2021.4054500000002	Kenya	Spain
+2021.0684700000002	USA	Nigeria
+2021.0575700000002	USA	France
+2021.16161	USA	Qatar
+2021.2383300000001	USA	Canada
+2021.3287300000002	USA	Germany
+2021.3068300000002	USA	Russia
+2021.2355900000002	USA	Colombia
+2021.16162	USA	Paraguay
+2021.2575100000001	USA	Israel
+2021.2870100000002	USA	Mexico
+2021.2191500000001	USA	Mexico
+2021.31841	USA	Mexico
+2021.2245500000001	USA	Canada
+2021.2794600000002	USA	Colombia
+2021.2794600000002	USA	Colombia
+2021.4630100000002	USA	United Kingdom
+2021.4411000000002	USA	Mexico
+2021.1988400000002	USA	Mexico
+2021.3452100000002	USA	Mexico
+2021.34795	USA	Mexico
+2021.01367	United Kingdom	Brazil
+2021.0794300000002	United Kingdom	Brazil
+2021.0058900000001	United Kingdom	Spain
+2021.16162	Spain	Ireland
+2021.0301100000001	Spain	France
+2021.0438100000001	Spain	France
+2021.23285	Spain	Germany
+2021.1123000000002	United Kingdom	Portugal
+2021.10956	United Kingdom	Brazil
+2020.95529	United Kingdom	Spain
+2021.22189	Spain	Belgium
+2021.2876400000002	United Kingdom	Ireland
+2021.0155700000003	United Kingdom	Greece
+2021.0438000000001	Greece	France
+2021.14523	United Kingdom	Poland
+2021.0469100000003	United Kingdom	USA
+2021.17287	United Kingdom	Germany
+2021.1917500000002	Germany	Sweden
+2021.0849	United Kingdom	Switzerland
+2021.1159200000002	United Kingdom	Romania
+2021.0825200000002	United Kingdom	Italy
+2021.08752	United Kingdom	Poland
+2021.01915	United Kingdom	France
+2021.22189	United Kingdom	Poland
+2021.0958600000001	United Kingdom	Spain
+2021.0876400000002	United Kingdom	Italy
+2020.9644500000002	United Kingdom	Portugal
+2020.9833300000003	United Kingdom	France
+2021.1205100000002	France	Portugal
+2021.24106	France	Belgium
+2021.3396900000002	France	Germany
+2021.0015400000002	France	Poland
+2021.24106	Poland	Austria
+2021.2821500000002	Poland	Germany
+2021.2328400000001	Poland	France
+2021.3054100000002	Poland	Netherlands
+2021.2712000000001	Poland	Germany
+2021.0684700000002	Poland	Spain
+2021.4164200000002	Poland	Ireland
+2021.27122	Poland	Spain
+2021.0876600000001	Poland	Spain
+2021.21369	Poland	Spain
+2021.04382	Poland	France
+2021.2931400000002	France	Spain
+2021.1890300000002	France	Poland
+2021.09588	France	Portugal
+2021.1455400000002	France	Spain
+2021.3095700000001	Poland	Germany
+2021.12875	Poland	Germany
+2021.0718100000001	United Kingdom	USA
+2021.3068200000002	USA	Argentina
+2021.01383	United Kingdom	Sweden
+2021.3013400000002	Sweden	Finland
+2021.35614	Sweden	Denmark
+2020.95694	United Kingdom	Turkey
+2021.4520200000002	Turkey	Ireland
+2021.3588700000003	Turkey	Germany
+2021.19791	Turkey	Germany
+2021.26024	United Kingdom	India
+2021.00269	United Kingdom	Poland
+2021.0786200000002	United Kingdom	Poland
+2021.2574900000002	Poland	Norway
+2021.30132	Poland	Netherlands
+2021.2328300000001	United Kingdom	Bulgaria
+2020.9343900000001	United Kingdom	Portugal
+2021.05517	United Kingdom	Poland
+2021.09859	Poland	United Kingdom
+2020.9588500000002	United Kingdom	Poland
+2021.0355800000002	Poland	United Kingdom
+2021.0629800000002	Poland	United Kingdom
+2021.0410600000002	Poland	France
+2021.2724400000002	Poland	Germany
+2020.95917	United Kingdom	Bulgaria
+2021.14793	Bulgaria	Italy
+2020.8957300000002	United Kingdom	Spain
+2021.01916	Spain	United Kingdom
+2021.1808	Spain	France
+2021.37533	Spain	Bulgaria
+2020.9454300000002	United Kingdom	France
+2021.2986	United Kingdom	Germany
+2020.9726500000002	United Kingdom	Italy
+2021.0958600000001	Italy	Jordan
+2021.1123000000002	Italy	Belgium
+2020.87976	United Kingdom	France
+2020.9140800000002	United Kingdom	Netherlands
+2021.27943	Netherlands	Slovakia
+2021.4219	Netherlands	Spain
+2021.08491	Netherlands	United Kingdom
+2021.2027300000002	Netherlands	France
+2021.23286	Netherlands	Belgium
+2021.0602600000002	Netherlands	Belgium
+2021.2630000000001	Netherlands	Germany
+2021.21916	Netherlands	Germany
+2021.2082	Netherlands	Belgium
+2021.2630000000001	Netherlands	Belgium
+2021.41369	Netherlands	Belgium
+2021.2821800000002	Netherlands	France
+2021.4054600000002	Netherlands	Spain
+2021.1142100000002	Netherlands	Belgium
+2021.2364400000001	Belgium	Netherlands
+2021.00547	Netherlands	United Kingdom
+2021.0602600000002	Netherlands	Belgium
+2021.44107	Netherlands	Belgium
+2021.3315000000002	Netherlands	Belgium
+2021.4679300000003	Netherlands	Belgium
+2021.2986300000002	Netherlands	Belgium
+2021.10958	Netherlands	Belgium
+2021.22465	Netherlands	Germany
+2021.37533	Netherlands	Belgium
+2021.48492	Belgium	Netherlands
+2021.2219000000002	Netherlands	Belgium
+2021.1397200000001	Netherlands	Belgium
+2020.9471300000002	United Kingdom	Poland
+2021.2054500000002	United Kingdom	France
+2021.1506600000002	United Kingdom	Italy
+2020.9972400000001	United Kingdom	Sweden
+2021.0707100000002	United Kingdom	Sweden
+2021.1780500000002	United Kingdom	Greece
+2020.99998	United Kingdom	Turkey
+2021.2547700000002	Turkey	Poland
+2020.9028300000002	United Kingdom	Spain
+2021.2492800000002	Spain	Netherlands
+2021.00925	United Kingdom	Turkey
+2021.29312	Turkey	Austria
+2021.42189	United Kingdom	Spain
+2021.0218900000002	United Kingdom	Brazil
+2021.0602400000002	United Kingdom	Singapore
+2021.2072300000002	Singapore	Japan
+2021.4246300000002	Japan	Italy
+2020.97538	United Kingdom	Sweden
+2021.2520200000001	United Kingdom	France
+2020.9726500000002	United Kingdom	Italy
+2020.99817	United Kingdom	France
+2021.02736	France	United Kingdom
+2020.9533000000001	United Kingdom	Poland
+2021.3287300000002	United Kingdom	Croatia
+2021.3807800000002	Croatia	Germany
+2020.99996	United Kingdom	Portugal
+2021.0766700000001	United Kingdom	Turkey
+2021.0952100000002	United Kingdom	Germany
+2021.2766600000002	Germany	Pakistan
+2021.16981	Germany	Japan
+2021.1068000000002	Germany	Austria
+2021.3282900000002	United Kingdom	Kenya
+2020.9944600000001	United Kingdom	France
+2021.0575000000001	France	Austria
+2021.0109200000002	United Kingdom	France
+2021.3205100000002	France	Germany
+2021.27941	France	Germany
+2021.23557	United Kingdom	Italy
+2021.0072400000001	United Kingdom	Bulgaria
+2021.41091	Bulgaria	Germany
+2021.2492700000003	United Kingdom	Greece
+2021.4164	United Kingdom	Greece
+2021.2492700000003	United Kingdom	Greece
+2021.1451700000002	United Kingdom	Norway
+2021.0938500000002	United Kingdom	Switzerland
+2021.2444300000002	Switzerland	France
+2021.0576400000002	United Kingdom	Greece
+2021.0694	United Kingdom	Germany
+2021.4136600000002	Germany	Sweden
+2021.16982	United Kingdom	Moldova
+2021.0163900000002	United Kingdom	Portugal
+2021.3479000000002	United Kingdom	Kenya
+2021.1013300000002	United Kingdom	Portugal
+2021.0011200000001	United Kingdom	Portugal
+2021.34516	United Kingdom	Netherlands
+2021.0489300000002	United Kingdom	Netherlands
+2021.0395	United Kingdom	Bulgaria
+2021.3615900000002	Bulgaria	Greece
+2021.3232400000002	Bulgaria	Germany
+2021.2985800000001	Bulgaria	United Kingdom
+2021.18351	Bulgaria	Denmark
+2021.16433	Bulgaria	Denmark
+2020.9685200000001	United Kingdom	India
+2021.0547100000001	United Kingdom	Germany
+2021.1013300000002	Germany	France
+2021.15613	Germany	Hungary
+2021.15559	United Kingdom	Bahrain
+2021.5122800000001	United Kingdom	Italy
+2021.24926	United Kingdom	Kenya
+2021.0395300000002	United Kingdom	Spain
+2021.2700800000002	Spain	France
+2021.4273400000002	Spain	Portugal
+2021.23556	Spain	France
+2021.16981	United Kingdom	Belgium
+2020.9813100000001	United Kingdom	Poland
+2021.3177600000001	United Kingdom	Poland
+2021.0300900000002	United Kingdom	France
+2021.03283	France	Netherlands
+2020.9750500000002	United Kingdom	Russia
+2021.2300900000002	United Kingdom	Italy
+2020.9808400000002	United Kingdom	Turkey
+2021.24106	United Kingdom	Switzerland
+2021.01366	United Kingdom	Spain
+2021.12714	United Kingdom	USA
+2020.9948900000002	United Kingdom	Spain
+2021.1441100000002	Spain	France
+2021.1773	United Kingdom	Germany
+2021.2657100000001	Germany	Turkey
+2021.37804	Turkey	Greece
+2021.0869900000002	United Kingdom	Romania
+2021.3397000000002	United Kingdom	Germany
+2021.2054500000002	United Kingdom	France
+2021.3232600000001	United Kingdom	India
+2021.1670900000001	United Kingdom	Poland
+2021.0712	United Kingdom	Turkey
+2021.2438000000002	United Kingdom	Spain
+2021.0895100000002	United Kingdom	Bulgaria
+2021.2766800000002	Bulgaria	Germany
+2021.27942	Bulgaria	France
+2021.4903800000002	Bulgaria	USA
+2021.2246200000002	Bulgaria	Italy
+2021.1835300000002	United Kingdom	Bulgaria
+2021.0684600000002	United Kingdom	Germany
+2021.2054500000002	Germany	France
+2021.2903800000001	United Kingdom	Germany
+2021.11778	United Kingdom	France
+2021.2492900000002	France	Switzerland
+2021.27394	United Kingdom	Pakistan
+2021.1588000000002	United Kingdom	Romania
+2021.01367	United Kingdom	Germany
+2021.0218900000002	Germany	Hungary
+2021.03833	Hungary	Spain
+2021.0684700000002	Spain	Germany
+2021.2766900000001	Germany	Japan
+2021.2493000000002	Germany	Poland
+2021.30409	Poland	Romania
+2021.2492900000002	United Kingdom	Moldova
+2021.33696	United Kingdom	Croatia
+2021.0218900000002	United Kingdom	France
+2021.2027100000003	United Kingdom	Germany
+2021.0686500000002	United Kingdom	Germany
+2021.1240200000002	United Kingdom	Romania
+2021.1917500000002	Romania	Italy
+2021.3999700000002	United Kingdom	Croatia
+2021.2401000000002	United Kingdom	USA
+2021.33147	United Kingdom	Germany
+2021.16856	United Kingdom	Germany
+2021.26572	United Kingdom	Romania
+2021.2849	United Kingdom	Spain
+2021.1755300000002	United Kingdom	India
+2021.2383200000002	India	Turkey
+2021.2766700000002	India	Austria
+2021.3972400000002	United Kingdom	France
+2021.2109300000002	United Kingdom	Switzerland
+2021.4684700000003	United Kingdom	Belgium
+2020.99131	United Kingdom	Greece
+2021.1807900000001	United Kingdom	Italy
+2020.8734800000002	United Kingdom	Italy
+2021.24654	Italy	Greece
+2021.07942	Italy	Albania
+2021.3013400000002	Italy	Germany
+2021.1517600000002	Italy	France
+2021.19998	Italy	Greece
+2021.35614	Italy	Germany
+2021.1780600000002	Italy	Greece
+2021.2246100000002	Italy	Croatia
+2021.1192300000002	Italy	Germany
+2021.32598	Germany	Slovakia
+2021.26023	Germany	Sweden
+2021.1982400000002	Germany	Croatia
+2021.2688600000001	Italy	Greece
+2021.17001	Italy	Sweden
+2021.0419100000001	Italy	Germany
+2021.3095400000002	Germany	Switzerland
+2021.15065	Italy	USA
+2021.1342100000002	Italy	Greece
+2021.06023	Italy	Spain
+2021.0723200000002	Italy	Greece
+2021.31777	Italy	Switzerland
+2021.26572	Italy	Germany
+2021.1621900000002	Italy	Greece
+2021.4191400000002	Greece	France
+2021.2054500000002	Italy	France
+2021.3013400000002	Italy	France
+2021.3616100000002	Italy	Switzerland
+2021.2252	Italy	Greece
+2021.2437900000002	Italy	Germany
+2021.1508600000002	Italy	Belgium
+2021.3260000000002	Belgium	Netherlands
+2021.2191400000002	Italy	Germany
+2021.1937500000001	Italy	Belgium
+2021.0931	United Kingdom	India
+2021.0179	United Kingdom	Brazil
+2021.3287200000002	United Kingdom	Italy
+2021.0931100000003	United Kingdom	Portugal
+2021.11777	United Kingdom	Italy
+2021.16983	United Kingdom	Italy
+2021.3807800000002	United Kingdom	Spain
+2021.3232400000002	United Kingdom	Japan
+2021.0402100000001	United Kingdom	Italy
+2021.0657400000002	Italy	Brazil
+2021.3752900000002	Italy	Germany
+2021.2602200000001	United Kingdom	Spain
+2021.0520000000001	United Kingdom	Oman
+2021.0574800000002	United Kingdom	Russia
+2021.28214	United Kingdom	India
+2021.0903600000001	United Kingdom	Romania
+2021.4026800000001	United Kingdom	USA
+2021.14516	United Kingdom	Romania
+2021.09488	United Kingdom	Romania
+2021.17623	United Kingdom	Romania
+2021.2492800000002	Romania	Ireland
+2021.35065	Romania	Germany
+2021.3670900000002	United Kingdom	Netherlands
+2021.26024	United Kingdom	Romania
+2021.2492800000002	United Kingdom	Austria
+2020.9104300000001	United Kingdom	Spain
+2021.2903600000002	United Kingdom	Spain
+2021.37803	United Kingdom	Romania
+2021.13694	United Kingdom	Ireland
+2021.15064	United Kingdom	Russia
+2021.03103	United Kingdom	Germany
+2021.3369300000002	Germany	Netherlands
+2021.0684500000002	United Kingdom	Spain
+2020.9896800000001	United Kingdom	Mexico
+2021.2958500000002	United Kingdom	Poland
+2020.9863	United Kingdom	India
+2021.0616000000002	United Kingdom	Poland
+2021.22187	Poland	Norway
+2020.9699600000001	United Kingdom	Spain
+2021.2438000000002	United Kingdom	Turkey
+2021.22736	United Kingdom	Slovenia
+2021.3287300000002	United Kingdom	Japan
+2021.12667	United Kingdom	Chile
+2021.24654	Chile	Peru
+2021.2629800000002	Chile	Peru
+2021.24654	Chile	Peru
+2021.14516	United Kingdom	Iraq
+2021.0528000000002	United Kingdom	Estonia
+2021.0568600000001	United Kingdom	Turkey
+2021.2931	Turkey	Austria
+2021.41091	Turkey	Belgium
+2021.3095400000002	Turkey	Germany
+2021.3068	United Kingdom	Germany
+2021.3670800000002	United Kingdom	Netherlands
+2021.32598	United Kingdom	India
+2021.0739300000002	United Kingdom	USA
+2021.2629700000002	United Kingdom	Poland
+2021.2848900000001	United Kingdom	Germany
+2020.9889500000002	United Kingdom	Turkey
+2021.2903700000002	United Kingdom	Pakistan
+2020.96991	United Kingdom	Portugal
+2021.22736	United Kingdom	Croatia
+2021.1986600000002	United Kingdom	Romania
+2021.10651	United Kingdom	Germany
+2021.0684500000002	United Kingdom	Bulgaria
+2021.00818	United Kingdom	USA
+2020.96991	United Kingdom	Italy
+2021.03283	United Kingdom	France
+2021.0410600000002	United Kingdom	Spain
+2021.3150300000002	United Kingdom	Finland
+2021.3095500000002	United Kingdom	Slovenia
+2021.1167	United Kingdom	Romania
+2020.98358	United Kingdom	Turkey
+2020.9945100000002	United Kingdom	Spain
+2021.1313100000002	United Kingdom	Italy
+2021.0718000000002	United Kingdom	Romania
+2021.4219	Romania	Spain
+2021.17659	Romania	Italy
+2021.27393	United Kingdom	Estonia
+2021.2985800000001	United Kingdom	USA
+2021.0415300000002	United Kingdom	Greece
+2021.2437900000002	Greece	Croatia
+2021.3177500000002	Greece	Bulgaria
+2020.98573	United Kingdom	Switzerland
+2021.3013300000002	United Kingdom	India
+2021.0492800000002	United Kingdom	Portugal
+2021.1524200000001	United Kingdom	France
+2021.11228	United Kingdom	Germany
+2021.15612	United Kingdom	Ireland
+2021.0620800000002	United Kingdom	Germany
+2021.24106	Germany	Italy
+2021.2027	Germany	Denmark
+2021.2684600000002	Germany	Moldova
+2021.0548800000001	United Kingdom	Bulgaria
+2021.05201	United Kingdom	Italy
+2021.2301000000002	United Kingdom	Italy
+2021.2054400000002	United Kingdom	Spain
+2021.17486	United Kingdom	Italy
+2021.0108000000002	United Kingdom	Sweden
+2021.2657000000002	Sweden	Ecuador
+2021.1944700000001	United Kingdom	Bulgaria
+2021.0745700000002	United Kingdom	Spain
+2021.06023	United Kingdom	Poland
+2021.19448	United Kingdom	Poland
+2021.0241400000002	United Kingdom	Poland
+2021.3533900000002	Poland	Ireland
+2021.3013400000002	Poland	Norway
+2021.2027	United Kingdom	Bulgaria
+2021.0156200000001	United Kingdom	Spain
+2021.27393	United Kingdom	Pakistan
+2021.23205	United Kingdom	Bulgaria
+2021.22188	United Kingdom	Pakistan
+2021.2986	United Kingdom	Japan
+2021.4054400000002	United Kingdom	Germany
+2021.19448	United Kingdom	Pakistan
+2021.2712000000001	United Kingdom	Bulgaria
+2021.09038	United Kingdom	USA
+2021.22189	United Kingdom	Bulgaria
+2021.3232600000001	United Kingdom	Italy
+2021.12327	United Kingdom	Portugal
+2020.99177	United Kingdom	Portugal
+2021.0758200000002	United Kingdom	France
+2020.9808400000002	United Kingdom	Israel
+2021.24106	United Kingdom	Italy
+2021.2383200000002	United Kingdom	Germany
+2021.02852	United Kingdom	France
+2021.2849	France	Lithuania
+2021.0876400000002	France	Austria
+2021.0058800000002	United Kingdom	Qatar
+2021.4049200000002	Qatar	Ecuador
+2021.0714100000002	United Kingdom	Estonia
+2021.0876400000002	United Kingdom	Spain
+2021.18604	United Kingdom	Switzerland
+2021.1830800000002	United Kingdom	USA
+2021.2109300000002	United Kingdom	Germany
+2021.11778	United Kingdom	France
+2021.03833	United Kingdom	France
+2021.03833	France	Spain
+2021.3753100000001	France	Japan
+2021.0931100000003	United Kingdom	France
+2021.32599	United Kingdom	France
+2021.11553	United Kingdom	Germany
+2021.3424200000002	Germany	Bulgaria
+2021.2437900000002	Germany	Norway
+2021.42461	Germany	Bulgaria
+2021.2629700000002	United Kingdom	Morocco
+2021.0747600000002	United Kingdom	Poland
+2021.2794000000001	Poland	Germany
+2021.35064	Poland	Norway
+2021.1013400000002	United Kingdom	India
+2021.2903700000002	United Kingdom	Spain
+2021.1972200000002	United Kingdom	Netherlands
+2021.0823	United Kingdom	Bulgaria
+2021.4383200000002	Bulgaria	Switzerland
+2021.2191400000002	Bulgaria	Poland
+2021.19448	Bulgaria	France
+2021.3396900000002	United Kingdom	France
+2021.2711900000002	United Kingdom	Japan
+2020.9834	United Kingdom	Spain
+2021.33147	Spain	Mexico
+2021.1493400000002	Spain	Netherlands
+2021.0168500000002	Spain	Germany
+2021.19449	Germany	Bulgaria
+2021.1917400000002	Germany	Switzerland
+2021.1533900000002	Germany	Greece
+2021.11238	Germany	Belgium
+2021.2684700000002	Germany	Poland
+2021.24655	Germany	Sweden
+2021.19457	Germany	Bulgaria
+2021.1438300000002	Germany	Sweden
+2021.0953900000002	Germany	Bulgaria
+2021.31778	Bulgaria	Germany
+2021.1821800000002	Spain	Ukraine
+2021.24105	Spain	Poland
+2021.27941	Spain	Pakistan
+2021.28763	Spain	Germany
+2021.3287200000002	Spain	Germany
+2021.03284	Spain	United Kingdom
+2021.1043300000001	Spain	France
+2021.1451700000002	France	Ukraine
+2021.26023	France	Japan
+2021.1806700000002	France	Japan
+2021.37255	Japan	Netherlands
+2021.3068	Japan	Austria
+2021.2629600000002	United Kingdom	Switzerland
+2021.2002100000002	United Kingdom	Italy
+2021.01934	United Kingdom	Spain
+2021.2985800000001	Spain	Greece
+2021.0385600000002	United Kingdom	Romania
+2020.9956800000002	United Kingdom	Romania
+2020.9959600000002	United Kingdom	Ireland
+2020.9235400000002	United Kingdom	France
+2021.25203	France	Spain
+2021.2246300000002	France	Spain
+2020.9644400000002	United Kingdom	USA
+2020.9651400000002	United Kingdom	Brazil
+2021.3287100000002	Brazil	Germany
+2021.1369900000002	Brazil	USA
+2021.0391800000002	United Kingdom	Serbia
+2021.2437900000002	Serbia	Poland
+2021.22187	Serbia	Croatia
+2021.3890000000001	Serbia	Switzerland
+2021.30132	Serbia	Switzerland
+2021.2191400000002	Serbia	USA
+2021.2054200000002	Serbia	Croatia
+2021.35886	Croatia	Slovenia
+2021.1556500000002	Serbia	Croatia
+2021.04771	United Kingdom	Germany
+2021.2109200000002	Germany	Slovenia
+2021.2848900000001	Germany	Switzerland
+2021.3944700000002	Germany	Russia
+2021.12434	Germany	Finland
+2021.4602300000001	Germany	Netherlands
+2021.1170900000002	Germany	Serbia
+2021.2051700000002	Germany	Slovenia
+2021.33967	Slovenia	France
+2021.28762	Germany	Switzerland
+2021.2510300000001	Germany	Belgium
+2021.2215500000002	Germany	Netherlands
+2020.9645200000002	United Kingdom	Turkey
+2021.31777	United Kingdom	Belgium
+2021.4903700000002	United Kingdom	Spain
+2021.02187	United Kingdom	Spain
+2021.0113600000002	United Kingdom	Spain
+2021.16433	Spain	Romania
+2021.2273500000001	Spain	Belgium
+2021.2054300000002	Spain	Germany
+2021.2931	United Kingdom	Spain
+2020.99449	United Kingdom	Spain
+2021.4218700000001	Spain	Russia
+2020.9835600000001	United Kingdom	Italy
+2021.16434	Italy	France
+2021.0492700000002	Italy	France
+2021.05319	United Kingdom	Italy
+2021.3232500000001	United Kingdom	Belgium
+2021.13694	United Kingdom	India
+2021.3001600000002	United Kingdom	Denmark
+2021.25006	United Kingdom	Austria
+2021.4410500000001	United Kingdom	Germany
+2021.3342000000002	United Kingdom	Belgium
+2021.05147	United Kingdom	Sweden
+2020.9948200000001	United Kingdom	Germany
+2021.0794	Germany	France
+2021.28761	France	Spain
+2021.35885	France	Romania
+2021.0503500000002	Germany	Romania
+2021.20269	Romania	Bulgaria
+2021.1409500000002	Romania	Belgium
+2021.2657000000002	Belgium	Sweden
+2021.1644700000002	Belgium	Austria
+2021.3205	Austria	Portugal
+2021.24104	Austria	Belgium
+2021.2465300000001	Austria	Germany
+2021.3177600000001	Austria	Sweden
+2021.2602200000001	United Kingdom	Austria
+2020.8911	United Kingdom	India
+2020.99449	United Kingdom	Spain
+2020.99449	Spain	Germany
+2021.01638	United Kingdom	Spain
+2021.07939	United Kingdom	Belgium
+2020.9726200000002	United Kingdom	Spain
+2021.04925	Spain	USA
+2021.08761	United Kingdom	Romania
+2021.1670600000002	United Kingdom	Italy
+2021.16432	United Kingdom	Greece
+2021.2136300000002	United Kingdom	Poland
+2021.19172	United Kingdom	France
+2021.1944600000002	United Kingdom	Italy
+2021.0695300000002	United Kingdom	Romania
+2021.0877500000001	United Kingdom	USA
+2021.2081600000001	United Kingdom	Poland
+2021.1266	United Kingdom	Pakistan
+2021.2958400000002	Pakistan	Japan
+2020.99176	United Kingdom	India
+2021.3561200000001	United Kingdom	Romania
+2021.07112	United Kingdom	Russia
+2021.0658600000002	United Kingdom	Netherlands
+2021.05474	United Kingdom	France
+2021.0794	France	United Kingdom
+2021.20268	France	Belgium
+2021.30094	United Kingdom	Japan
+2021.3177600000001	United Kingdom	Germany
+2021.25474	United Kingdom	Germany
+2021.0251	United Kingdom	Brazil
+2021.37803	Brazil	USA
+2021.3177500000002	Brazil	USA
+2021.35885	Brazil	Chile
+2021.2711800000002	United Kingdom	Pakistan
+2021.01365	United Kingdom	France
+2021.06462	United Kingdom	USA
+2021.4410500000001	United Kingdom	Russia
+2021.3095400000002	United Kingdom	Belgium
+2020.9999500000001	United Kingdom	Portugal
+2020.9671600000001	United Kingdom	Portugal
+2021.0586200000002	Portugal	Poland
+2020.9958100000001	United Kingdom	Germany
+2021.0821400000002	United Kingdom	Spain
+2021.02187	United Kingdom	Albania
+2021.3999500000002	United Kingdom	Japan
+2021.35885	United Kingdom	France
+2021.31228	United Kingdom	Spain
+2021.2473000000002	United Kingdom	Spain
+2021.2553200000002	United Kingdom	Japan
+2021.03418	United Kingdom	France
+2021.0766700000001	France	Poland
+2021.38993	France	Japan
+2021.39721	France	Ukraine
+2021.3999500000002	France	Latvia
+2021.30132	France	Netherlands
+2021.2019400000001	France	Argentina
+2021.1342100000002	France	Ukraine
+2021.1342000000002	France	Spain
+2021.39721	Spain	France
+2021.4985800000002	United Kingdom	Japan
+2021.04104	United Kingdom	India
+2021.06302	United Kingdom	Netherlands
+2021.3725600000002	Netherlands	Belgium
+2021.27942	Netherlands	Poland
+2021.2109100000002	United Kingdom	Pakistan
+2021.1333900000002	United Kingdom	Lithuania
+2021.3616000000002	Lithuania	Sweden
+2021.2821500000002	United Kingdom	France
+2021.33146	United Kingdom	Estonia
+2021.2520100000002	United Kingdom	Japan
+2021.1999600000001	United Kingdom	Poland
+2021.0958500000002	United Kingdom	Spain
+2021.0842400000001	United Kingdom	Italy
+2021.0739300000002	United Kingdom	France
+2021.24106	United Kingdom	Greece
+2021.3616100000002	United Kingdom	Japan
+2021.0355800000002	United Kingdom	France
+2021.2629800000002	France	Belgium
+2021.0444400000001	United Kingdom	France
+2021.0766700000001	France	United Kingdom
+2021.12598	United Kingdom	Germany
+2021.3095500000002	United Kingdom	Russia
+2021.1812000000002	United Kingdom	Poland
+2021.09867	United Kingdom	Germany
+2021.3095500000002	Germany	Argentina
+2021.1342100000002	United Kingdom	Italy
+2021.3479000000002	United Kingdom	Sweden
+2021.22188	United Kingdom	France
+2021.3698200000001	United Kingdom	Latvia
+2021.3232500000001	United Kingdom	USA
+2021.14516	United Kingdom	Ukraine
+2021.0602400000002	United Kingdom	Israel
+2021.0715400000001	United Kingdom	France
+2021.2054500000002	France	Ukraine
+2021.2849	France	USA
+2021.1451800000002	France	United Kingdom
+2021.1643600000002	United Kingdom	France
+2021.0711900000001	United Kingdom	Spain
+2021.0684400000002	United Kingdom	Spain
+2021.0693400000002	United Kingdom	Sweden
+2021.2438000000002	United Kingdom	Japan
+2021.0528900000002	United Kingdom	Italy
+2020.8789000000002	United Kingdom	Poland
+2021.2300900000002	Poland	Germany
+2021.2136600000001	Poland	Germany
+2021.2657100000001	Poland	Germany
+2021.2441400000002	Poland	Germany
+2020.9671700000001	Poland	Portugal
+2021.2437900000002	Poland	Germany
+2021.2711900000002	Poland	Belgium
+2021.2300900000002	Poland	Germany
+2021.3232400000002	Poland	Germany
+2021.37803	Poland	Italy
+2020.9737200000002	Poland	United Kingdom
+2021.19448	United Kingdom	Poland
+2021.3205	United Kingdom	India
+2021.27941	United Kingdom	Netherlands
+2021.2300900000002	United Kingdom	Switzerland
+2021.2219100000002	United Kingdom	Poland
+2021.34516	Poland	Germany
+2021.2848900000001	United Kingdom	Spain
+2021.2492700000003	United Kingdom	Poland
+2021.2931	United Kingdom	USA
+2021.3999500000002	USA	Mexico
+2021.4273500000002	USA	Mexico
+2021.0574800000002	United Kingdom	France
+2021.16018	United Kingdom	Poland
+2021.43009	Poland	United Kingdom
+2021.0575000000001	United Kingdom	Italy
+2021.04077	United Kingdom	Iran
+2021.27941	United Kingdom	Italy
+2021.14516	United Kingdom	Iran
+2021.0359600000002	United Kingdom	France
+2021.2027	France	Germany
+2021.20846	France	Netherlands
+2021.12598	France	Germany
+2021.2821500000002	Germany	India
+2021.2273500000001	Germany	India
+2021.18621	United Kingdom	Japan
+2021.0931	United Kingdom	Italy
+2021.1342000000002	United Kingdom	Iraq
+2021.22213	Iraq	Germany
+2021.09525	United Kingdom	USA
+2020.94954	United Kingdom	Iraq
+2021.34517	Iraq	Ecuador
+2021.17531	United Kingdom	Bulgaria
+2021.15065	United Kingdom	Poland
+2021.1940000000002	United Kingdom	Italy
+2021.39723	Italy	Switzerland
+2020.9952200000002	United Kingdom	Brazil
+2021.36434	United Kingdom	Spain
+2020.97114	United Kingdom	Brazil
+2020.99105	United Kingdom	Romania
+2021.27394	United Kingdom	Pakistan
+2021.11145	United Kingdom	Croatia
+2021.2821600000002	United Kingdom	Italy
+2020.9945100000002	United Kingdom	Turkey
+2021.20818	United Kingdom	USA
+2021.08291	United Kingdom	USA
+2021.34518	United Kingdom	Ireland
+2021.1214000000002	United Kingdom	USA
+2021.1469800000002	United Kingdom	USA
+2021.2383300000001	USA	United Kingdom
+2021.3424400000001	USA	Canada
+2021.2849	United Kingdom	Italy
+2021.2328400000001	United Kingdom	Poland
+2020.9862300000002	United Kingdom	USA
+2021.0711900000001	USA	Mexico
+2021.05663	United Kingdom	Poland
+2021.16982	Poland	Germany
+2021.1491500000002	Poland	Germany
+2021.07942	United Kingdom	France
+2021.15065	France	Switzerland
+2021.02465	United Kingdom	Poland
+2021.0418200000001	United Kingdom	Italy
+2021.39723	Italy	Japan
+2021.0789800000002	Italy	France
+2021.1835300000002	France	Germany
+2021.3013400000002	Italy	Greece
+2021.22737	Italy	Poland
+2021.2903800000001	Italy	Poland
+2021.1068200000002	Italy	Poland
+2020.9525	United Kingdom	Poland
+2021.0684600000002	Poland	Portugal
+2021.3095500000002	Poland	Netherlands
+2021.27942	Poland	Germany
+2021.3396900000002	Poland	Netherlands
+2021.25476	Poland	Netherlands
+2021.2766800000002	Poland	Netherlands
+2021.29859	Poland	France
+2021.18352	Poland	France
+2021.35886	Poland	Croatia
+2021.09859	United Kingdom	Italy
+2021.05174	United Kingdom	Poland
+2021.3205100000002	Poland	Germany
+2020.95142	United Kingdom	Brazil
+2021.06023	Brazil	United Kingdom
+2020.9644400000002	Brazil	United Kingdom
+2021.24105	United Kingdom	Brazil
+2021.3013300000002	United Kingdom	Brazil
+2021.09866	United Kingdom	Brazil
+2021.1119800000001	United Kingdom	Brazil
+2021.2191500000001	Brazil	Ireland
+2021.1725700000002	Brazil	Spain
+2020.9972300000002	United Kingdom	France
+2021.0492700000002	United Kingdom	India
+2021.02184	United Kingdom	Italy
+2021.2821600000002	Italy	France
+2021.3260000000002	Italy	Switzerland
+2021.2812500000002	Italy	France
+2021.2511700000002	Italy	United Kingdom
+2021.29312	United Kingdom	France
+2020.97537	United Kingdom	Belgium
+2021.2246100000002	United Kingdom	USA
+2021.0164000000002	United Kingdom	Ireland
+2021.0301000000002	United Kingdom	France
+2021.0301000000002	United Kingdom	Belgium
+2021.3068200000002	Belgium	France
+2021.1835300000002	Belgium	France
+2021.0876300000002	United Kingdom	Ireland
+2020.99176	United Kingdom	Ireland
+2021.04105	United Kingdom	Ireland
+2021.03878	United Kingdom	Italy
+2021.18352	Italy	Serbia
+2021.3698100000001	Italy	Russia
+2021.1670800000002	United Kingdom	Oman
+2021.2437900000002	United Kingdom	France
+2021.0355700000002	United Kingdom	Spain
+2021.05202	United Kingdom	Spain
+2021.09013	United Kingdom	France
+2021.2246200000002	United Kingdom	Bulgaria
+2021.20513	United Kingdom	Poland
+2021.35065	Poland	Netherlands
+2021.3588700000003	Poland	Netherlands
+2021.21639	United Kingdom	Netherlands
+2021.39723	United Kingdom	Ireland
+2021.1689000000001	United Kingdom	Belgium
+2021.42189	Belgium	Spain
+2020.99691	United Kingdom	India
+2021.13011	India	Germany
+2020.9999500000001	United Kingdom	Italy
+2021.22187	United Kingdom	France
+2020.9726300000002	United Kingdom	Italy
+2020.9470600000002	United Kingdom	Portugal
+2021.1066500000002	United Kingdom	Italy
+2021.10569	United Kingdom	Belgium
+2020.9808400000002	United Kingdom	Netherlands
+2021.2492800000002	United Kingdom	USA
+2021.1528200000002	United Kingdom	Poland
+2021.24654	Poland	USA
+2021.2985800000001	United Kingdom	USA
+2021.30681	United Kingdom	India
+2021.0135500000001	United Kingdom	France
+2021.37805	France	Netherlands
+2021.2246100000002	France	Switzerland
+2021.3232400000002	United Kingdom	USA
+2021.1189200000001	United Kingdom	Poland
+2021.32598	Poland	Germany
+2021.3232400000002	Poland	Germany
+2021.2711900000002	Poland	Belgium
+2021.27392	United Kingdom	Japan
+2021.0684400000002	United Kingdom	Portugal
+2021.1095400000002	United Kingdom	Portugal
+2021.0766700000001	United Kingdom	France
+2021.2246100000002	United Kingdom	Switzerland
+2021.0794	United Kingdom	France
+2021.1068000000002	United Kingdom	Germany
+2021.189	United Kingdom	Spain
+2021.0894300000002	United Kingdom	Poland
+2021.2328300000001	United Kingdom	Japan
+2021.0426200000002	United Kingdom	France
+2021.3725700000002	France	Austria
+2021.0287700000001	United Kingdom	Romania
+2021.33968	Romania	Germany
+2021.44927	Romania	Germany
+2021.3040600000002	Romania	Italy
+2021.19154	Romania	Austria
+2021.2136600000001	United Kingdom	Japan
+2021.0395300000002	United Kingdom	Italy
+2021.06429	United Kingdom	India
+2021.3999500000002	United Kingdom	Pakistan
+2021.14516	United Kingdom	Italy
+2021.2328300000001	United Kingdom	Japan
+2021.2657100000001	United Kingdom	Netherlands
+2021.0999900000002	United Kingdom	France
+2021.0492700000002	United Kingdom	France
+2021.05474	United Kingdom	Brazil
+2021.16433	United Kingdom	Poland
+2021.0684400000002	United Kingdom	Denmark
+2021.35337	United Kingdom	Latvia
+2021.2629600000002	United Kingdom	Japan
+2021.2958400000002	United Kingdom	India
+2021.2711800000002	United Kingdom	Japan
+2020.9726300000002	United Kingdom	Italy
+2021.1688900000001	United Kingdom	Japan
+2021.20268	Japan	Germany
+2021.24926	Japan	Poland
+2021.0876200000002	United Kingdom	Bangladesh
+2021.0931	United Kingdom	Italy
+2021.1095400000002	United Kingdom	Greece
+2021.2564100000002	United Kingdom	USA
+2021.31777	USA	India
+2021.08761	United Kingdom	France
+2021.22187	United Kingdom	Latvia
+2021.3478900000002	United Kingdom	Netherlands
+2021.2328200000002	United Kingdom	Latvia
+2021.23556	United Kingdom	Japan
+2021.13145	United Kingdom	Finland
+2021.2766600000002	United Kingdom	Pakistan
+2021.2931	United Kingdom	Switzerland
+2021.1616000000001	United Kingdom	Japan
+2021.2698200000002	United Kingdom	France
+2021.0690900000002	United Kingdom	France
+2021.14288	United Kingdom	USA
+2021.2109100000002	United Kingdom	Philippines
+2021.1568900000002	United Kingdom	Italy
+2020.9117500000002	United Kingdom	Italy
+2021.24654	Italy	Greece
+2021.03284	Italy	Albania
+2021.4054400000002	Italy	Switzerland
+2021.0668300000002	Italy	Germany
+2020.9644500000002	Italy	Germany
+2021.0164000000002	Italy	Spain
+2021.3588700000003	Italy	Germany
+2021.0438000000001	Italy	Albania
+2021.1835300000002	Italy	Germany
+2021.2821600000002	Italy	France
+2021.24106	Italy	Germany
+2021.27393	Italy	Switzerland
+2021.2438000000002	Italy	Greece
+2021.01764	Italy	Germany
+2021.2821600000002	Germany	Sweden
+2021.1342100000002	Germany	Greece
+2021.23558	Germany	Greece
+2021.1807900000001	Germany	Serbia
+2021.24106	Germany	Slovenia
+2021.31778	Germany	Switzerland
+2021.0575000000001	Germany	Albania
+2021.3424300000001	Germany	Romania
+2021.12471	Germany	France
+2021.1835300000002	France	Albania
+2021.4246300000002	France	Switzerland
+2021.0684600000002	Germany	Greece
+2021.1917400000002	Germany	Albania
+2021.34517	Germany	Austria
+2021.1972200000002	Germany	Netherlands
+2021.2629800000002	Germany	Slovenia
+2021.2986	Germany	Denmark
+2021.2684600000002	Germany	Switzerland
+2021.2003000000002	Germany	Switzerland
+2021.23215	Switzerland	Germany
+2021.3150300000002	Germany	Austria
+2021.3588700000003	Germany	Austria
+2021.2951200000002	Germany	Switzerland
+2021.2288500000002	Germany	Sweden
+2021.2532800000001	Sweden	Germany
+2021.0766700000001	United Kingdom	Albania
+2021.11391	United Kingdom	Netherlands
+2021.34516	United Kingdom	Canada
+2021.3999600000002	United Kingdom	Spain
+2021.3479000000002	United Kingdom	Turkey
+2021.37804	United Kingdom	Taiwan
+2021.10245	United Kingdom	Germany
+2021.22188	Germany	Italy
+2021.1412900000003	United Kingdom	Greece
+2021.0831300000002	United Kingdom	Croatia
+2021.4301	Croatia	Norway
+2021.1862	United Kingdom	Italy
+2021.2575000000002	United Kingdom	USA
+2021.22736	United Kingdom	Netherlands
+2021.0135200000002	United Kingdom	Spain
+2020.9583900000002	United Kingdom	Spain
+2020.9507800000001	United Kingdom	France
+2021.26023	United Kingdom	Moldova
+2021.1323200000002	United Kingdom	Belgium
+2021.1843400000002	Belgium	Portugal
+2021.22323	Portugal	Luxembourg
+2021.0574900000001	United Kingdom	Israel
+2021.3944700000002	United Kingdom	Greece
+2021.1150200000002	United Kingdom	France
+2021.2246100000002	France	Belgium
+2021.1862500000002	United Kingdom	Greece
+2021.08488	United Kingdom	Russia
+2021.1642700000002	Russia	France
+2021.2903600000002	France	India
+2021.20817	France	Italy
+2021.1725600000002	France	Germany
+2021.25232	Germany	France
+2021.24106	United Kingdom	USA
+2021.2246200000002	United Kingdom	Japan
+2021.2054500000002	United Kingdom	Japan
+2021.0972800000002	United Kingdom	Pakistan
+2021.2492800000002	Pakistan	Japan
+2020.9808400000002	United Kingdom	France
+2021.26845	United Kingdom	Germany
+2021.2054300000002	United Kingdom	Netherlands
+2021.20818	United Kingdom	Poland
+2021.3013300000002	United Kingdom	Germany
+2021.2629800000002	United Kingdom	Poland
+2021.3479200000002	United Kingdom	France
+2021.2629900000002	United Kingdom	France
+2021.0660400000002	United Kingdom	Croatia
+2021.2029100000002	Croatia	Germany
+2021.3040700000001	Germany	Switzerland
+2021.3013300000002	Germany	Croatia
+2021.25475	United Kingdom	Poland
+2021.11166	United Kingdom	Lithuania
+2021.3561200000001	Lithuania	Sweden
+2021.27392	Lithuania	Germany
+2021.32599	United Kingdom	Italy
+2021.0478600000001	United Kingdom	India
+2021.2629700000002	United Kingdom	India
+2021.2210900000002	United Kingdom	India
+2021.31777	United Kingdom	India
+2021.1862600000002	United Kingdom	India
+2021.3369400000001	United Kingdom	Germany
+2021.26023	United Kingdom	Poland
+2021.0179	United Kingdom	Poland
+2021.24106	Poland	Belgium
+2021.22188	Poland	Germany
+2021.24105	Poland	Netherlands
+2021.27941	United Kingdom	Austria
+2021.0471900000002	United Kingdom	Germany
+2021.12598	Germany	Kenya
+2021.24105	United Kingdom	Poland
+2021.15612	United Kingdom	USA
+2021.2520100000002	United Kingdom	Japan
+2021.3944700000002	United Kingdom	Japan
+2021.1944700000001	United Kingdom	France
+2020.9855200000002	United Kingdom	Slovakia
+2021.16434	United Kingdom	Poland
+2021.07436	United Kingdom	Poland
+2021.2903600000002	Poland	Slovenia
+2021.3479000000002	United Kingdom	France
+2021.3478900000002	United Kingdom	Japan
+2021.1182900000001	United Kingdom	Turkey
+2021.3698100000001	Turkey	Norway
+2021.1275300000002	United Kingdom	France
+2021.2629600000002	United Kingdom	Romania
+2021.1670700000002	United Kingdom	France
+2021.36433	United Kingdom	Japan
+2021.18351	United Kingdom	Germany
+2021.3835100000001	United Kingdom	France
+2021.2848800000002	United Kingdom	Italy
+2021.1691	United Kingdom	Japan
+2021.07057	United Kingdom	Romania
+2021.0878900000002	United Kingdom	Poland
+2021.2986	United Kingdom	France
+2020.9644500000002	United Kingdom	Portugal
+2021.2355900000002	United Kingdom	Belgium
+2021.08419	United Kingdom	Romania
+2021.3260000000002	Romania	Germany
+2021.1360100000002	United Kingdom	Germany
+2021.0876300000002	United Kingdom	Germany
+2021.0106300000002	United Kingdom	Germany
+2021.1588700000002	Germany	Croatia
+2021.27942	Germany	Poland
+2020.9298400000002	United Kingdom	Italy
+2021.19449	Italy	Greece
+2021.23105	Italy	Slovenia
+2020.95754	Italy	Albania
+2021.0355800000002	Albania	Greece
+2021.27942	Italy	USA
+2021.0925800000002	Italy	Greece
+2021.08752	Italy	Greece
+2021.05203	Italy	Germany
+2021.0109300000001	Italy	United Kingdom
+2021.03285	United Kingdom	Poland
+2021.1123000000002	Poland	Spain
+2021.2903800000001	Spain	Italy
+2021.2438100000002	Italy	Germany
+2021.0760500000001	Italy	Germany
+2021.3944900000001	Germany	Austria
+2021.1862700000001	Italy	Germany
+2021.0647600000002	Italy	Greece
+2021.2438000000002	Italy	France
+2021.3287300000002	Italy	France
+2021.1780400000002	Italy	Greece
+2021.23285	United Kingdom	France
+2021.2629800000002	United Kingdom	Bulgaria
+2021.18882	United Kingdom	Romania
+2021.3123	United Kingdom	Germany
+2021.1835300000002	United Kingdom	Poland
+2021.22737	Poland	Germany
+2021.09038	United Kingdom	France
+2021.0270500000001	United Kingdom	Romania
+2021.14441	Romania	Belgium
+2021.3670900000002	Belgium	France
+2021.31778	Romania	Belgium
+2021.09696	Romania	Belgium
+2021.13696	Belgium	France
+2021.3588800000002	France	Germany
+2021.2903800000001	France	Germany
+2020.9702100000002	United Kingdom	Germany
+2021.02493	Germany	Romania
+2021.25476	Romania	United Kingdom
+2021.0089	Germany	United Kingdom
+2021.22188	United Kingdom	Romania
+2021.3040700000001	United Kingdom	Poland
+2021.07795	United Kingdom	Ecuador
+2021.1479000000002	Ecuador	Chile
+2021.2109100000002	United Kingdom	Ecuador
+2021.36433	United Kingdom	Ecuador
+2021.1676800000002	United Kingdom	Switzerland
+2021.2766600000002	United Kingdom	Pakistan
+2021.12598	United Kingdom	Qatar
+2021.1075700000001	United Kingdom	India
+2021.15064	United Kingdom	Sweden
+2021.11776	United Kingdom	Indonesia
+2021.24105	United Kingdom	France
+2021.1122300000002	United Kingdom	Qatar
+2021.2109200000002	Qatar	India
+2021.1734500000002	United Kingdom	USA
+2021.3424200000002	United Kingdom	Netherlands
+2021.1189100000001	United Kingdom	Romania
+2021.1390000000001	United Kingdom	Sweden
+2021.0851900000002	United Kingdom	Ecuador
+2021.2576600000002	Ecuador	Austria
+2021.3944700000002	Austria	Turkey
+2021.1396800000002	Ecuador	Iraq
+2021.1013300000002	Ecuador	United Kingdom
+2021.2246200000002	Ecuador	Qatar
+2021.2629700000002	Ecuador	Spain
+2021.1862500000002	Ecuador	Russia
+2021.2903800000001	United Kingdom	France
+2021.31778	United Kingdom	Netherlands
+2021.0958600000001	United Kingdom	Sweden
+2021.09038	United Kingdom	France
+2021.2191500000001	United Kingdom	France
+2021.2054500000002	United Kingdom	Ukraine
+2021.2109300000002	United Kingdom	Moldova
+2021.1203500000001	United Kingdom	Switzerland
+2021.22189	United Kingdom	France
+2021.2191500000001	United Kingdom	Austria
+2021.33122	United Kingdom	Germany
+2021.0054400000001	United Kingdom	France
+2021.2164000000002	United Kingdom	India
+2021.0054400000001	United Kingdom	Portugal
+2020.9939100000001	United Kingdom	Poland
+2021.189	Poland	Germany
+2021.28763	Poland	Netherlands
+2021.19478	Poland	Netherlands
+2021.35064	Poland	Germany
+2021.27393	Poland	Russia
+2021.2109200000002	Poland	Germany
+2021.2465300000001	Poland	Germany
+2021.3944800000002	United Kingdom	France
+2021.1332300000001	United Kingdom	Netherlands
+2021.0629600000002	United Kingdom	France
+2021.11777	United Kingdom	Romania
+2021.0164000000002	United Kingdom	Albania
+2021.2483100000002	United Kingdom	Malaysia
+2021.30408	Malaysia	Indonesia
+2020.98808	United Kingdom	France
+2021.3205100000002	France	Spain
+2021.0273700000002	France	United Kingdom
+2021.3137600000002	France	Spain
+2021.1451800000002	France	Ukraine
+2021.3972400000002	France	Italy
+2021.1588800000002	France	United Kingdom
+2021.45478	France	Spain
+2021.2547800000002	France	Kazakhstan
+2021.15064	United Kingdom	Italy
+2021.26845	United Kingdom	Germany
+2021.2027	United Kingdom	Poland
+2021.0786100000003	United Kingdom	Italy
+2021.1133900000002	United Kingdom	Italy
+2021.3396900000002	Italy	Belgium
+2020.97538	United Kingdom	France
+2021.06319	United Kingdom	Spain
+2021.3013400000002	United Kingdom	Japan
+2020.94441	United Kingdom	Spain
+2020.9639200000001	Spain	United Kingdom
+2021.0602400000002	United Kingdom	Ecuador
+2021.05751	United Kingdom	Ecuador
+2021.0164100000002	Spain	Ecuador
+2021.15065	Spain	France
+2021.2849	Spain	India
+2021.3068200000002	India	Bulgaria
+2021.1507500000002	United Kingdom	France
+2021.0164100000002	United Kingdom	Spain
+2021.3725800000002	United Kingdom	Spain
+2021.1894800000002	United Kingdom	Poland
+2021.1123000000002	United Kingdom	Russia
+2021.4520200000002	United Kingdom	Netherlands
+2021.1643500000002	United Kingdom	Russia
+2021.26025	United Kingdom	France
+2021.3260000000002	United Kingdom	Germany
+2021.2958600000002	United Kingdom	Poland
+2021.0051400000002	United Kingdom	Germany
+2021.38354	Germany	Netherlands
+2021.0492900000002	Germany	Portugal
+2021.1147700000001	Portugal	France
+2021.2849	France	Portugal
+2021.2821600000002	United Kingdom	Germany
+2021.3232600000001	United Kingdom	Russia
+2021.0923500000001	United Kingdom	Kazakhstan
+2021.23592	United Kingdom	Netherlands
+2021.1341800000002	United Kingdom	Germany
+2021.2821600000002	United Kingdom	Germany
+2021.18901	United Kingdom	Estonia
+2021.50134	United Kingdom	Italy
+2021.2684700000002	United Kingdom	India
+2021.2027100000003	United Kingdom	Italy
+2021.1341800000002	United Kingdom	France
+2021.1260000000002	United Kingdom	Canada
+2021.02356	United Kingdom	France
+2021.0109300000001	United Kingdom	Spain
+2021.3287400000002	United Kingdom	France
+2021.0767700000001	United Kingdom	Greece
+2021.3013400000002	United Kingdom	India
+2021.31778	United Kingdom	France
+2020.9769700000002	United Kingdom	Spain
+2021.33697	Spain	Netherlands
+2021.3397100000002	Spain	Germany
+2021.4246400000002	Spain	France
+2021.24655	United Kingdom	Germany
+2020.9983900000002	United Kingdom	Argentina
+2021.0861400000001	Argentina	Mexico
+2021.3808000000001	Mexico	USA
+2021.34309	Argentina	Chile
+2021.3807800000002	Chile	Brazil
+2021.2821700000002	United Kingdom	France
+2021.1151900000002	United Kingdom	Pakistan
+2021.2958600000002	Pakistan	Japan
+2021.18839	Pakistan	Japan
+2021.23285	Pakistan	Germany
+2021.3260000000002	Pakistan	Japan
+2021.19819	United Kingdom	Japan
+2021.0325500000001	United Kingdom	France
+2021.2958700000001	France	Belgium
+2020.99593	United Kingdom	Spain
+2021.36436	Spain	Germany
+2021.0904	United Kingdom	Israel
+2021.2547800000002	United Kingdom	Russia
+2021.2202100000002	United Kingdom	Germany
+2021.44656	United Kingdom	Russia
+2021.1588900000002	United Kingdom	Slovakia
+2021.08147	United Kingdom	Switzerland
+2021.3178	Switzerland	Luxembourg
+2021.06689	United Kingdom	Spain
+2021.3205300000002	United Kingdom	France
+2021.1506700000002	United Kingdom	Belarus
+2021.2109500000001	United Kingdom	Ireland
+2021.1451900000002	United Kingdom	Ukraine
+2021.2082400000002	United Kingdom	France
+2021.3862900000001	France	Japan
+2021.2739500000002	United Kingdom	Poland
+2021.36984	United Kingdom	Belgium
+2021.1735600000002	United Kingdom	Poland
+2021.3451900000002	Poland	Germany
+2021.08923	United Kingdom	Romania
+2021.3287500000001	Romania	Portugal
+2021.19432	Romania	Spain
+2021.2027200000002	United Kingdom	Poland
+2021.3945	United Kingdom	Italy
+2021.2410800000002	United Kingdom	Russia
+2021.1695700000002	United Kingdom	Belgium
+2021.2493000000002	Belgium	Moldova
+2021.34245	United Kingdom	Greece
+2021.35615	United Kingdom	Ecuador
+2021.1890300000002	United Kingdom	Poland
+2021.18081	United Kingdom	Japan
+2021.3205400000002	United Kingdom	Pakistan
+2021.0301200000001	United Kingdom	Spain
+2021.3808000000001	United Kingdom	Japan
+2021.15099	United Kingdom	Germany
+2021.1917600000002	United Kingdom	Spain
+2021.16882	United Kingdom	Latvia
+2021.01167	United Kingdom	Italy
+2021.2301200000002	Italy	USA
+2021.1114300000002	Italy	Germany
+2021.18179	Italy	Greece
+2021.3835500000002	Italy	Switzerland
+2021.1068400000001	Italy	Turkey
+2021.09039	Italy	Germany
+2021.12327	Italy	United Kingdom
+2021.2082	Italy	Germany
+2021.1414200000002	Italy	Brazil
+2021.17532	Italy	Serbia
+2021.2492900000002	Italy	Greece
+2021.25203	Italy	France
+2021.1862800000001	Italy	Turkey
+2021.1177900000002	Italy	Germany
+2021.29861	Germany	Slovakia
+2021.0381100000002	Italy	Romania
+2021.1643700000002	Romania	Italy
+2021.07121	Romania	Ireland
+2021.07121	Romania	Ireland
+2021.27121	Italy	Germany
+2021.4191600000001	Italy	Switzerland
+2021.4054600000002	Italy	Bulgaria
+2021.31779	Italy	Germany
+2021.2411800000002	Italy	India
+2021.3780600000002	India	Switzerland
+2021.4712100000002	India	Portugal
+2021.3150500000002	Italy	Croatia
+2021.2547800000002	Italy	Switzerland
+2021.0987300000002	Italy	Greece
+2021.2794400000002	Italy	Switzerland
+2021.1778900000002	Italy	Germany
+2021.30958	Germany	Switzerland
+2021.30409	Germany	Switzerland
+2021.2821700000002	Italy	France
+2021.3123100000003	Italy	Greece
+2021.24656	Italy	Austria
+2021.3671100000001	Italy	Croatia
+2021.2344	Italy	Bulgaria
+2021.2547800000002	Bulgaria	Estonia
+2021.1588900000002	Italy	Greece
+2021.12919	Italy	USA
+2021.22738	USA	Germany
+2021.2301200000002	Germany	Luxembourg
+2021.11505	United Kingdom	Poland
+2021.11505	Poland	Germany
+2021.01358	United Kingdom	Spain
+2020.99717	United Kingdom	Spain
+2021.1835500000002	Spain	France
+2021.0767	Spain	Romania
+2021.2027300000002	Spain	United Kingdom
+2021.0221600000002	Spain	Pakistan
+2021.1917700000001	Pakistan	Japan
+2021.07841	Pakistan	Germany
+2021.4356000000002	Germany	France
+2021.3205300000002	Pakistan	Japan
+2021.28959	Pakistan	Greece
+2021.2532	Pakistan	USA
+2021.3013500000002	Pakistan	Japan
+2021.27121	Pakistan	Canada
+2021.2876600000002	Pakistan	Japan
+2021.3287500000001	Pakistan	Spain
+2021.04402	Spain	United Kingdom
+2021.36164	United Kingdom	Croatia
+2021.35616	United Kingdom	Spain
+2021.2547900000002	United Kingdom	France
+2021.2141800000002	United Kingdom	India
+2021.2219100000002	United Kingdom	Finland
+2021.39451	United Kingdom	Japan
+2021.1534100000001	United Kingdom	Ukraine
+2021.0794700000001	United Kingdom	France
+2021.1310400000002	United Kingdom	Kenya
+2021.36985	Kenya	Indonesia
+2021.30958	Kenya	Philippines
+2021.20962	United Kingdom	USA
+2021.11911	United Kingdom	France
+2021.1890300000002	France	Portugal
+2021.3178	France	Russia
+2021.21369	France	Estonia
+2021.36164	France	Italy
+2021.2876700000002	France	Russia
+2021.25753	France	Germany
+2021.2027200000002	United Kingdom	Germany
+2021.20766	United Kingdom	France
+2021.33148	France	Spain
+2021.1099100000001	United Kingdom	France
+2021.21369	France	Russia
+2021.0849200000002	United Kingdom	Romania
+2021.07292	United Kingdom	France
+2021.1353900000001	France	Russia
+2021.2054600000001	Russia	Ukraine
+2021.1451900000002	France	Ukraine
+2021.41369	France	Poland
+2021.11505	France	Turkey
+2021.2301200000002	France	Russia
+2021.25978	France	Belgium
+2021.19223	France	Japan
+2020.9726600000001	United Kingdom	France
+2020.97573	United Kingdom	Italy
+2020.9781300000002	Italy	Germany
+2020.99179	Italy	United Kingdom
+2020.9999900000003	United Kingdom	Portugal
+2021.01917	United Kingdom	France
+2021.1400700000002	United Kingdom	Kazakhstan
+2021.26025	United Kingdom	Romania
+2021.2728700000002	United Kingdom	USA
+2021.4164200000002	USA	Mexico
+2021.27943	United Kingdom	India
+2021.1461100000001	United Kingdom	France
+2021.3095600000001	France	Spain
+2021.1451900000002	United Kingdom	Ukraine
+2021.1698400000002	United Kingdom	France
+2021.1835400000002	United Kingdom	Poland
+2021.2191500000001	United Kingdom	USA
+2021.29861	United Kingdom	Iran
+2021.30409	United Kingdom	USA
+2021.30409	United Kingdom	Japan
+2021.3260000000002	United Kingdom	Spain
+2021.526	United Kingdom	Japan
+2021.1639900000002	United Kingdom	Japan
+2021.0219000000002	United Kingdom	France
+2021.0301200000001	United Kingdom	Spain
+2021.07121	United Kingdom	USA
+2021.0958600000001	United Kingdom	Spain
+2021.0849	United Kingdom	Spain
+2021.1628	Spain	United Kingdom
+2021.2629800000002	United Kingdom	Sweden
+2021.2576700000002	United Kingdom	India
+2021.31778	India	Pakistan
+2021.3369500000001	India	Austria
+2021.1725700000002	United Kingdom	France
+2021.16983	United Kingdom	Moldova
+2021.18901	United Kingdom	Netherlands
+2021.44107	United Kingdom	USA
+2021.3950800000002	United Kingdom	Japan
+2021.2191500000001	United Kingdom	Austria
+2021.22737	United Kingdom	Sweden
+2021.24655	United Kingdom	USA
+2021.2821700000002	USA	India
+2021.33696	India	Italy
+2021.39723	Italy	Spain
+2021.4054500000002	Spain	Slovenia
+2021.12984	United Kingdom	Japan
+2021.1847000000002	Japan	Poland
+2021.3287400000002	Poland	Germany
+2021.3356800000001	Poland	Japan
+2021.1654800000001	Japan	Italy
+2021.29861	Italy	France
+2021.3013600000002	Italy	France
+2021.3616200000001	Japan	Belgium
+2021.1725800000002	Japan	Italy
+2021.22737	Italy	Spain
+2021.2114600000002	Japan	Spain
